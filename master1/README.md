@@ -6,7 +6,7 @@
 
 ### [DataAnalysis](/master1/DataAnalysis) `R`
 
-### [OlympicGames_DataVizualization&Manipulation](/master1/OlympicGames_DataVizualization&Manipulation) `Python / R`
+### [OlympicGames_DataVizualization_Manipulation](/master1/OlympicGames_DataVizualization_Manipulation) `Python / R`
 
 ### [OlympicGames_NonRelationalDatabase](/master1/OlympicGames_NonRelationalDatabase) `JavaScript / D3.js / Docker / GraphQL / JSON / HTML / CSS`
 
