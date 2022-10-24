@@ -1,8 +1,10 @@
-# Projets universitaires
+# Projets universitaires / University Projects
 
 Ces projets ne sont pas publiés à but d'être éxecutés mais simplement visionner pour mon dossier étudiant. Et me permet de former mon portfolio.
 
-#### Voici quelques projets que j'ai développé au cours de mes années à la faculté de Caen
+These projects are not published in order to be executed but simply to view for my student file. And allows me to form my portfolio.
+
+#### Voici quelques projets que j'ai développé au cours de mes années à la faculté de Caen / Here are some projects that I developed during my years at the faculty of Caen
 
 ### [Licence 1 - Informatique / First year in University degree in computer science](/licence1)
 
