@@ -13,7 +13,7 @@ This project was not to be realized for the faculty but allowed me to understand
 ## Démonstration / Demonstration
 
 - https://dev-21811309.users.info.unicaen.fr/Master_1/bdd/zoomable-sunburst/
-- https://dev-21811309.users.info.unicaen.fr/Master_1/bdd/bar-chart-race/
+- https://dev-21811309.users.info.unicaen.fr/Master_1/bdd/bar-chart-race/ → J'ai seulement changé le graphique (d'où les textes non correspondant au graphique) et les données affichés sont les médailles gagnées au JO par pays / I only changed the graph (hence the texts not corresponding to the graph) and the data displayed are the medals won at the Olympic Games by country
 
 ## Prérequis / Requirements
 
