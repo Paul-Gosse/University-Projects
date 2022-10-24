@@ -10,6 +10,6 @@
 
 ### [OlympicGames_NonRelationalDatabase](/master1/OlympicGames_NonRelationalDatabase) `JavaScript / D3.js / Docker / GraphQL / JSON / HTML / CSS`
 
-### [PhotoGallery&Metadata_FullStackWebsite](/master1/PhotoGallery&Metadata_FullStackWebsite) `PHP / JavaScript HTML / CSS / MySQL`
+### [PhotoGallery_Metadata_FullStackWebsite](/master1/PhotoGallery_Metadata_FullStackWebsite) `PHP / JavaScript HTML / CSS / MySQL`
 
 ### [WildAnimalsCommunity_FullStackWebsite](/master1/WildAnimalsCommunity_FullStackWebsite) `PHP / JavaScript HTML / CSS / Twig / MySQL`
