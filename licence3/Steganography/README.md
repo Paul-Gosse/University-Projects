@@ -4,7 +4,7 @@
 | ----------- | ------------------ |
 | 2020 - 2021 | University of Caen |
 
-### Contexte /Context
+## Contexte /Context
 
 Vous êtes un agent travaillant pour des renseignements (DGSE, mossad...).
 Vos collègues effectuent des missions clandestines : ils doivent pouvoir communiquer entre continent sans être repéré.
@@ -12,7 +12,7 @@ Vos collègues effectuent des missions clandestines : ils doivent pouvoir commun
 You are an agent working for information (DGSE, mossad...).
 Your colleagues carry out clandestine missions: they must be able to communicate between continents without being spotted.
 
-### Objectif / Objective
+## Objectif / Objective
 
 Rechercher des moyens originaux (et donc probablement moins surveillés), non suspect par rapport à une activité normale, pour envoyer et peut-être même recevoir des messages / informations. On pourra se baser sur des protocoles ou applications existantes, chiffrés de base, et y ajouter des extensions / fonctionnalités / protocoles personnalisés proches cachés pour ne pas mettre en danger le clandestin.
 
@@ -74,7 +74,7 @@ With steg_texte.ipnyb:
 
 - a display on Jupyter
 
-### Prérequis / Requirements
+## Prérequis / Requirements
 
 - Python
 - Jupyter
