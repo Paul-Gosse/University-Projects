@@ -4,18 +4,18 @@
 | ---------- | ------------------ |
 | 2020- 2021 | University of Caen |
 
-### Objectif / Objective
+## Objectif / Objective
 
 Réaliser une application en VueJS d'une todoList.
 
 Create a VueJS application of a todoList.
 
-### Prérequis / Requirements
+## Prérequis / Requirements
 
 - VueJS
 - Tailwind CSS
 
-### Usage / Usage
+## Usage / Usage
 
 Si jamais vous avez des soucis pour le run placez vous dans ~/dev_mobile_projet/todolist/
 Et exécuter la commande suivante.
