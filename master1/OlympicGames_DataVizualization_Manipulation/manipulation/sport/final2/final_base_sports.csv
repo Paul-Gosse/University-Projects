@@ -1,0 +1,750 @@
+Season,Sport,Discipline,Event
+Winter,Biathlon,Biathlon,Military Patrol
+Winter,Bobsleigh,Bobsleigh,Four-Man
+Winter,Curling,Curling,Curling
+Winter,Ice Hockey,Ice Hockey,Ice Hockey
+Winter,Skating,Figure skating,Individual
+Winter,Skating,Figure skating,Pairs
+Winter,Skating,Speed skating,10000M
+Winter,Skating,Speed skating,1500M
+Winter,Skating,Speed skating,5000M
+Winter,Skating,Speed skating,500M
+Winter,Skating,Speed skating,Combined (4 Events)
+Winter,Skiing,Cross Country Skiing,18KM
+Winter,Skiing,Cross Country Skiing,50KM
+Winter,Skiing,Ski Jumping,K90 Individual (70M)
+Winter,Bobsleigh,Bobsleigh,Five-Man
+Winter,Bobsleigh,Bobsleigh,Two-Man
+Winter,Skiing,Alpine Skiing,Alpine Combined
+Winter,Skiing,Cross Country Skiing,4X10KM Relay
+Winter,Skiing,Alpine Skiing,Downhill
+Winter,Skiing,Alpine Skiing,Slalom
+Winter,Skiing,Alpine Skiing,Giant Slalom
+Winter,Skiing,Cross Country Skiing,10KM
+Winter,Skiing,Cross Country Skiing,15KM
+Winter,Skiing,Cross Country Skiing,30KM Mass Start
+Winter,Skiing,Cross Country Skiing,3X5KM Relay
+Winter,Biathlon,Biathlon,20KM
+Winter,Skating,Speed skating,1000M
+Winter,Skating,Speed skating,3000M
+Winter,Luge,Luge,Doubles
+Winter,Luge,Luge,Singles
+Winter,Skiing,Cross Country Skiing,5KM
+Winter,Skiing,Ski Jumping,K120 Individual (90M)
+Winter,Biathlon,Biathlon,4X7.5KM Relay
+Winter,Skating,Figure skating,Ice Dancing
+Winter,Skiing,Cross Country Skiing,4X5KM Relay
+Winter,Skiing,Alpine Skiing,Super-G
+Winter,Skiing,Nordic Combined,Team
+Winter,Skiing,Ski Jumping,K120 Team (90M)
+Winter,Biathlon,Biathlon,7.5KM
+Winter,Skating,Short Track Speed Skating,3000M Relay
+Winter,Skating,Short Track Speed Skating,5000M Relay
+Winter,Skiing,Cross Country Skiing,10KM Pursuit
+Winter,Skiing,Cross Country Skiing,15KM Mass Start
+Winter,Skiing,Cross Country Skiing,30KM
+Winter,Skiing,Cross Country Skiing,Combined 10KM + 15KM Pursuit
+Winter,Skiing,Cross Country Skiing,Combined 5KM + 10KM Pursuit
+Winter,Skiing,Freestyle Skiing,Moguls
+Winter,Skiing,Freestyle Skiing,Aerials
+Winter,Skiing,Snowboard,Giant-Slalom
+Winter,Skiing,Snowboard,Half-Pipe
+Winter,Biathlon,Biathlon,12.5Km Pursuit
+Winter,Skiing,Cross Country Skiing,5Km Pursuit
+Winter,Skiing,Cross Country Skiing,Sprint 1.5KM
+Winter,Skiing,Nordic Combined,Sprint
+Winter,Skiing,Snowboard,Giant Parallel Slalom
+Winter,Biathlon,Biathlon,12.5KM Mass Start
+Winter,Biathlon,Biathlon,4X6KM Relay
+Winter,Skating,Speed skating,Team Pursuit
+Winter,Skiing,Cross Country Skiing,Combined 15 + 15KM Mass Start
+Winter,Skiing,Cross Country Skiing,Combined 7.5 + 7.5Km Mass Start
+Winter,Skiing,Cross Country Skiing,Team Sprint
+Winter,Skiing,Nordic Combined,Individual Sprint
+Winter,Skiing,Snowboard,Snowboard Cross
+Winter,Skiing,Alpine Skiing,Super Combined
+Winter,Skiing,Freestyle Skiing,Ski Cross
+Winter,Skiing,Nordic Combined,"Individual, Ski Jumping K90 (70M)"
+Winter,Skiing,Nordic Combined,Sprint K120
+Winter,Skiing,Nordic Combined,"Team, 4X5 KM"
+Winter,Biathlon,Biathlon,Relay Mix
+Winter,Bobsleigh,Bobsleigh,Two-Woman
+Winter,Luge,Luge,Mixed Relay
+Winter,Skiing,Cross Country Skiing,Combined 15+15K
+Winter,Skiing,Cross Country Skiing,Combined7.5+7.5
+Winter,Skiing,Freestyle Skiing,Ski Halfpipe
+Winter,Skiing,Freestyle Skiing,Ski Slopestyle
+Winter,Skiing,Nordic Combined,Ind. K90 (70M)
+Winter,Skiing,Ski Jumping,Large Hill
+Winter,Skiing,Ski Jumping,Normal Hill
+Winter,Skiing,Ski Jumping,Teams
+Winter,Skiing,Ski Jumping,K90 Individual
+Winter,Skiing,Snowboard,Giant Parall.S.
+Winter,Skiing,Snowboard,Parallel Slalom
+Winter,Skiing,Snowboard,Slopestyle
+Summer,Aquatics,Swimming,100M Freestyle
+Summer,Aquatics,Swimming,100M Freestyle For Sailors
+Summer,Aquatics,Swimming,1200M Freestyle
+Summer,Aquatics,Swimming,400M Freestyle
+Summer,Athletics,Athletics,100M
+Summer,Athletics,Athletics,110M Hurdles
+Summer,Athletics,Athletics,1500M
+Summer,Athletics,Athletics,400M
+Summer,Athletics,Athletics,800M
+Summer,Athletics,Athletics,Discus Throw
+Summer,Athletics,Athletics,High Jump
+Summer,Athletics,Athletics,Long Jump
+Summer,Athletics,Athletics,Marathon
+Summer,Athletics,Athletics,Pole Vault
+Summer,Athletics,Athletics,Shot Put
+Summer,Athletics,Athletics,Triple Jump
+Summer,Cycling,Cycling Road,Individual Road Race
+Summer,Cycling,Cycling Track,100KM
+Summer,Cycling,Cycling Track,10KM
+Summer,Cycling,Cycling Track,12-Hour Race
+Summer,Cycling,Cycling Track,1KM Time Trial
+Summer,Cycling,Cycling Track,Sprint Indivual
+Summer,Fencing,Fencing,Foil Individual
+Summer,Fencing,Fencing,"Foil, Masters"
+Summer,Fencing,Fencing,Sabre Individual
+Summer,Gymnastics,Artistic G.,Horizontal Bar
+Summer,Gymnastics,Artistic G.,Parallel Bars
+Summer,Gymnastics,Artistic G.,Pommel Horse
+Summer,Gymnastics,Artistic G.,Rings
+Summer,Gymnastics,Artistic G.,Rope Climbing
+Summer,Gymnastics,Artistic G.,"Team, Horizontal Bar"
+Summer,Gymnastics,Artistic G.,"Team, Parallel Bars"
+Summer,Gymnastics,Artistic G.,Vault
+Summer,Shooting,Shooting,25M Army Pistol
+Summer,Shooting,Shooting,25M Rapid Fire Pistol (60 Shots)
+Summer,Shooting,Shooting,50M Pistol (60 Shots)
+Summer,Shooting,Shooting,"Army Rifle, 200M"
+Summer,Shooting,Shooting,"Army Rifle, 300M"
+Summer,Tennis,Tennis,Doubles
+Summer,Tennis,Tennis,Singles
+Summer,Weightlifting,Weightlifting,Heavyweight - One Hand Lift
+Summer,Weightlifting,Weightlifting,Heavyweight - Two Hand Lift
+Summer,Wrestling,Wrestling Gre-R,Open Event
+Summer,Aquatics,Swimming,1500M Freestyle
+Summer,Aquatics,Swimming,200M Backstroke
+Summer,Aquatics,Swimming,200M Freestyle
+Summer,Aquatics,Swimming,200M Obstacle Event
+Summer,Aquatics,Swimming,200M Team Swimming
+Summer,Aquatics,Swimming,4000M Freestyle
+Summer,Aquatics,Swimming,Underwater Swimming
+Summer,Aquatics,Water polo,Water Polo
+Summer,Archery,Archery,"Au Chapelet, 33M"
+Summer,Archery,Archery,"Au Chapelet, 50M"
+Summer,Archery,Archery,"Au Cordon Doré, 33M"
+Summer,Archery,Archery,"Au Cordon Doré, 50M"
+Summer,Archery,Archery,Sur La Perche À La Herse
+Summer,Archery,Archery,Sur La Perche À La Pyramide
+Summer,Athletics,Athletics,200M
+Summer,Athletics,Athletics,200M Hurdles
+Summer,Athletics,Athletics,3000M Steeplechase
+Summer,Athletics,Athletics,4000M Steeplechase
+Summer,Athletics,Athletics,400M Hurdles
+Summer,Athletics,Athletics,5000M Team
+Summer,Athletics,Athletics,60M
+Summer,Athletics,Athletics,Hammer Throw
+Summer,Athletics,Athletics,"High Jump, Standing"
+Summer,Athletics,Athletics,"Long Jump, Standing"
+Summer,Athletics,Athletics,"Triple Jump, Standing"
+Summer,Basque Pelota,Basque Pelota,Cesta Punta
+Summer,Cricket,Cricket,Cricket
+Summer,Croquet,Croquet,Double
+Summer,Croquet,Croquet,Individual 1 Ball
+Summer,Croquet,Croquet,Individual 2 Balls
+Summer,Cycling,Cycling Track,25 Kilometres
+Summer,Equestrian,Jumping,Individual
+Summer,Equestrian,Jumping,Long Jump Individual
+Summer,Fencing,Fencing,Épée Individual
+Summer,Fencing,Fencing,"Épée, Amateurs And Masters"
+Summer,Fencing,Fencing,"Épée, Masters"
+Summer,Fencing,Fencing,"Sabre, Masters"
+Summer,Football,Football,Football
+Summer,Gymnastics,Artistic G.,Individual All-Round
+Summer,Polo,Polo,Polo
+Summer,Rowing,Rowing,Eight With Coxswain (8+)
+Summer,Rowing,Rowing,Four-Oared Shell With Coxswain (4-)
+Summer,Rowing,Rowing,Pair-Oared Shell With Coxswain (2+)
+Summer,Rowing,Rowing,Single Sculls (1X)
+Summer,Rugby,Rugby,Rugby
+Summer,Sailing,Sailing,0.5-1T
+Summer,Sailing,Sailing,10-20T
+Summer,Sailing,Sailing,3-10T
+Summer,Sailing,Sailing,Open Class
+Summer,Shooting,Shooting,"50M Army Pistol, Team"
+Summer,Shooting,Shooting,"Army Rifle, 300M, 3 Positions"
+Summer,Shooting,Shooting,"Army Rifle, 300M, Kneeling"
+Summer,Shooting,Shooting,"Army Rifle, 300M, Prone"
+Summer,Shooting,Shooting,"Army Rifle, 300M, Standing"
+Summer,Shooting,Shooting,"Free Rifle, Team"
+Summer,Shooting,Shooting,Trap (125 Targets)
+Summer,Tennis,Tennis,Mixed Doubles
+Summer,Tug of War,Tug of War,Tug Of War
+Summer,Aquatics,Diving,10M Platform
+Summer,Aquatics,Diving,Plunge For Distance
+Summer,Aquatics,Swimming,100M Backstroke
+Summer,Aquatics,Swimming,400M Breaststroke
+Summer,Aquatics,Swimming,4X50Y Freestyle Relay
+Summer,Aquatics,Swimming,50Y Freestyle (45.72M)
+Summer,Aquatics,Swimming,880Y Freestyle (804.66M)
+Summer,Archery,Archery,Double American Round (60Y - 50Y - 40Y)
+Summer,Archery,Archery,Double Columbia Round (50Y - 40Y - 30Y)
+Summer,Archery,Archery,Double National Round (60Y - 50Y)
+Summer,Archery,Archery,Double York Round (100Y - 80Y - 60Y)
+Summer,Archery,Archery,Team Round 60Y
+Summer,Archery,Archery,Teams Fita Round
+Summer,Athletics,Athletics,4Miles Team
+Summer,Athletics,Athletics,56LB Weight Throw (25.4KG)
+Summer,Athletics,Athletics,Decathlon
+Summer,Athletics,Athletics,Triathlon (Long Jump / Shot Put / 100 Yards)
+Summer,Boxing,Boxing,- 47.63KG (Flyweight)
+Summer,Boxing,Boxing,+ 71.67KG (Heavyweight)
+Summer,Boxing,Boxing,47.63 - 52.16KG (Bantamweight)
+Summer,Boxing,Boxing,52.16 - 56.7KG (Featherweight)
+Summer,Boxing,Boxing,56.7 - 61.24KG (Lightweight)
+Summer,Boxing,Boxing,61.24 - 65.77KG (Welterweight)
+Summer,Boxing,Boxing,65.77 - 71.67KG (Middleweight)
+Summer,Cycling,Cycling Track,1 Mile (1609.3M)
+Summer,Cycling,Cycling Track,1/2 Mile (804.7M)
+Summer,Cycling,Cycling Track,1/3 Mile (536.5M)
+Summer,Cycling,Cycling Track,1/4 Mile (402.3M)
+Summer,Cycling,Cycling Track,2 Miles (3.218KM)
+Summer,Cycling,Cycling Track,25 Miles (40.232KM)
+Summer,Cycling,Cycling Track,5 Miles (8.046KM)
+Summer,Fencing,Fencing,Foil Team
+Summer,Fencing,Fencing,"Stick, Single"
+Summer,Golf,Golf,Team
+Summer,Gymnastics,Artistic G.,Club Swinging
+Summer,Gymnastics,Artistic G.,Combined 3 Events
+Summer,Gymnastics,Artistic G.,Combined 4 Events
+Summer,Gymnastics,Artistic G.,Team Competition
+Summer,Lacrosse,Lacrosse,Lacrosse
+Summer,Rowing,Rowing,Coxless Pair (2-)
+Summer,Rowing,Rowing,Double Sculls (2X)
+Summer,Rowing,Rowing,Four Without Coxswain (4-)
+Summer,Weightlifting,Weightlifting,All-Around Dumbbell Contest
+Summer,Wrestling,Wrestling Free.,- 47.6KG (Light-Flyweight)
+Summer,Wrestling,Wrestling Free.,47.6 - 52.16KG (Flyweight)
+Summer,Wrestling,Wrestling Free.,52.16 - 56.7KG (Bantamweight)
+Summer,Wrestling,Wrestling Free.,56.7 - 61.23KG (Featherweight)
+Summer,Wrestling,Wrestling Free.,61.23 - 65.77KG (Lightweight)
+Summer,Wrestling,Wrestling Free.,65.77 - 71.67KG (Welterweight)
+Summer,Aquatics,Diving,3M Springboard
+Summer,Aquatics,Swimming,200M Breaststroke
+Summer,Aquatics,Swimming,4X200M Freestyle Relay
+Summer,Archery,Archery,Continental Style 50M
+Summer,Archery,Archery,National Round (60Y - 50Y)
+Summer,Archery,Archery,York Round (100Y - 80Y - 60Y)
+Summer,Athletics,Athletics,10Miles Walk (16093M)
+Summer,Athletics,Athletics,3200M Steeplechase
+Summer,Athletics,Athletics,3500M Walk
+Summer,Athletics,Athletics,3Miles Team (4828M)
+Summer,Athletics,Athletics,4X400M Relay
+Summer,Athletics,Athletics,5 Miles (8047M)
+Summer,Athletics,Athletics,Discus Throw Ancient Style
+Summer,Athletics,Athletics,Javelin Throw
+Summer,Athletics,Athletics,Javelin Throw Freestyle
+Summer,Boxing,Boxing,- 52.62KG (Bantamweight)
+Summer,Boxing,Boxing,52.62 - 57.15KG (Featherweight)
+Summer,Boxing,Boxing,57.15 - 63.5KG (Lightweight)
+Summer,Boxing,Boxing,63.5 - 71.67KG (Middleweight)
+Summer,Cycling,Cycling Track,"1980 Yards Pursuit, Team"
+Summer,Cycling,Cycling Track,2000M Tandem
+Summer,Cycling,Cycling Track,20KM
+Summer,Cycling,Cycling Track,5000M
+Summer,Cycling,Cycling Track,One Lap (660Y) Sprint
+Summer,Fencing,Fencing,Épée Team
+Summer,Fencing,Fencing,Sabre Team
+Summer,Hockey,Hockey,Hockey
+Summer,Sailing,Sailing,12M
+Summer,Sailing,Sailing,6M
+Summer,Sailing,Sailing,7M
+Summer,Sailing,Sailing,8M
+Summer,Shooting,Shooting,"1000Y Free Rifle, Prone"
+Summer,Shooting,Shooting,"100M Running Deer, Double Shots"
+Summer,Shooting,Shooting,"100M Running Deer, Single Shots"
+Summer,Shooting,Shooting,"100M Running Deer, Single Shots, Team"
+Summer,Shooting,Shooting,"25Y Small Bore Rifle, Disappearing Target"
+Summer,Shooting,Shooting,"25Y Small Bore Rifle, Moving Target"
+Summer,Shooting,Shooting,300M Free Rifle 3 Positions (3X40 Shots)
+Summer,Shooting,Shooting,"50+100Y Small Bore Rifle, Team"
+Summer,Shooting,Shooting,50M Rifle Prone (60 Shots)
+Summer,Shooting,Shooting,"50Y Army Pistol, Team"
+Summer,Shooting,Shooting,"Clay Pigeons, Team"
+Summer,Shooting,Shooting,"Rifle, Team"
+Summer,Skating,Figure skating,Pairs
+Summer,Skating,Figure skating,Special Figures
+Summer,Tennis,Tennis,Doubles Indoor
+Summer,Tennis,Tennis,Singles Indoor
+Summer,Water Motorsports,Water Motorspor,8M Class C
+Summer,Water Motorsports,Water Motorspor,Class B Up To 60 Feet
+Summer,Water Motorsports,Water Motorspor,Open Class A
+Summer,Wrestling,Wrestling Free.,- 54KG (Bantamweight)
+Summer,Wrestling,Wrestling Free.,+ 73KG (Heavyweight)
+Summer,Wrestling,Wrestling Free.,54 - 60.3KG (Featherweight)
+Summer,Wrestling,Wrestling Free.,60.3 - 66.6KG (Lightweight)
+Summer,Wrestling,Wrestling Free.,66.6 - 73KG (Middleweight)
+Summer,Wrestling,Wrestling Gre-R,- 66.6KG (Lightweight)
+Summer,Wrestling,Wrestling Gre-R,+ 93KG (Super Heavyweight)
+Summer,Wrestling,Wrestling Gre-R,73 - 93KG (Light-Heavyweight)
+Summer,Aquatics,Diving,Plain High Diving
+Summer,Aquatics,Swimming,4X100M Freestyle Relay
+Summer,Athletics,Athletics,10000M
+Summer,Athletics,Athletics,10000M Walk
+Summer,Athletics,Athletics,3000M Team
+Summer,Athletics,Athletics,4X100M Relay
+Summer,Athletics,Athletics,Cross Country Individual
+Summer,Athletics,Athletics,Cross Country Team
+Summer,Athletics,Athletics,"Discus Throw, Both Hands"
+Summer,Athletics,Athletics,"Javelin Throw, Both Hands"
+Summer,Athletics,Athletics,Pentathlon
+Summer,Athletics,Athletics,"Shot Put, Both Hands"
+Summer,Cycling,Cycling Road,Individual Time Trial
+Summer,Cycling,Cycling Road,Team Time Trial
+Summer,Gymnastics,Artistic G.,"Team, Free System"
+Summer,Gymnastics,Artistic G.,"Team, Swedish System"
+Summer,Modern Pentathlon,Modern Pentath.,Individual Competition
+Summer,Rowing,Rowing,Coxed Fours Jugriggers
+Summer,Sailing,Sailing,10M
+Summer,Shooting,Shooting,"25M Small Bore Rifle, Team"
+Summer,Shooting,Shooting,25M Small Rifle
+Summer,Shooting,Shooting,"30M Army Pistol, Team"
+Summer,Shooting,Shooting,"50M Small Bore Rifle, Team"
+Summer,Shooting,Shooting,600M Free Rifle
+Summer,Tennis,Tennis,Mixed Doubles Indoor
+Summer,Wrestling,Wrestling Gre-R,- 60KG (Featherweight)
+Summer,Wrestling,Wrestling Gre-R,+ 82.5KG (Super Heavyweight)
+Summer,Wrestling,Wrestling Gre-R,60 - 67.5KG (Lightweight)
+Summer,Wrestling,Wrestling Gre-R,67.5 - 75KG (Middleweight)
+Summer,Wrestling,Wrestling Gre-R,75 - 82.5KG (Light-Heavyweight)
+Summer,Archery,Archery,Fixed Bird Target Large Birds
+Summer,Archery,Archery,Fixed Bird Target Large Birds Teams
+Summer,Archery,Archery,"Fixed Bird Target Small Bird, Teams"
+Summer,Archery,Archery,Fixed Bird Target Small Birds
+Summer,Archery,Archery,Moving Bird Target 28M Teams
+Summer,Archery,Archery,Moving Bird Target 33M Teams
+Summer,Archery,Archery,Moving Bird Target 50M Teams
+Summer,Archery,Archery,"Moving Bird Target, 28M"
+Summer,Archery,Archery,"Moving Bird Target, 33M"
+Summer,Archery,Archery,"Moving Bird Target, 50M"
+Summer,Athletics,Athletics,3000M Walk
+Summer,Boxing,Boxing,- 50.8KG (Flyweight)
+Summer,Boxing,Boxing,+ 79.38KG (Heavyweight)
+Summer,Boxing,Boxing,50.8 - 53.52KG (Bantamweight)
+Summer,Boxing,Boxing,53.52 - 57.15KG (Featherweight)
+Summer,Boxing,Boxing,57.15 - 61.24KG (Lightweight)
+Summer,Boxing,Boxing,61.24 - 66.68KG (Welterweight)
+Summer,Boxing,Boxing,66.68 - 72.57KG (Middleweight)
+Summer,Boxing,Boxing,72.57 - 79.38KG (Light-Heavyweight)
+Summer,Cycling,Cycling Track,50KM
+Summer,Cycling,Cycling Track,Team Pursuit (4000M)
+Summer,Equestrian,Vaulting,Figure Riding Individual
+Summer,Equestrian,Vaulting,Figure Riding Team
+Summer,Ice Hockey,Ice Hockey,Ice Hockey
+Summer,Sailing,Sailing,10M (Rating 1907)
+Summer,Sailing,Sailing,10M (Rating 1919)
+Summer,Sailing,Sailing,12 Foot Dinghy
+Summer,Sailing,Sailing,12M (Rating 1907)
+Summer,Sailing,Sailing,12M (Rating 1919)
+Summer,Sailing,Sailing,18 Foot Dinghy
+Summer,Sailing,Sailing,30M Sq
+Summer,Sailing,Sailing,40M Sq
+Summer,Sailing,Sailing,6.5M (Rating 1919)
+Summer,Sailing,Sailing,6M (Rating 1907)
+Summer,Sailing,Sailing,6M (Rating 1919)
+Summer,Sailing,Sailing,8M (Rating 1907)
+Summer,Sailing,Sailing,8M (Rating 1919)
+Summer,Shooting,Shooting,"100M Running Deer, Double Shots, Team"
+Summer,Shooting,Shooting,"300+600M Free Rifle, Team, Prone"
+Summer,Shooting,Shooting,"300M Free Rifle, Prone, Team"
+Summer,Shooting,Shooting,"300M Free Rifle, Standing, Team"
+Summer,Shooting,Shooting,"50M Small Bore Rifle, Standing, Individual"
+Summer,Shooting,Shooting,"600M Free Rifle, Prone"
+Summer,Shooting,Shooting,"600M Free Rifle, Team"
+Summer,Weightlifting,Weightlifting,"- 60KG, One-Two Hand 3 Events (Featherweight)"
+Summer,Weightlifting,Weightlifting,"+ 82.5KG, One-Two Hand 3 Events (Heavyweight)"
+Summer,Weightlifting,Weightlifting,"60 - 67.5KG, One-Two Hand 3 Events (Lightweight)"
+Summer,Weightlifting,Weightlifting,"67.5 - 75KG, One-Two Hand 3 Events (Middleweight)"
+Summer,Weightlifting,Weightlifting,"75 - 82.5KG, One-Two Hand 3 E. (Light-Heavyweight)"
+Summer,Wrestling,Wrestling Free.,+ 80KG (Heavyweight)
+Summer,Wrestling,Wrestling Free.,75 - 80KG (Light-Heavyweight)
+Summer,Wrestling,Wrestling Gre-R,+ 82KG (Super Heavyweight)
+Summer,Wrestling,Wrestling Gre-R,75 - 82KG (Light-Heavyweight)
+Summer,Gymnastics,Artistic G.,Sidehorse Vault
+Summer,Sailing,Sailing,Olympic Class Monotype
+Summer,Shooting,Shooting,"400, 600, 800M Free Rifle, Team"
+Summer,Shooting,Shooting,"600M Free Rifle, Individual"
+Summer,Weightlifting,Weightlifting,"- 60KG, One-Two Hand 5 Events (Featherweight)"
+Summer,Weightlifting,Weightlifting,"+ 82.5KG, One-Two Hand 5 Events (Heavyweight)"
+Summer,Weightlifting,Weightlifting,"60 - 67.5KG, One-Two Hand 5 Events (Lightweight)"
+Summer,Weightlifting,Weightlifting,"67.5 - 75KG, One-Two Hand 5 Events (Middleweight)"
+Summer,Weightlifting,Weightlifting,"75 - 82.5KG, One-Two Hand 5 E. (Light-Heavyweight)"
+Summer,Wrestling,Wrestling Free.,- 56KG (Bantamweight)
+Summer,Wrestling,Wrestling Free.,+ 87KG (Heavyweight)
+Summer,Wrestling,Wrestling Free.,56 - 61KG (Featherweight)
+Summer,Wrestling,Wrestling Free.,61 - 66KG (Lightweight)
+Summer,Wrestling,Wrestling Free.,66 - 72KG (Welterweight)
+Summer,Wrestling,Wrestling Free.,72 - 79KG (Middleweight)
+Summer,Wrestling,Wrestling Free.,79 - 87KG (Light-Heavyweight)
+Summer,Wrestling,Wrestling Gre-R,- 58KG (Bantamweight)
+Summer,Wrestling,Wrestling Gre-R,58 - 62KG (Featherweight)
+Summer,Wrestling,Wrestling Gre-R,62 - 67.5KG (Lightweight)
+Summer,Cycling,Cycling Track,1KM Pursuit
+Summer,Sailing,Sailing,12 Foot Dinghy Individual
+Summer,Weightlifting,Weightlifting,"- 60KG, Total (Featherweight)"
+Summer,Weightlifting,Weightlifting,"+ 82.5KG, Total (Heavyweight)"
+Summer,Weightlifting,Weightlifting,"60 - 67.5KG, Total (Lightweight)"
+Summer,Weightlifting,Weightlifting,"67.5 - 75KG, Total (Middleweight)"
+Summer,Weightlifting,Weightlifting,"75 - 82.5KG, Total (Light-Heavyweight)"
+Summer,Wrestling,Wrestling Gre-R,58 - 60KG (Featherweight)
+Summer,Athletics,Athletics,50KM Walk
+Summer,Athletics,Athletics,80M Hurdles
+Summer,Boxing,Boxing,50.8 - 54KG (Bantamweight)
+Summer,Boxing,Boxing,54 - 57.15KG (Featherweight)
+Summer,Gymnastics,Artistic G.,Floor Exercises
+Summer,Gymnastics,Artistic G.,Indian Clubs
+Summer,Gymnastics,Artistic G.,Tumbling
+Summer,Sailing,Sailing,Two-Person Keelboat Open (Star)
+Summer,Wrestling,Wrestling Gre-R,+ 87KG (Super Heavyweight)
+Summer,Basketball,Basketball,Basketball
+Summer,Canoe / Kayak,Canoe / Kayak F,C-1 1000M (Canoe Single)
+Summer,Canoe / Kayak,Canoe / Kayak F,C-2 10000M
+Summer,Canoe / Kayak,Canoe / Kayak F,C-2 1000M (Canoe Double)
+Summer,Canoe / Kayak,Canoe / Kayak F,Folding K-1 10000M
+Summer,Canoe / Kayak,Canoe / Kayak F,Folding K-2 10000M
+Summer,Canoe / Kayak,Canoe / Kayak F,K-1 10000M
+Summer,Canoe / Kayak,Canoe / Kayak F,K-1 1000M (Kayak Single)
+Summer,Canoe / Kayak,Canoe / Kayak F,K-2 10000M
+Summer,Canoe / Kayak,Canoe / Kayak F,K-2 1000M (Kayak Double)
+Summer,Handball,Handball,Handball
+Summer,Boxing,Boxing,- 51KG (Flyweight)
+Summer,Boxing,Boxing,51 - 54KG (Bantamweight)
+Summer,Boxing,Boxing,54 - 58KG (Featherweight)
+Summer,Boxing,Boxing,58 - 62KG (Lightweight)
+Summer,Boxing,Boxing,62 - 67KG (Welterweight)
+Summer,Boxing,Boxing,67 - 73KG (Middleweight)
+Summer,Boxing,Boxing,73 - 80KG (Light-Heavyweight)
+Summer,Canoe / Kayak,Canoe / Kayak F,C-1 10000M
+Summer,Canoe / Kayak,Canoe / Kayak F,K-1 500M (Kayak Single)
+Summer,Sailing,Sailing,Dragon
+Summer,Sailing,Sailing,Firefly Class
+Summer,Sailing,Sailing,Swallow (Golondrina)
+Summer,Weightlifting,Weightlifting,"- 56KG, Total (Bantamweight)"
+Summer,Weightlifting,Weightlifting,"56 - 60KG, Total (Featherweight)"
+Summer,Wrestling,Wrestling Free.,- 52KG (Flyweight)
+Summer,Wrestling,Wrestling Free.,52 - 57KG (Bantamweight)
+Summer,Wrestling,Wrestling Free.,57 - 63KG (Featherweight)
+Summer,Wrestling,Wrestling Free.,63 - 67KG (Lightweight)
+Summer,Wrestling,Wrestling Free.,67 - 73KG (Welterweight)
+Summer,Wrestling,Wrestling Free.,73 - 79KG (Middleweight)
+Summer,Wrestling,Wrestling Gre-R,57 - 61KG (Featherweight)
+Summer,Wrestling,Wrestling Gre-R,61 - 67KG (Lightweight)
+Summer,Boxing,Boxing,+ 81KG (Heavyweight)
+Summer,Boxing,Boxing,54 - 57KG (Featherweight)
+Summer,Boxing,Boxing,57 - 60KG (Lightweight)
+Summer,Boxing,Boxing,60 - 63.5KG (Light-Welterweight)
+Summer,Boxing,Boxing,63.5 - 67KG (Welterweight)
+Summer,Boxing,Boxing,67 - 71KG (Light-Middleweight)
+Summer,Boxing,Boxing,71-75KG
+Summer,Boxing,Boxing,75 - 81KG (Light-Heavyweight)
+Summer,Gymnastics,Artistic G.,Balance Beam
+Summer,Gymnastics,Artistic G.,"Team, Portable Apparatus"
+Summer,Gymnastics,Artistic G.,Uneven Bars
+Summer,Sailing,Sailing,5.5M
+Summer,Sailing,Sailing,Single-Handed Dinghy (Finn)
+Summer,Shooting,Shooting,"100M Running Deer, Single/Double Shots"
+Summer,Shooting,Shooting,50M Rifle 3 Positions (3X40 Shots)
+Summer,Weightlifting,Weightlifting,"+ 90KG, Total (Heavyweight)"
+Summer,Weightlifting,Weightlifting,"82.5 - 90KG, Total (Middle-Heavyweight)"
+Summer,Aquatics,Swimming,100M Butterfly
+Summer,Aquatics,Swimming,200M Butterfly
+Summer,Athletics,Athletics,20KM Walk
+Summer,Sailing,Sailing,Sharpie 12M2
+Summer,Aquatics,Swimming,4X100M Medley Relay
+Summer,Canoe / Kayak,Canoe / Kayak F,K-1 4X500M
+Summer,Canoe / Kayak,Canoe / Kayak F,K-2 500M (Kayak Double)
+Summer,Sailing,Sailing,Flying Dutchman
+Summer,Aquatics,Swimming,400M Individual Medley
+Summer,Canoe / Kayak,Canoe / Kayak F,K-4 1000M (Kayak Four)
+Summer,Cycling,Cycling Track,Individual Pursuit
+Summer,Judo,Judo,- 68KG (Lightweight)
+Summer,Judo,Judo,68 - 80KG (Middleweight)
+Summer,Judo,Judo,Open Category
+Summer,Volleyball,Volleyball,Volleyball
+Summer,Wrestling,Wrestling Free.,+ 97KG (Heavyweight)
+Summer,Wrestling,Wrestling Free.,63 - 70KG (Lightweight)
+Summer,Wrestling,Wrestling Free.,70 - 78KG (Welterweight)
+Summer,Wrestling,Wrestling Free.,78 - 87KG (Middleweight)
+Summer,Wrestling,Wrestling Free.,87 - 97KG (Light-Heavyweight)
+Summer,Wrestling,Wrestling Gre-R,+ 97KG (Super Heavyweight)
+Summer,Aquatics,Swimming,100M Breaststroke
+Summer,Aquatics,Swimming,200M Individual Medley
+Summer,Aquatics,Swimming,800M Freestyle
+Summer,Boxing,Boxing,- 48KG (Light-Flyweight)
+Summer,Boxing,Boxing,48 - 51KG (Flyweight)
+Summer,Shooting,Shooting,Skeet (125 Targets)
+Summer,Archery,Archery,Individual Fita Round
+Summer,Athletics,Athletics,100M Hurdles
+Summer,Canoe / Kayak,Canoe / Kayak S,C-1 (Canoe Single)
+Summer,Canoe / Kayak,Canoe / Kayak S,C-2 (Canoe Double)
+Summer,Canoe / Kayak,Canoe / Kayak S,K-1 (Kayak Single)
+Summer,Judo,Judo,- 63KG (Lightweight)
+Summer,Judo,Judo,+ 93KG (Heavyweight)
+Summer,Judo,Judo,63 - 70KG (Half-Middleweight)
+Summer,Judo,Judo,70 - 80KG (Middleweight)
+Summer,Judo,Judo,80 - 93KG (Half-Heavyweight)
+Summer,Sailing,Sailing,Fleet/Match Race Keelboat Open (Soling)
+Summer,Sailing,Sailing,Tempest
+Summer,Shooting,Shooting,50M Running Target (30+30 Shots)
+Summer,Weightlifting,Weightlifting,"- 52KG, Total (Flyweight)"
+Summer,Weightlifting,Weightlifting,"+ 110KG, Total (Super Heavyweight)"
+Summer,Weightlifting,Weightlifting,"52 - 56KG, Total (Bantamweight)"
+Summer,Weightlifting,Weightlifting,"91 - 110KG, Total (Heavyweight)"
+Summer,Wrestling,Wrestling Free.,+ 100KG (Super Heavyweight)
+Summer,Wrestling,Wrestling Free.,48 - 52KG (Flyweight)
+Summer,Wrestling,Wrestling Free.,57 - 62KG (Featherweight)
+Summer,Wrestling,Wrestling Free.,62 - 68KG (Lightweight)
+Summer,Wrestling,Wrestling Free.,68 - 74KG (Welterweight)
+Summer,Wrestling,Wrestling Free.,74 - 82KG (Middleweight)
+Summer,Wrestling,Wrestling Free.,82 - 90KG (Light-Heavyweight)
+Summer,Wrestling,Wrestling Free.,90 - 100KG (Heavyweight)
+Summer,Canoe / Kayak,Canoe / Kayak F,C-1 500M (Canoe Single)
+Summer,Canoe / Kayak,Canoe / Kayak F,C-2 500M (Canoe Double)
+Summer,Rowing,Rowing,Pair Without Coxswain (2-)
+Summer,Rowing,Rowing,Quadruple Sculls With Coxswain (4X)
+Summer,Rowing,Rowing,Quadruple Sculls Without Coxswain (4X)
+Summer,Sailing,Sailing,470 - Two Person Dinghy
+Summer,Sailing,Sailing,Tornado - Multihull
+Summer,Judo,Judo,- 60 KG
+Summer,Judo,Judo,+ 95KG (Heavyweight)
+Summer,Judo,Judo,60 - 65KG (Half-Lightweight)
+Summer,Judo,Judo,65 - 71KG (Lightweight)
+Summer,Judo,Judo,71 - 78KG (Half-Middleweight)
+Summer,Judo,Judo,78 - 86KG (Middleweight)
+Summer,Judo,Judo,86 - 95KG (Half-Heavyweight)
+Summer,Weightlifting,Weightlifting,"100 - 110KG, Total (Heavyweight)"
+Summer,Weightlifting,Weightlifting,"90 - 100KG, Total (First-Heavyweight)"
+Summer,Aquatics,Synchronized S.,Duet
+Summer,Aquatics,Synchronized S.,Solo
+Summer,Athletics,Athletics,3000M
+Summer,Athletics,Athletics,Heptathlon
+Summer,Boxing,Boxing,+ 91KG (Super Heavyweight)
+Summer,Boxing,Boxing,81 - 91KG (Heavyweight)
+Summer,Canoe / Kayak,Canoe / Kayak F,K-4 500M (Kayak Four)
+Summer,Cycling,Cycling Track,Points Race
+Summer,Sailing,Sailing,Board (Windglider)
+Summer,Shooting,Shooting,10M Air Rifle (40 Shots)
+Summer,Shooting,Shooting,10M Air Rifle (60 Shots)
+Summer,Shooting,Shooting,25M Pistol (30+30 Shots)
+Summer,Shooting,Shooting,50M Rifle 3 Positions (3X20 Shots)
+Summer,Aquatics,Swimming,50M Freestyle
+Summer,Cycling,Cycling Track,Sprint
+Summer,Sailing,Sailing,Board (Division Ii)
+Summer,Shooting,Shooting,10M Air Pistol (40 Shots)
+Summer,Shooting,Shooting,10M Air Pistol (60 Shots)
+Summer,Wrestling,Wrestling Free.,100 - 130KG (Super Heavyweight)
+Summer,Archery,Archery,Individual (Fita Olympic Round - 70M)
+Summer,Archery,Archery,Team (Fita Olympic Round - 70M)
+Summer,Baseball,Baseball,Baseball
+Summer,Judo,Judo,- 48KG (Extra-Lightweight)
+Summer,Judo,Judo,+ 72KG (Heavyweight)
+Summer,Judo,Judo,48 - 52KG (Half-Lightweight)
+Summer,Judo,Judo,52 - 56KG (Lightweight)
+Summer,Judo,Judo,56 - 61KG (Half-Middleweight)
+Summer,Judo,Judo,61 - 66KG (Middleweight)
+Summer,Judo,Judo,66 - 72KG (Half-Heavyweight)
+Summer,Rowing,Rowing,Coxless Four (4-)
+Summer,Sailing,Sailing,Board (Lechner)
+Summer,Sailing,Sailing,Single-Handed Dinghy (Europe)
+Summer,Cycling,Mountain Bike,Cross-Country
+Summer,Gymnastics,Rhythmic G.,Group Competition
+Summer,Judo,Judo,+ 100KG (Heavyweight)
+Summer,Judo,Judo,60 - 66KG (Half-Lightweight)
+Summer,Judo,Judo,66 - 73KG (Lightweight)
+Summer,Judo,Judo,73 - 81KG (Half-Middleweight)
+Summer,Judo,Judo,81 - 90KG (Middleweight)
+Summer,Judo,Judo,90 - 100KG (Half-Heavyweight)
+Summer,Rowing,Rowing,Lightweight Coxless Four (4-)
+Summer,Rowing,Rowing,Lightweight Double Sculls (2X)
+Summer,Sailing,Sailing,Board (Mistral)
+Summer,Sailing,Sailing,Single-Handed Dinghy Open (Laser)
+Summer,Shooting,Shooting,Double Trap (120 Targets)
+Summer,Shooting,Shooting,Double Trap (150 Targets)
+Summer,Softball,Softball,Softball
+Summer,Volleyball,Beach volley.,Beach Volleyball
+Summer,Weightlifting,Weightlifting,"- 54KG, Total (Flyweight)"
+Summer,Weightlifting,Weightlifting,"+ 108KG, Total (Super Heavyweight)"
+Summer,Weightlifting,Weightlifting,"54 - 59KG, Total (Bantamweight)"
+Summer,Weightlifting,Weightlifting,"59 - 64KG, Total (Featherweight)"
+Summer,Weightlifting,Weightlifting,"64 - 70KG, Total (Lightweight)"
+Summer,Weightlifting,Weightlifting,"70 - 76KG, Total (Middleweight)"
+Summer,Weightlifting,Weightlifting,"76 - 83KG, Total (Light-Heavyweight)"
+Summer,Weightlifting,Weightlifting,"83 - 91KG, Total (Middle-Heavyweight)"
+Summer,Weightlifting,Weightlifting,"91 - 99KG, Total (First-Heavyweight)"
+Summer,Weightlifting,Weightlifting,"99 - 108KG, Total (Heavyweight)"
+Summer,Aquatics,Diving,Synchronized Diving 10M Platform
+Summer,Aquatics,Diving,Synchronized Diving 3M Springboard
+Summer,Athletics,Athletics,20KM Race Walk
+Summer,Cycling,Cycling Track,500M Time Trial
+Summer,Cycling,Cycling Track,Keirin
+Summer,Cycling,Cycling Track,Madison
+Summer,Cycling,Cycling Track,Olympic Sprint
+Summer,Judo,Judo,+ 78KG (Heavyweight)
+Summer,Judo,Judo,52 - 57KG (Lightweight)
+Summer,Judo,Judo,57 - 63KG (Half-Middleweight)
+Summer,Judo,Judo,63 - 70KG (Middleweight)
+Summer,Judo,Judo,70 - 78KG (Half-Heavyweight)
+Summer,Sailing,Sailing,49Er - Skiff
+Summer,Shooting,Shooting,10M Running Target (30+30 Shots)
+Summer,Shooting,Shooting,Skeet (75 Targets)
+Summer,Shooting,Shooting,Trap (75 Targets)
+Summer,Taekwondo,Taekwondo,- 49 KG
+Summer,Taekwondo,Taekwondo,- 58 KG
+Summer,Taekwondo,Taekwondo,+ 67 KG
+Summer,Taekwondo,Taekwondo,+ 80 KG
+Summer,Taekwondo,Taekwondo,49 - 57 KG
+Summer,Taekwondo,Taekwondo,57 - 67 KG
+Summer,Taekwondo,Taekwondo,58 - 68 KG
+Summer,Taekwondo,Taekwondo,68 - 80 KG
+Summer,Weightlifting,Weightlifting,+ 105KG
+Summer,Weightlifting,Weightlifting,+ 75KG
+Summer,Weightlifting,Weightlifting,105KG
+Summer,Weightlifting,Weightlifting,48KG
+Summer,Weightlifting,Weightlifting,53KG
+Summer,Weightlifting,Weightlifting,56KG
+Summer,Weightlifting,Weightlifting,58KG
+Summer,Weightlifting,Weightlifting,62KG
+Summer,Weightlifting,Weightlifting,63KG
+Summer,Weightlifting,Weightlifting,69KG
+Summer,Weightlifting,Weightlifting,75KG
+Summer,Weightlifting,Weightlifting,77KG
+Summer,Weightlifting,Weightlifting,85KG
+Summer,Weightlifting,Weightlifting,94KG
+Summer,Wrestling,Wrestling Free.,48 - 54KG
+Summer,Wrestling,Wrestling Free.,54 - 58KG
+Summer,Wrestling,Wrestling Free.,58 - 63KG
+Summer,Wrestling,Wrestling Free.,63 - 69KG
+Summer,Wrestling,Wrestling Free.,69 - 76KG
+Summer,Wrestling,Wrestling Free.,76 - 85KG
+Summer,Wrestling,Wrestling Free.,85 - 97KG
+Summer,Wrestling,Wrestling Free.,97 - 130KG
+Summer,Boxing,Boxing,48KG (Light Flywieght)
+Summer,Boxing,Boxing,60 - 64 KG
+Summer,Boxing,Boxing,64 - 69 KG
+Summer,Boxing,Boxing,69 - 75 KG
+Summer,Cycling,Cycling Track,Team Sprint
+Summer,Judo,Judo,- 48 KG
+Summer,Sailing,Sailing,Star - Keelboat
+Summer,Sailing,Sailing,Yngling - Keelboat
+Summer,Wrestling,Wrestling Free.,- 48KG
+Summer,Wrestling,Wrestling Free.,- 55KG
+Summer,Wrestling,Wrestling Free.,48 - 55KG
+Summer,Wrestling,Wrestling Free.,55 - 60KG
+Summer,Wrestling,Wrestling Free.,55 - 63KG
+Summer,Wrestling,Wrestling Free.,60 - 66KG
+Summer,Wrestling,Wrestling Free.,63 - 72KG
+Summer,Wrestling,Wrestling Free.,66 - 74KG
+Summer,Wrestling,Wrestling Free.,74 - 84KG
+Summer,Wrestling,Wrestling Free.,84 - 96KG
+Summer,Wrestling,Wrestling Free.,96 - 120KG
+Summer,Aquatics,Swimming,Marathon 10KM
+Summer,Sailing,Sailing,Finn - Heavyweight Dinghy
+Summer,Sailing,Sailing,Laser - One Person Dinghy
+Summer,Sailing,Sailing,Laser Radial - One Person Dinghy
+Summer,Sailing,Sailing,Rs:X - Windsurfer
+Summer,Aquatics,Diving,Synchronized 10M
+Summer,Aquatics,Diving,Synchronized 3M
+Summer,Aquatics,Swimming,200M Medley
+Summer,Aquatics,Swimming,400M Medley
+Summer,Aquatics,Swimming,4X100M Freestyle
+Summer,Aquatics,Swimming,4X100M Medley
+Summer,Aquatics,Swimming,4X200M Freestyle
+Summer,Athletics,Athletics,3000M Steeple
+Summer,Boxing,Boxing,+ 91KG
+Summer,Boxing,Boxing,46 - 49KG
+Summer,Boxing,Boxing,51 KG
+Summer,Boxing,Boxing,52KG
+Summer,Boxing,Boxing,57 - 60KG
+Summer,Boxing,Boxing,60 KG
+Summer,Boxing,Boxing,75 - 81KG
+Summer,Boxing,Boxing,75 KG
+Summer,Boxing,Boxing,81 - 91KG
+Summer,Canoe,Canoe Slalom,C-1 (Single)
+Summer,Canoe,Canoe Slalom,C-2 (Double)
+Summer,Canoe,Canoe Slalom,K-1 (Single)
+Summer,Canoe,Canoe Sprint,C-1 1000M
+Summer,Canoe,Canoe Sprint,C-1 200M
+Summer,Canoe,Canoe Sprint,C-2 1000M
+Summer,Canoe,Canoe Sprint,K-1 1000M
+Summer,Canoe,Canoe Sprint,K-1 200M
+Summer,Canoe,Canoe Sprint,K-1 500M
+Summer,Canoe,Canoe Sprint,K-2 1000M
+Summer,Canoe,Canoe Sprint,K-2 200M
+Summer,Canoe,Canoe Sprint,K-2 500M
+Summer,Canoe,Canoe Sprint,K-4 1000M
+Summer,Canoe,Canoe Sprint,K-4 500M
+Summer,Cycling,Cycling Road,Individual Road
+Summer,Cycling,Cycling Road,Time Trial
+Summer,Cycling,Cycling Track,Omnium
+Summer,Cycling,Cycling Track,Team Pursuit
+Summer,Gymnastics,Gymnastics Artistic,Beam
+Summer,Gymnastics,Gymnastics Artistic,Individual All-Around
+Summer,Judo,Judo,+ 100KG
+Summer,Judo,Judo,+ 78KG
+Summer,Judo,Judo,48 - 52KG
+Summer,Judo,Judo,52 - 57KG
+Summer,Judo,Judo,57 - 63KG
+Summer,Judo,Judo,63 - 70KG
+Summer,Judo,Judo,66 - 73KG
+Summer,Judo,Judo,70 - 78KG
+Summer,Judo,Judo,73 - 81KG
+Summer,Judo,Judo,81 - 90KG
+Summer,Judo,Judo,90 - 100KG
+Summer,Rowing,Rowing,Coxless Four
+Summer,Rowing,Rowing,Coxless Pair 2-
+Summer,Rowing,Rowing,Double Sculls
+Summer,Rowing,Rowing,Eight With Coxswain
+Summer,Rowing,Rowing,Lightweight 4
+Summer,Rowing,Rowing,Lightweight Doubles
+Summer,Rowing,Rowing,Quadruple Sculls
+Summer,Rowing,Rowing,Single Sculls
+Summer,Sailing,Sailing,470
+Summer,Sailing,Sailing,Elliott 6M
+Summer,Sailing,Sailing,Finn
+Summer,Sailing,Sailing,Laser
+Summer,Sailing,Sailing,Laser Radial
+Summer,Sailing,Sailing,Rs:X
+Summer,Sailing,Sailing,Star
+Summer,Shooting,Shooting,10M Air Pistol
+Summer,Shooting,Shooting,10M Air Rifle
+Summer,Shooting,Shooting,25M Pistol
+Summer,Shooting,Shooting,25M Rapid Pistol
+Summer,Shooting,Shooting,50M Pistol
+Summer,Shooting,Shooting,50M Rifle 3 Positions
+Summer,Shooting,Shooting,50M Rifle Prone
+Summer,Shooting,Shooting,Double Trap 150
+Summer,Shooting,Shooting,Skeet
+Summer,Shooting,Shooting,Trap
+Summer,Weightlifting,Weightlifting,+105KG
+Summer,Weightlifting,Weightlifting,+75KG
+Summer,Weightlifting,Weightlifting,-56KG
+Summer,Wrestling,Wrestling Freestyle,Wf 120KG
+Summer,Wrestling,Wrestling Freestyle,Wf 48 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 55 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 60 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 63 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 66 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 72 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 74 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 84 KG
+Summer,Wrestling,Wrestling Freestyle,Wf 96 KG
+Summer,Wrestling,Wrestling Freestyle,Wg 120 KG
+Summer,Wrestling,Wrestling Freestyle,Wg 55 KG
+Summer,Wrestling,Wrestling Freestyle,Wg 60 KG
+Summer,Wrestling,Wrestling Freestyle,Wg 66 KG
+Summer,Wrestling,Wrestling Freestyle,Wg 74 KG
+Summer,Wrestling,Wrestling Freestyle,Wg 84 KG
+Summer,Wrestling,Wrestling Freestyle,Wg 96 KG

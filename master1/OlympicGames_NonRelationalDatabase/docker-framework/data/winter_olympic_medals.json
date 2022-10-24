@@ -1,0 +1,4092 @@
+[
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 4,
+    "Silver": 7,
+    "Bronze": 6
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 4,
+    "Silver": 4,
+    "Bronze": 3
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 3
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Belgium",
+    "Country_Code": "BEL",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1924,
+    "Host_country": "France",
+    "Host_city": "Chamonix",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 6,
+    "Silver": 4,
+    "Bronze": 5
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Belgium",
+    "Country_Code": "BEL",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 0,
+    "Silver": 3,
+    "Bronze": 1
+  },
+  {
+    "Year": 1928,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 5
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 6,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 3
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1932,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 7,
+    "Silver": 5,
+    "Bronze": 3
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 0
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1936,
+    "Host_country": "Germany",
+    "Host_city": "Garmisch-Partenkirchen",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 3
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 3
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 3
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 4
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 3
+  },
+  {
+    "Year": 1948,
+    "Host_country": "Switzerland",
+    "Host_city": "St. Moritz",
+    "Country_Name": "Belgium",
+    "Country_Code": "BEL",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 7,
+    "Silver": 3,
+    "Bronze": 6
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 4,
+    "Silver": 6,
+    "Bronze": 1
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 0,
+    "Silver": 3,
+    "Bronze": 0
+  },
+  {
+    "Year": 1952,
+    "Host_country": "Norway",
+    "Host_city": "Oslo",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 4
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 4
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 7,
+    "Silver": 3,
+    "Bronze": 6
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 4
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 1
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1956,
+    "Host_country": "Italy",
+    "Host_city": "Cortina d'Ampezzo",
+    "Country_Name": "United Team of Germany",
+    "Country_Code": "EUA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 3
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 0
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 7,
+    "Silver": 5,
+    "Bronze": 9
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 3
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "United Team of Germany",
+    "Country_Code": "EUA",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 1
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1960,
+    "Host_country": "United States",
+    "Host_city": "Squaw Valley",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "United Team of Germany",
+    "Country_Code": "EUA",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 3
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 1
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 0
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 4,
+    "Silver": 5,
+    "Bronze": 3
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 3,
+    "Silver": 6,
+    "Bronze": 6
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 3
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "North Korea",
+    "Country_Code": "PRK",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 11,
+    "Silver": 8,
+    "Bronze": 6
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1964,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 4,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 4
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 3
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Romania",
+    "Country_Code": "ROU",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 6,
+    "Silver": 6,
+    "Bronze": 2
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 5,
+    "Silver": 5,
+    "Bronze": 3
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "West Germany",
+    "Country_Code": "FRG",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 1,
+    "Silver": 5,
+    "Bronze": 1
+  },
+  {
+    "Year": 1968,
+    "Host_country": "France",
+    "Host_city": "Grenoble",
+    "Country_Name": "East Germany",
+    "Country_Code": "GDR",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 2,
+    "Silver": 5,
+    "Bronze": 5
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "East Germany",
+    "Country_Code": "GDR",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 7
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 8,
+    "Silver": 5,
+    "Bronze": 3
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 3
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 0,
+    "Silver": 4,
+    "Bronze": 1
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "West Germany",
+    "Country_Code": "FRG",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Spain",
+    "Country_Code": "ESP",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1972,
+    "Host_country": "Japan",
+    "Host_city": "Sapporo",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 1
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 1
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "East Germany",
+    "Country_Code": "GDR",
+    "Gold": 7,
+    "Silver": 5,
+    "Bronze": 7
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 13,
+    "Silver": 6,
+    "Bronze": 8
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 1
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 4
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Liechtenstein",
+    "Country_Code": "LIE",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "West Germany",
+    "Country_Code": "FRG",
+    "Gold": 2,
+    "Silver": 5,
+    "Bronze": 3
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1976,
+    "Host_country": "Austria",
+    "Host_city": "Innsbruck",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 1,
+    "Silver": 5,
+    "Bronze": 3
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Liechtenstein",
+    "Country_Code": "LIE",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 6
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "East Germany",
+    "Country_Code": "GDR",
+    "Gold": 9,
+    "Silver": 7,
+    "Bronze": 7
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 10,
+    "Silver": 6,
+    "Bronze": 6
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 6,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 3,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Bulgaria",
+    "Country_Code": "BUL",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "West Germany",
+    "Country_Code": "FRG",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1980,
+    "Host_country": "United States",
+    "Host_city": "Lake Placid",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 4,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "West Germany",
+    "Country_Code": "FRG",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 6,
+    "Silver": 10,
+    "Bronze": 9
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "East Germany",
+    "Country_Code": "GDR",
+    "Gold": 9,
+    "Silver": 9,
+    "Bronze": 6
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 4,
+    "Silver": 3,
+    "Bronze": 6
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 4,
+    "Silver": 4,
+    "Bronze": 0
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Liechtenstein",
+    "Country_Code": "LIE",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Yugoslavia",
+    "Country_Code": "YUG",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1984,
+    "Host_country": "Yugoslavia",
+    "Host_city": "Sarajevo",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 3,
+    "Silver": 5,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "West Germany",
+    "Country_Code": "FRG",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 4,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Soviet Union",
+    "Country_Code": "URS",
+    "Gold": 11,
+    "Silver": 9,
+    "Bronze": 9
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "East Germany",
+    "Country_Code": "GDR",
+    "Gold": 9,
+    "Silver": 10,
+    "Bronze": 6
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 4,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 5,
+    "Silver": 5,
+    "Bronze": 5
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Yugoslavia",
+    "Country_Code": "YUG",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Liechtenstein",
+    "Country_Code": "LIE",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 0,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 1988,
+    "Host_country": "Canada",
+    "Host_city": "Calgary",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 4,
+    "Silver": 6,
+    "Bronze": 4
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 3,
+    "Silver": 5,
+    "Bronze": 1
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Unified Team",
+    "Country_Code": "EUN",
+    "Gold": 9,
+    "Silver": 6,
+    "Bronze": 8
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 10,
+    "Silver": 10,
+    "Bronze": 6
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 9,
+    "Silver": 6,
+    "Bronze": 5
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 5,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 6,
+    "Silver": 7,
+    "Bronze": 8
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "New Zealand",
+    "Country_Code": "NZL",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Luxembourg",
+    "Country_Code": "LUX",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Czechoslovakia",
+    "Country_Code": "TCH",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 3
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Spain",
+    "Country_Code": "ESP",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "North Korea",
+    "Country_Code": "PRK",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 3
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 0,
+    "Silver": 3,
+    "Bronze": 0
+  },
+  {
+    "Year": 1992,
+    "Host_country": "France",
+    "Host_city": "Albertville",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 3,
+    "Silver": 6,
+    "Bronze": 4
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 4,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 4
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 10,
+    "Silver": 11,
+    "Bronze": 5
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Russia",
+    "Country_Code": "RUS",
+    "Gold": 11,
+    "Silver": 8,
+    "Bronze": 4
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 9,
+    "Silver": 7,
+    "Bronze": 8
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 6,
+    "Silver": 5,
+    "Bronze": 2
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 7,
+    "Silver": 5,
+    "Bronze": 8
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 4
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Slovenia",
+    "Country_Code": "SLO",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 3
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Ukraine",
+    "Country_Code": "UKR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Kazakhstan",
+    "Country_Code": "KAZ",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Uzbekistan",
+    "Country_Code": "UZB",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 5
+  },
+  {
+    "Year": 1994,
+    "Host_country": "Norway",
+    "Host_city": "Lillehammer",
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Ukraine",
+    "Country_Code": "UKR",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 3,
+    "Silver": 5,
+    "Bronze": 9
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 5,
+    "Silver": 1,
+    "Bronze": 4
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 6
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 2,
+    "Silver": 6,
+    "Bronze": 2
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Russia",
+    "Country_Code": "RUS",
+    "Gold": 9,
+    "Silver": 6,
+    "Bronze": 3
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 10,
+    "Silver": 10,
+    "Bronze": 5
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 12,
+    "Silver": 9,
+    "Bronze": 8
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 5,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 6,
+    "Silver": 3,
+    "Bronze": 4
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 6,
+    "Silver": 5,
+    "Bronze": 4
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Belgium",
+    "Country_Code": "BEL",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 0,
+    "Silver": 6,
+    "Bronze": 2
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Denmark",
+    "Country_Code": "DEN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Kazakhstan",
+    "Country_Code": "KAZ",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Czech Republic",
+    "Country_Code": "CZE",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 5
+  },
+  {
+    "Year": 1998,
+    "Host_country": "Japan",
+    "Host_city": "Nagano",
+    "Country_Name": "Bulgaria",
+    "Country_Code": "BUL",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Slovenia",
+    "Country_Code": "SLO",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Bulgaria",
+    "Country_Code": "BUL",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 13,
+    "Silver": 5,
+    "Bronze": 7
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 12,
+    "Silver": 16,
+    "Bronze": 8
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 7,
+    "Silver": 3,
+    "Bronze": 7
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 10,
+    "Silver": 13,
+    "Bronze": 11
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 5
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 3,
+    "Silver": 5,
+    "Bronze": 0
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 10
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 6
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 4,
+    "Silver": 5,
+    "Bronze": 2
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 4,
+    "Silver": 4,
+    "Bronze": 5
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 4,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Croatia",
+    "Country_Code": "CRO",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Czech Republic",
+    "Country_Code": "CZE",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Estonia",
+    "Country_Code": "EST",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 2002,
+    "Host_country": "United States",
+    "Host_city": "Salt Lake City",
+    "Country_Name": "Russia",
+    "Country_Code": "RUS",
+    "Gold": 5,
+    "Silver": 4,
+    "Bronze": 4
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 5,
+    "Silver": 0,
+    "Bronze": 6
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 5
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 2,
+    "Silver": 8,
+    "Bronze": 9
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Estonia",
+    "Country_Code": "EST",
+    "Gold": 3,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 5,
+    "Silver": 4,
+    "Bronze": 5
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Russia",
+    "Country_Code": "RUS",
+    "Gold": 8,
+    "Silver": 6,
+    "Bronze": 8
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 9,
+    "Silver": 7,
+    "Bronze": 7
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 11,
+    "Silver": 12,
+    "Bronze": 6
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 6,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 7,
+    "Silver": 2,
+    "Bronze": 5
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 7,
+    "Silver": 10,
+    "Bronze": 7
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Slovakia",
+    "Country_Code": "SVK",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Bulgaria",
+    "Country_Code": "BUL",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 9,
+    "Silver": 9,
+    "Bronze": 7
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Latvia",
+    "Country_Code": "LAT",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Ukraine",
+    "Country_Code": "UKR",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Croatia",
+    "Country_Code": "CRO",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Czech Republic",
+    "Country_Code": "CZE",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 0,
+    "Silver": 6,
+    "Bronze": 3
+  },
+  {
+    "Year": 2006,
+    "Host_country": "Italy",
+    "Host_city": "Turin",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 4,
+    "Silver": 6,
+    "Bronze": 6
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 5,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 5,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 6
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Russia",
+    "Country_Code": "RUS",
+    "Gold": 3,
+    "Silver": 5,
+    "Bronze": 7
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 4,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 9,
+    "Silver": 15,
+    "Bronze": 13
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 10,
+    "Silver": 13,
+    "Bronze": 7
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 14,
+    "Silver": 7,
+    "Bronze": 5
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 6,
+    "Silver": 0,
+    "Bronze": 3
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 6,
+    "Silver": 6,
+    "Bronze": 2
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 9,
+    "Silver": 8,
+    "Bronze": 6
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 4
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Latvia",
+    "Country_Code": "LAT",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Slovenia",
+    "Country_Code": "SLO",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Kazakhstan",
+    "Country_Code": "KAZ",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Estonia",
+    "Country_Code": "EST",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Slovakia",
+    "Country_Code": "SVK",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Czech Republic",
+    "Country_Code": "CZE",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 4
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Croatia",
+    "Country_Code": "CRO",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 0,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 2010,
+    "Host_country": "Canada",
+    "Host_city": "Vancouver",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 10,
+    "Silver": 10,
+    "Bronze": 5
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Latvia",
+    "Country_Code": "LAT",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Ukraine",
+    "Country_Code": "UKR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Slovakia",
+    "Country_Code": "SVK",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 1,
+    "Silver": 4,
+    "Bronze": 3
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 1
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 3
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Kazakhstan",
+    "Country_Code": "KAZ",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 11,
+    "Silver": 5,
+    "Bronze": 10
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Russia",
+    "Country_Code": "RUS",
+    "Gold": 11,
+    "Silver": 10,
+    "Bronze": 9
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 6
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Croatia",
+    "Country_Code": "CRO",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Czech Republic",
+    "Country_Code": "CZE",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 7,
+    "Silver": 2,
+    "Bronze": 2
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "Gold": 5,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Slovenia",
+    "Country_Code": "SLO",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 4
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 9,
+    "Silver": 9,
+    "Bronze": 10
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 8,
+    "Silver": 7,
+    "Bronze": 9
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 8,
+    "Silver": 6,
+    "Bronze": 5
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 2
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 2,
+    "Silver": 7,
+    "Bronze": 6
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 4,
+    "Silver": 8,
+    "Bronze": 5
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 4,
+    "Silver": 4,
+    "Bronze": 7
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 4,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2014,
+    "Host_country": "Russia",
+    "Host_city": "Sochi",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 2
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Liechtenstein",
+    "Country_Code": "LIE",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "United States",
+    "Country_Code": "USA",
+    "Gold": 9,
+    "Silver": 8,
+    "Bronze": 6
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Latvia",
+    "Country_Code": "LAT",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Japan",
+    "Country_Code": "JPN",
+    "Gold": 4,
+    "Silver": 5,
+    "Bronze": 4
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Austria",
+    "Country_Code": "AUT",
+    "Gold": 5,
+    "Silver": 3,
+    "Bronze": 6
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "France",
+    "Country_Code": "FRA",
+    "Gold": 5,
+    "Silver": 4,
+    "Bronze": 6
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Czech Republic",
+    "Country_Code": "CZE",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 3
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Olympic Athletes from Russia",
+    "Country_Code": "OAR",
+    "Gold": 2,
+    "Silver": 6,
+    "Bronze": 9
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Italy",
+    "Country_Code": "ITA",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 5
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Switzerland",
+    "Country_Code": "SUI",
+    "Gold": 5,
+    "Silver": 6,
+    "Bronze": 4
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Germany",
+    "Country_Code": "GER",
+    "Gold": 14,
+    "Silver": 10,
+    "Bronze": 7
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Canada",
+    "Country_Code": "CAN",
+    "Gold": 11,
+    "Silver": 8,
+    "Bronze": 10
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Netherlands",
+    "Country_Code": "NED",
+    "Gold": 8,
+    "Silver": 6,
+    "Bronze": 6
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "South Korea",
+    "Country_Code": "KOR",
+    "Gold": 5,
+    "Silver": 8,
+    "Bronze": 4
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Sweden",
+    "Country_Code": "SWE",
+    "Gold": 7,
+    "Silver": 6,
+    "Bronze": 1
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Norway",
+    "Country_Code": "NOR",
+    "Gold": 14,
+    "Silver": 14,
+    "Bronze": 11
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Belarus",
+    "Country_Code": "BLR",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Belgium",
+    "Country_Code": "BEL",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Slovenia",
+    "Country_Code": "SLO",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Australia",
+    "Country_Code": "AUS",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Kazakhstan",
+    "Country_Code": "KAZ",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Spain",
+    "Country_Code": "ESP",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "New Zealand",
+    "Country_Code": "NZL",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Ukraine",
+    "Country_Code": "UKR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Finland",
+    "Country_Code": "FIN",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 4
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Slovakia",
+    "Country_Code": "SVK",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "China",
+    "Country_Code": "CHN",
+    "Gold": 1,
+    "Silver": 6,
+    "Bronze": 2
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Hungary",
+    "Country_Code": "HUN",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Poland",
+    "Country_Code": "POL",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1
+  },
+  {
+    "Year": 2018,
+    "Host_country": "South Korea",
+    "Host_city": "Pyeongchang",
+    "Country_Name": "Great Britain",
+    "Country_Code": "GBR",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 4
+  }
+]

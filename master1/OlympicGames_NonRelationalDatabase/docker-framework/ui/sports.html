@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Visualization OG - Sports</title>
+        <meta charset="UTF-8">
+        <script type="text/javascript" src="js/d3.min.js"></script>
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <style type="text/css">
+            .sport{
+                height: 1.1em;
+                display: table;
+                width: 400px;
+            }
+            .sportName{
+                font-size: small;
+                display: table-cell;
+            }
+	    #container{
+		display:grid;
+		grid-template-columns: 3fr 1fr;
+	    }
+        </style>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="olympics.html">Country</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="olympicsYear.html">Year</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="globe.html">Globe</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="sports.html">Sports</a>
+            </li>
+        </ul>
+	<h2>Visualize sports, discipline & events of Olympics games</h2>
+        <div> 
+            <button onclick="queryWinter()">Show only Winter Sports</button>
+	    <button onclick="querySummer()">Show only Summer Sports</button>
+        </div>
+	<div id="selectorSports"></div>
+	<div id="container">
+		<div id="svgTrial"></div>
+		<div id="svgLegend"></div>
+	</div>
+        <div id="content" style="float:clear"></div>
+    </body>
+
+    <script>
+        let data;
+
+	function queryWinter(){
+	    d3.selectAll("div#content").html(null);
+            d3.selectAll("div#selectorSports").html(null);
+	    d3.selectAll("div#svgTrial").html(null);
+	    d3.selectAll("div#svgLegend").html(null);
+	    d3.json("http://localhost:4000/?query={olympicsSeason(season: \"Winter\"){sport discipline event}}").then(writeSports)		
+	}
+
+	function querySummer(){
+	    d3.selectAll("div#content").html(null);
+	    d3.selectAll("div#selectorSports").html(null);
+	    d3.selectAll("div#svgTrial").html(null);
+            d3.selectAll("div#svgLegend").html(null);
+	    d3.json("http://localhost:4000/?query={olympicsSeason(season: \"Summer\"){sport discipline event}}").then(writeSports)
+	}
+
+	function createPieChart(data) {
+	   
+	    let root = data.data.olympicsSports
+	    let unique = [...new Set(root.map(d => d.event))]
+	    let nbOfEvent = unique.length
+	    let cpt = 1 
+	    let cpt2 = 1
+
+	    let div = d3.select("#svgTrial")
+	    let width = 800
+	    let height = 640
+	    let radius = Math.min(width, height) / 2;
+		
+	    let svg = div.append("svg")
+		    .attr("width", width)
+		    .attr("height", height)
+
+	    let g = svg.append("g")
+		    .attr("transform", "translate(" + width / 1.8 + "," + height / 2 + ")");
+
+	    let pie = d3.pie().value((d) => {return 100 / nbOfEvent;})
+
+	    let label = d3.arc()
+			.outerRadius(radius)
+			.innerRadius(radius-80)
+
+	    let path = d3.arc()
+			.outerRadius(radius)
+			.innerRadius(250);
+
+	    let arc = g.selectAll(".arc")
+			.data(pie(root))
+			.enter().append("g")
+			.attr("class", "arc");
+
+	    arc.append("path")
+	    	.attr("d", path)
+		.style("fill",function() {
+    			return "hsl(" + Math.random() * 360 + ",100%,50%)";
+    		})
+
+            arc.append("text")
+               .attr("transform", function(d) { 
+                        return "translate(" + label.centroid(d) + ")"; 
+                })
+    		.attr("text-anchor", "middle")
+               .text((d) => { return cpt++ + "." });
+
+            svg.append("g")
+               .attr("transform", "translate(" + (width / 6 - 120) + "," + 20 + ")")
+               .append("text")
+               .text("Events in the sport category :" + root[0].sport)
+               .attr("class", "title")
+		
+	    d3
+                    .select("#svgLegend")
+                    .selectAll("div")
+                    .data(root)
+                    .join("div")
+                    .attr("class", "sport")
+                    .append("div")
+                    .attr("class", "sportName")
+                    .text(d => cpt2++ + ". " + d.event)//.substring(0, 20))
+
+	}
+
+	function writeEvent(root) {
+
+            data = root.data.olympicsSports
+
+            d3
+                    .select("#content")
+                    .selectAll("div")
+                    .data(data)
+                    .join("div")
+                    .attr("class", "sport")
+                    .append("div")
+                    .attr("class", "sportName")
+                    .text(d => "Discipline: " + d.discipline)//.substring(0, 20))
+                    .append("div")
+                    .attr("class", "sportDiscipline")
+                    .text(d => "Event: " + d.event)//.substring(0, 20))
+
+	    d3.selectAll("div#svgTrial").html(null);
+            d3.selectAll("div#svgLegend").html(null);
+
+	    createPieChart(root)
+	}
+
+        function writeSports(root) {
+
+            data = root.data.olympicsSeason
+	    unique = [...new Set(data.map(d => d.sport))]
+
+            d3
+                    .select("#content")
+                    .selectAll("div")
+                    .data(data)
+                    .join("div")
+                    .attr("class", "sport")
+                    .append("div")
+                    .attr("class", "sportName")
+                    .text(d => "Sport: " + d.sport)//.substring(0, 20))
+		    .append("div")
+                    .attr("class", "sportDiscipline")
+                    .text(d => "Discipline: " + d.discipline)//.substring(0, 20))
+		    .append("div")
+                    .attr("class", "sportEvent")
+                    .text(d => "Event: " + d.event)//.substring(0, 20))
+
+            d3
+                    .select("#selectorSports")
+                    .append("select")
+                    .attr("class", "select")
+                    
+	    d3
+		    .select("select")
+                    .selectAll("option")
+                    .data(unique).enter()
+                    .append("option")
+		    .attr("value", d => d)
+                    .text(d => d)
+
+            d3
+                    .selectAll("select")
+                    .on("change", e => {
+                        d3.selectAll("div#content").html(null);
+                        console.log(e.target.value)
+			d3.selectAll("div#svgTrial").html(null);
+            		d3.selectAll("div#svgLegend").html(null);
+                        d3.json("http://localhost:4000/?query={olympicsSports(sport: \""+e.target.value+"\"){sport discipline event}}").then(createPieChart)
+                    })
+        }
+        d3.json("http://localhost:4000/?query={olympicsSeason(season: \"Winter\"){sport discipline event}}").then(writeSports)
+
+    </script>
+</html>

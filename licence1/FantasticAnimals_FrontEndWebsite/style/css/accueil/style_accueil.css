@@ -1,0 +1,80 @@
+#slider figure img{
+    width:20%;
+    float: left;
+  }
+
+#slider{
+    width:100%;
+    overflow: hidden;
+    margin: 0;
+    height:  100%;
+    order:1;
+  }
+
+#slider figure{
+  position:relative;
+  width:500%;
+  margin:0;
+  animation: 15s slider infinite;
+}
+
+/* ci-dessus sont des données qui permettent de régler le temps de transition, la taille du slider, leur position, marges, etc...  */
+
+@keyframes slider {
+  0% {
+      left:0;
+    }
+  16%{
+    left:0;
+  }
+  25% {
+      left:-100%;
+  }
+  41% {
+      left:-100%;
+  }
+  50% {
+      left:-200%;
+  }
+  66% {
+      left:-200%;
+  }
+  75% {
+       left:-300%;
+   }
+  91% {
+       left:-300%;
+}
+99.999% {
+  left:-400%;
+  }
+100%{
+  left:0;
+}
+}
+ /* ci dessus correspond à l'étape du slider d'image, les pourcentages correspondent à la position de l'image à une certaine période au niveau du temps, les pourcentages négatifs permettent de décaler les images pour que l'on ne l'est voit plus,
+ le pourcentage 99.999% permet de faire une boucle avec le slider pour éviter que le défilement soit obligé d'aller chercher la première image dans le sens inverse  */
+
+body{
+  background-color: black;
+}
+
+p{
+  color: white;
+  border: 1px solid white;
+  text-align: justify;
+  border-radius: 10px;
+  order:2;
+  margin:10px;
+  padding:10px;
+  margin-bottom: auto;
+  margin-top: auto;
+  font-family: "mapolice2";
+}
+
+section{
+    display:grid;
+    grid-template-columns: 75% 25%;
+}
+
+/* ci-dessus sont des données d'apparence comme le fond mais aussi de l'apparence du texte de la page d'accueil */

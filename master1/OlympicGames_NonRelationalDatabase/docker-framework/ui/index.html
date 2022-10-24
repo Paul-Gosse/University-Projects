@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Visualization OG - Home</title>
+        <meta charset="UTF-8">
+        <script type="text/javascript" src="js/d3.min.js"></script>
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" href="index.html">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="olympics.html">Country</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="olympicsYear.html">Year</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="globe.html">Globe</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="sports.html">Sports</a>
+            </li>
+        </ul>
+        <section id="content">
+            <div id="d3-content">
+                <p>Pr&eacute;sentation de donn&eacute;es concernant les jeux olympiques
+		    &nbsp;: Visualisation par pays accueillants, par sports/disciplines & épreuves, 
+		    par médailles obtenus par pays, par médailles distribuées par année.</p>
+                <p>On cherche &agrave; rendre 
+                    l'information visuellement attractive.</p>
+                <p>Ce framework combine&nbsp;:</p>
+                <ul><li>une base de donn&eacute;es non traditionnelle fournissant du JSON</li>
+                    <li>un serveur Nodejs avec socket.io pour servir les données</li>
+                    <li>une visualisation de donn&eacute;es générée côté client avec D3.js</li>
+		    <li>une utilisation de l'API MapboxGL pour visualiser la carte du monde
+                </ul>
+                <p>Dans cette version, les données sont des fichiers JSON 
+                    statiques hébergés sur le serveur&nbsp: plus besoin de serveur
+                    Nodejs ni de gestionnaire de base de données.</p>
+            </div>
+            <div id="nconf"></div>
+        </section>
+   </body>
+
+</html>

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Visualization OG - Host Cities</title>
+        <meta charset="UTF-8">
+        <script type="text/javascript" src="js/d3.min.js"></script>
+	<link href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css" rel="stylesheet" />
+    	<script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <style type="text/css">
+	    #map{
+		width: 100%;
+		height: 800px;
+	    }
+        </style>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="olympics.html">Country</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="olympicsYear.html">Year</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="globe.html">Globe</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="sports.html">Sports</a>
+            </li>
+        </ul>
+	 <h2 id="title"></h2>
+        <div>
+            <button onclick="queryWinter()">Show only Winter Host</button>
+            <button onclick="querySummer()">Show only Summer Host</button>
+	    <button onclick="queryAll()">Show all</button>
+        </div>	
+	<div id="map"></div>
+   </body>
+
+   <script>
+        mapboxgl.accessToken = 'your_token';
+        const map = new mapboxgl.Map({
+                container: 'map', // container ID
+                style: 'mapbox://styles/mapbox/streets-v11', // style URL
+                center: [2.0,46.603354], // starting position [lng, lat]
+                zoom: 2 // starting zoom
+        });
+
+	function queryWinter(){
+            d3.selectAll("div#map").html(null);
+            d3.selectAll("h2#title").html(null);
+            d3.json("http://localhost:4000/?query={hostCitiesSeason(season:\"Winter\"){year country city latitude longitude season}}").then(putMarkersSeason)
+        }
+
+        function querySummer(){
+            d3.selectAll("div#map").html(null);
+            d3.selectAll("h2#title").html(null);
+            d3.json("http://localhost:4000/?query={hostCitiesSeason(season:\"Summer\"){year country city latitude longitude season}}").then(putMarkersSeason)
+        }
+
+	function queryAll(){
+	    d3.selectAll("div#map").html(null);
+            d3.selectAll("h2#title").html(null);
+	    d3.json("http://localhost:4000/?query={hostCities{year country city latitude longitude season}}").then(putMarkers)
+	}
+
+	function putMarkers(root){
+        	mapboxgl.accessToken = 'your_token';
+        	const map = new mapboxgl.Map({
+                	container: 'map', // container ID
+                	style: 'mapbox://styles/mapbox/streets-v11', // style URL
+                	center: [2.0,46.603354], // starting position [lng, lat]
+                	zoom: 2 // starting zoom
+       		 });
+		let features = root.data.hostCities
+		let color = ""
+		for(const hostCities of features){
+
+                        if(hostCities.season === "Winter"){
+                        	color = "#0000FF";
+                        } else if (hostCities.season === "Summer"){
+                                color = "#FFA000";
+                        }
+						
+			let coord = [hostCities.longitude, hostCities.latitude]			
+
+			const marker = new mapboxgl.Marker({
+				color: color
+			});
+				
+			marker.setPopup(
+				new mapboxgl.Popup({ offset: 60 })
+				.setHTML(
+				`<h5>${hostCities.year} ${hostCities.season} Olympics</h5>
+				<h6>${hostCities.city} - ${hostCities.country}</h6>`)
+			)			
+			marker.setLngLat(coord).addTo(map);
+		}
+                d3.select("#title")
+                      .text("Host places of Olympics Games")
+	}
+
+	function putMarkersSeason(root){
+                mapboxgl.accessToken = 'your_token';
+                const map = new mapboxgl.Map({
+                        container: 'map', // container ID
+                        style: 'mapbox://styles/mapbox/streets-v11', // style URL
+                        center: [2.0,46.603354], // starting position [lng, lat]
+                        zoom: 2 // starting zoom
+                 });
+                let features = root.data.hostCitiesSeason
+                let color = ""
+                for(const hostCities of features){
+
+                        if(hostCities.season === "Winter"){
+                                color = "#0000FF";
+				d3.select("#title")
+                        		.text("Host places of Olympics Games - Winter Edition")
+                        } else if (hostCities.season === "Summer"){
+                                color = "#FFA000";
+				d3.select("#title")
+                                        .text("Host places of Olympics Games - Summer Edition")
+                        }
+
+                        let coord = [hostCities.longitude, hostCities.latitude]
+
+                        const marker = new mapboxgl.Marker({
+                                color: color
+                        });
+
+                        marker.setPopup(
+                                new mapboxgl.Popup({ offset: 60 })
+                                .setHTML(
+                                `<h5>${hostCities.year} ${hostCities.season} Olympics</h5>
+                                <h6>${hostCities.city} - ${hostCities.country}</h6>`)
+                        )
+                        marker.setLngLat(coord).addTo(map);
+                }
+        }
+
+
+	d3.json("http://localhost:4000/?query={hostCities{year country city latitude longitude season}}").then(putMarkers) 
+   </script>
+</html>

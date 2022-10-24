@@ -1,0 +1,54 @@
+scalar JSON
+
+type Sports{
+   season: String
+   sport: String
+   discipline: String
+   event: String
+}
+
+type WinterOlympics{
+   Year: Int
+   Host_country: String
+   Host_city: String
+   Country_Name: String
+   Country_Code: String
+   Gold: Int
+   Silver: Int
+   Bronze: Int
+} 
+
+type SummerOlympics{
+   Year: Int
+   Host_country: String
+   Host_city: String
+   Country_Name: String
+   Country_Code: String
+   Gold: Int
+   Silver: Int
+   Bronze: Int
+}
+
+type HostCities{
+   city: String
+   country: String
+   season: String
+   year: Int
+   latitude: Float
+   longitude: Float
+}
+
+
+type Query {
+    olympics: [Sports]
+    winterMedals: [WinterOlympics]
+    summerMedals: [SummerOlympics]
+    olympicsSeason(season: String): [Sports]
+    olympicsSports(sport: String): [Sports]
+    winterPerYear(Year: Int): [WinterOlympics]
+    summerPerYear(Year: Int): [SummerOlympics]
+    winterPerCountry(Country_Name: String): [WinterOlympics]
+    summerPerCountry(Country_Name: String): [SummerOlympics]
+    hostCities: [HostCities]
+    hostCitiesSeason(season: String): [HostCities]
+}

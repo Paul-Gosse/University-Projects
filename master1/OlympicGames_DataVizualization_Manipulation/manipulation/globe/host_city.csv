@@ -1,0 +1,50 @@
+City;Country;Season;Year;latitude;longitude
+Athens;Greece;Summer;1896;37.983810;23.727539
+Paris;France;Summer;1900;48.856613;2.352222
+St. Louis;United States;Summer;1904;38.627003;-90.199402
+London;United Kingdom;Summer;1908;51.507351;-0.127758
+Stockholm;Sweden;Summer;1912;59.329323;18.068581
+Antwerp;Belgium;Summer;1920;51.219448;4.402464
+Chamonix;France;Winter;1924;45.925461;6.869810
+Paris;France;Summer;1924;48.856613;2.352222
+St. Moritz;Switzerland;Winter;1928;46.497060;9.838440
+Amsterdam;Netherlands;Summer;1928;52.370216;4.895168
+Lake Placid;United States;Winter;1932;27.293510;-81.360573
+Los Angeles;United States;Summer;1932;34.052235;-118.243683
+Garmisch-Partenkirchen;Nazi Germany;Winter;1936;47.492371;11.086110
+Berlin;Nazi Germany;Summer;1936;52.520008;13.404954
+St. Moritz;Switzerland;Winter;1948;46.497060;9.838440
+London;United Kingdom;Summer;1948;51.507351;-0.127758
+Oslo;Norway;Winter;1952;59.913868;10.752245
+Helsinki;Finland;Summer;1952;60.169857;24.938379
+Cortina d'Ampezzo;Italy;Winter;1956;46.537380;12.138920
+Stockholm;Sweden;Summer;1956;59.329323;18.068581
+Squaw Valley;United States;Winter;1960;36.725788;-119.235817
+Rome;Italy;Summer;1960;41.902782;12.496365
+Innsbruck;Austria;Winter;1964;47.262691;11.394700
+Tokyo;Japan;Summer;1964;35.689487;139.691711
+Grenoble;France;Winter;1968;45.194260;5.731670
+Mexico City;Mexico;Summer;1968;19.432608;-99.133209
+Sapporo;Japan;Winter;1972;43.062096;141.354370
+Munich;West Germany;Summer;1972;48.135124;11.581981
+Innsbruck;Austria;Winter;1976;47.262691;11.394700
+Montreal;Canada;Summer;1976;45.501690;-73.567253
+Lake Placid;United States;Winter;1980;27.293510;-81.360573
+Moscow;Soviet Union;Summer;1980;55.755825;37.617298
+Sarajevo;Yugoslavia;Winter;1984;43.856258;18.413076
+Los Angeles;United States;Summer;1984;34.052235;-118.243683
+Calgary;Canada;Winter;1988;51.048615;-114.070847
+Seoul;South Korea;Summer;1988;37.566536;126.977966
+Albertville;France;Winter;1992;34.267849;-86.208801
+Barcelona;Spain;Summer;1992;41.385063;2.173404
+Lillehammer;Norway;Winter;1994;61.115273;10.466231
+Atlanta;United States;Summer;1996;33.748997;-84.387985
+Nagano;Japan;Winter;1998;36.653450;138.186035
+Sydney;Australia;Summer;2000;-33.868820;151.209290
+Salt Lake City;United States;Winter;2002;40.760780;-111.891045
+Athens;Greece;Summer;2004;37.983810;23.727539
+Turin;Italy;Winter;2006;45.068371;7.683070
+Beijing;China;Summer;2008;39.904202;116.407394
+Vancouver;Canada;Winter;2010;49.282730;-123.120735
+London;United Kingdom;Summer;2012;51.507351;-0.127758
+Sochi;Russia;Winter;2014;43.602810;39.734154

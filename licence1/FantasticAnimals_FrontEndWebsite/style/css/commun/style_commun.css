@@ -1,0 +1,46 @@
+@font-face{
+  font-family:"mapolice";
+  src:url("../../police/titre/supernatural_knight-webfont.woff");
+}
+
+@font-face{
+  font-family:"mapolice2";
+  src: url("../../police/autre/quicksand-regular-webfont.woff");
+}
+
+/* instauration des commandes de changement de police */
+
+main{
+  display:grid;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  font-family: "mapolice";
+  font-size: 230%;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  font-family: "mapolice2";
+}
+
+main a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  border-bottom: 1px solid white;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+
+li{
+  text-align: center;
+  font-size: 22px;
+}
+
+/* ci-dessus sont les données de la barre de navigation avce les liens vers les différentes pages et aussi le retour à la page d'accueil via le titre de la page, ces données modifient l'apparence des liens, du passage de la souris, de la taille et de la police   */

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Visualization OG - Medals per year </title>
+        <meta charset="UTF-8">
+        <script type="text/javascript" src="js/d3.min.js"></script>
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <style type="text/css">
+            .sport{
+                height: 1.1em;
+                display: table;
+                width: 400px;
+            }
+            .sportName{
+                font-size: small;
+                display: table-cell;
+            }
+	    #barchart, #barchart2{
+    		display: block;
+    		width: 100%;
+    		height: 100%;
+	    }
+	    .div1{
+		float:left;
+	    }
+	    .div2{
+		float:right;
+	    }
+	    
+
+        </style>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="olympics.html">Country</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="olympicsYear.html">Year</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="globe.html">Globe</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="sports.html">Sports</a>
+            </li>
+        </ul>
+	<h2 class="title">Vizualise number of medals distributed on specified year</h2>
+        <div> 
+            <button onclick="queryWinter()">Show only Winter Sports</button>
+	    <button onclick="querySummer()">Show only Summer Sports</button>
+        </div>
+	<div class="div1">
+		<h2 class="title">
+		<div class="graph" id="barchart"></div>
+	</div>
+	<div class="div2">
+		<div id="titleSeason"></div>
+		<div id="selectorYear"></div>
+		<div id="content" style="float:clear"></div>
+	</div>
+    </body>
+
+    <script>
+        let data;
+
+	function queryWinter(){
+	    d3.selectAll("div#content").html(null);
+	    d3.selectAll("div#selectorYear").html(null);
+	    d3.selectAll("div#titleSeason").html(null);
+	    d3.selectAll("div#barchart").html(null);
+	    d3.json("http://localhost:4000/?query={winterMedals{Year Host_city Host_country Country_Name Gold Silver Bronze}}").then(writeWinterMedals)		
+	}
+
+	function querySummer(){
+            d3.selectAll("div#content").html(null);
+            d3.selectAll("div#selectorYear").html(null);
+            d3.selectAll("div#titleSeason").html(null);
+            d3.selectAll("div#barchart").html(null);
+	    d3.json("http://localhost:4000/?query={summerMedals{Year Host_city Host_country Country_Name Gold Silver Bronze}}").then(writeSummerMedals)
+	}
+
+        function createBarChartYear(data){
+
+            root = data
+            let countGold = 0
+            let countSilver = 0
+            let countBronze = 0
+            for(let [index, val] of root.entries()){
+                countGold += val.Gold
+                countSilver += val.Silver
+                countBronze += val.Bronze
+            }
+
+            let medals = [{"Type":"Gold", "Value":countGold}, {"Type":"Silver", "Value":countSilver}, {"Type":"Bronze", "Value":countBronze}]
+            console.log(medals)
+
+	    let maximum = Math.max(countGold, countSilver, countBronze)
+
+            var margin = {top: 30, right: 30, bottom: 70, left: 60},
+                width = 860 - margin.left - margin.right,
+                height = 600 - margin.top - margin.bottom;
+
+            var svg = d3.select("#barchart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("display", "block")
+                .attr("width", "100%")
+                .attr("height", "100%")
+                .attr("transform",
+                        "translate(" + margin.left + "," + margin.top + ")");
+
+            let x = d3.scaleBand()
+                .domain(medals.map(function(d) { return d.Type; }))
+                .range([0, width])
+                .padding(0.2);
+                svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x))
+                .selectAll("text")
+                .attr("transform", "translate(-10,0)rotate(-45)")
+                .style("text-anchor", "end");
+
+            let y = d3.scaleLinear()
+                .domain([0, maximum+100])
+                .range([ height, 0]);
+                svg.append("g")
+                .call(d3.axisLeft(y));
+
+                svg
+                .append("text")
+                .attr("class", "title")
+                .attr("x", width / 2)
+                .attr("y", margin.top)
+                .attr("font-family", "sans-serif")
+                .attr("fill", "green")
+                .attr("text-anchor", "middle")
+                .text("Numbers of medals distributed on year: " + data[0].Year);
+
+                svg.selectAll("mybar1")
+                        .data(medals)
+                        .enter()
+                                .append("rect")
+                                .attr("x", function(d) { return x(d.Type); })
+                                .attr("y", function(d) { return y(d.Value); })
+                                .attr("width", x.bandwidth())
+                                .attr("height", function(d) { return height - y(d.Value); })
+                                .attr("fill", "darkgoldenrod")
+
+		svg.append("text")
+		.attr("x", 125)
+		.attr("y", 560)
+		.text(medals[0].Value)
+		.style("font-size", "18px")	
+
+		svg.append("text")
+                .attr("x", 365)
+                .attr("y", 560)
+                .text(medals[1].Value)
+		.style("font-size", "18px")
+
+		svg.append("text")
+                .attr("x", 610)
+                .attr("y", 560)
+                .text(medals[2].Value)
+		.style("font-size", "18px")
+
+        }
+
+	function writeSummerPerYear(root){
+	    data = root.data.summerPerYear;
+            uniqueYear = [...new Set(data.map(d => d.Year))]
+            uniqueHostCity = [...new Set(data.map(d => d.Host_city))]
+            uniqueHostCountry = [...new Set(data.map(d => d.Host_country))]
+
+	    d3.selectAll("div#content").html(null);
+
+            d3
+                    .select("#content")
+                    .selectAll("div")
+                    .data(data)
+                    .join("div")
+		    .attr("class", "sport")
+		    .append("div")
+                    .attr("class", "country")
+                    .text(d => "Country: " + d.Country_Name)//.substring(0, 20))
+                    .append("div")
+                    .attr("class", "medalsNumber")
+                    .text(d => "Gold: " + d.Gold + ", Silver: "+ d.Silver + ", Bronze: " + d.Bronze)//.substring(0, 20))
+
+            d3.selectAll("div#barchart").html(null);
+            createBarChartYear(data)
+
+	}
+
+        function writeWinterPerYear(root){
+            data = root.data.winterPerYear;
+            uniqueYear = [...new Set(data.map(d => d.Year))]
+            uniqueHostCity = [...new Set(data.map(d => d.Host_city))]
+            uniqueHostCountry = [...new Set(data.map(d => d.Host_country))]
+
+            d3.selectAll("div#content").html(null);
+
+            d3
+                    .select("#content")
+                    .selectAll("div")
+                    .data(data)
+                    .join("div")
+                    .attr("class", "sport")
+                    .append("div")
+                    .attr("class", "country")
+                    .text(d => "Country: " + d.Country_Name)//.substring(0, 20))
+                    .append("div")
+                    .attr("class", "medalsNumber")
+                    .text(d => "Gold: " + d.Gold + ", Silver: "+ d.Silver + ", Bronze: " + d.Bronze)//.substring(0, 20))
+	   
+	    d3.selectAll("div#barchart").html(null);
+            createBarChartYear(data)
+
+        }	    
+
+	function writeSummerMedals(root) {
+
+            data = root.data.summerMedals
+	    uniqueYear = [...new Set(data.map(d => d.Year))]
+	    uniqueCountry_Name = [...new Set(data.map(d => d.Country_Name))]
+
+
+            d3
+                    .select("#content")
+                    .selectAll("div")
+                    .data(data)
+                    .join("div")
+                    .attr("class", "sport")
+		    .append("div")
+                    .text(d => d.Year + ": " + d.Host_city + " - "+ d.Host_country)		    
+                    .append("div")
+                    .attr("class", "country")
+                    .text(d => "Country: " + d.Country_Name)//.substring(0, 20))
+                    .append("div")
+                    .attr("class", "medalsNumber")
+                    .text(d => "Gold: " + d.Gold + ", Silver: "+ d.Silver + ", Bronze: " + d.Bronze)//.substring(0, 20))
+            d3
+                    .select("#selectorYear")
+                    .append("select")
+                    .attr("class", "select")
+		    .attr("id", "select1")
+
+            d3
+                    .select("#select1")
+                    .selectAll("option")
+                    .data(uniqueYear).enter()
+                    .append("option")
+                    .attr("value", d => d)
+                    .text(d => d)
+
+	    d3
+		    .select("#titleSeason")
+		    .append("h4")
+		    .text("Summer year selection")
+
+	    d3
+                    .selectAll("#select1")
+                    .on("change", e => {
+                        d3.selectAll("div#content").html(null);
+                        console.log(e.target.value)
+                        d3.json("http://localhost:4000/?query={summerPerYear(Year:"+e.target.value+"){Year Host_city Host_country Country_Name Gold Silver Bronze}}").then(writeSummerPerYear)
+                    })
+
+	}
+
+
+        function writeWinterMedals(root) {
+
+            data = root.data.winterMedals
+            uniqueYear = [...new Set(data.map(d => d.Year))]
+            uniqueCountry_Name = [...new Set(data.map(d => d.Country_Name))]
+
+
+            d3
+                    .select("#content")
+                    .selectAll("div")
+                    .data(data)
+                    .join("div")
+                    .attr("class", "sport")
+                    .append("div")
+                    .text(d => d.Year + ": " + d.Host_city + " - "+ d.Host_country)
+                    .append("div")
+                    .attr("class", "country")
+                    .text(d => "Country: " + d.Country_Name)//.substring(0, 20))
+                    .append("div")
+                    .attr("class", "medalsNumber")
+                    .text(d => "Gold: " + d.Gold + ", Silver: "+ d.Silver + ", Bronze: " + d.Bronze)//.substring(0, 20))
+
+            d3
+                    .select("#selectorYear")
+                    .append("select")
+                    .attr("class", "select")
+                    .attr("id", "select1")
+
+            d3
+                    .select("#select1")
+                    .selectAll("option")
+                    .data(uniqueYear).enter()
+                    .append("option")
+                    .attr("value", d => d)
+                    .text(d => d)
+            d3        
+                    .select("#titleSeason")
+                    .append("h4")   
+                    .text("Winter year selection")
+
+            d3
+                    .selectAll("#select1")
+                    .on("change", e => {
+                        d3.selectAll("div#content").html(null);
+                        console.log(e.target.value)
+                        d3.json("http://localhost:4000/?query={winterPerYear(Year:"+e.target.value+"){Year Host_city Host_country Country_Name Gold Silver Bronze}}").then(writeWinterPerYear)
+                    })
+        }
+
+        d3.json("http://localhost:4000/?query={summerMedals{Year Host_city Host_country Country_Name Gold Silver Bronze}}").then(writeSummerMedals)
+
+    </script>
+</html>

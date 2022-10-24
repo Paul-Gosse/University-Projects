@@ -1,0 +1,67 @@
+h1:hover{
+  font-size: 300%;
+}
+
+p{
+  text-align: justify;
+}
+
+section{
+  font-family: "mapolice2";
+  font-size: 17px;
+  border: 1px solid white;
+  width:35%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: black;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+/* ci dessus sont les changements d'apparences générale de la page, apparences sur le texte, alignement, ... et aussi sur le passage de la souris au niveau du titre */
+
+
+figcaption{
+  text-decoration: underline;
+}
+
+figure{
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin:auto;
+  width: 60%
+}
+
+img{
+  width:50%
+}
+
+/* ci-dessus sont les modifications générales de toutes les images, apparences, ... avce données pour la taille de l'image et aussi la taille du cadre  */
+
+footer{
+  font-family: "mapolice2";
+  height: 75px;
+  padding-left: 25px;
+  padding-bottom: 15px;
+}
+
+h4{
+  color:white;
+  padding-top: 5px;
+}
+
+footer a{
+  text-decoration: none;
+  color: white;
+}
+
+body{
+  background-color: black;
+}
+
+/* ci-dessus sont les modifciations d'apparence du footer sur les liens à la vue et au passage de la souris et des titres */

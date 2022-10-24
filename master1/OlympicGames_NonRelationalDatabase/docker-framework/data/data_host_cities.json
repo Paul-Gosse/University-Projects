@@ -1,0 +1,394 @@
+[
+    {
+        "city": "Athens",
+        "country": "Greece",
+        "season": "Summer",
+        "year": "1896",
+        "latitude": "37.98381",
+        "longitude": "23.727539"
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "season": "Summer",
+        "year": "1900",
+        "latitude": "48.856613",
+        "longitude": "2.352222"
+    },
+    {
+        "city": "St. Louis",
+        "country": "United States",
+        "season": "Summer",
+        "year": "1904",
+        "latitude": "38.627003",
+        "longitude": "-90.199402"
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "season": "Summer",
+        "year": "1908",
+        "latitude": "51.507351",
+        "longitude": "-0.127758"
+    },
+    {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "season": "Summer",
+        "year": "1912",
+        "latitude": "59.329323",
+        "longitude": "18.068581"
+    },
+    {
+        "city": "Antwerp",
+        "country": "Belgium",
+        "season": "Summer",
+        "year": "1920",
+        "latitude": "51.219448",
+        "longitude": "4.402464"
+    },
+    {
+        "city": "Chamonix",
+        "country": "France",
+        "season": "Winter",
+        "year": "1924",
+        "latitude": "45.925461",
+        "longitude": "6.86981"
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "season": "Summer",
+        "year": "1924",
+        "latitude": "48.856613",
+        "longitude": "2.352222"
+    },
+    {
+        "city": "St. Moritz",
+        "country": "Switzerland",
+        "season": "Winter",
+        "year": "1928",
+        "latitude": "46.49706",
+        "longitude": "9.83844"
+    },
+    {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "season": "Summer",
+        "year": "1928",
+        "latitude": "52.370216",
+        "longitude": "4.895168"
+    },
+    {
+        "city": "Lake Placid",
+        "country": "United States",
+        "season": "Winter",
+        "year": "1932",
+        "latitude": "27.29351",
+        "longitude": "-81.360573"
+    },
+    {
+        "city": "Los Angeles",
+        "country": "United States",
+        "season": "Summer",
+        "year": "1932",
+        "latitude": "34.052235",
+        "longitude": "-118.243683"
+    },
+    {
+        "city": "Garmisch-Partenkirchen",
+        "country": "Nazi Germany",
+        "season": "Winter",
+        "year": "1936",
+        "latitude": "47.492371",
+        "longitude": "11.08611"
+    },
+    {
+        "city": "Berlin",
+        "country": "Nazi Germany",
+        "season": "Summer",
+        "year": "1936",
+        "latitude": "52.520008",
+        "longitude": "13.404954"
+    },
+    {
+        "city": "St. Moritz",
+        "country": "Switzerland",
+        "season": "Winter",
+        "year": "1948",
+        "latitude": "46.49706",
+        "longitude": "9.83844"
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "season": "Summer",
+        "year": "1948",
+        "latitude": "51.507351",
+        "longitude": "-0.127758"
+    },
+    {
+        "city": "Oslo",
+        "country": "Norway",
+        "season": "Winter",
+        "year": "1952",
+        "latitude": "59.913868",
+        "longitude": "10.752245"
+    },
+    {
+        "city": "Helsinki",
+        "country": "Finland",
+        "season": "Summer",
+        "year": "1952",
+        "latitude": "60.169857",
+        "longitude": "24.938379"
+    },
+    {
+        "city": "Cortina d'Ampezzo",
+        "country": "Italy",
+        "season": "Winter",
+        "year": "1956",
+        "latitude": "46.53738",
+        "longitude": "12.13892"
+    },
+    {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "season": "Summer",
+        "year": "1956",
+        "latitude": "59.329323",
+        "longitude": "18.068581"
+    },
+    {
+        "city": "Squaw Valley",
+        "country": "United States",
+        "season": "Winter",
+        "year": "1960",
+        "latitude": "36.725788",
+        "longitude": "-119.235817"
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "season": "Summer",
+        "year": "1960",
+        "latitude": "41.902782",
+        "longitude": "12.496365"
+    },
+    {
+        "city": "Innsbruck",
+        "country": "Austria",
+        "season": "Winter",
+        "year": "1964",
+        "latitude": "47.262691",
+        "longitude": "11.3947"
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "season": "Summer",
+        "year": "1964",
+        "latitude": "35.689487",
+        "longitude": "139.691711"
+    },
+    {
+        "city": "Grenoble",
+        "country": "France",
+        "season": "Winter",
+        "year": "1968",
+        "latitude": "45.19426",
+        "longitude": "5.73167"
+    },
+    {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "season": "Summer",
+        "year": "1968",
+        "latitude": "19.432608",
+        "longitude": "-99.133209"
+    },
+    {
+        "city": "Sapporo",
+        "country": "Japan",
+        "season": "Winter",
+        "year": "1972",
+        "latitude": "43.062096",
+        "longitude": "141.35437"
+    },
+    {
+        "city": "Munich",
+        "country": "West Germany",
+        "season": "Summer",
+        "year": "1972",
+        "latitude": "48.135124",
+        "longitude": "11.581981"
+    },
+    {
+        "city": "Innsbruck",
+        "country": "Austria",
+        "season": "Winter",
+        "year": "1976",
+        "latitude": "47.262691",
+        "longitude": "11.3947"
+    },
+    {
+        "city": "Montreal",
+        "country": "Canada",
+        "season": "Summer",
+        "year": "1976",
+        "latitude": "45.50169",
+        "longitude": "-73.567253"
+    },
+    {
+        "city": "Lake Placid",
+        "country": "United States",
+        "season": "Winter",
+        "year": "1980",
+        "latitude": "27.29351",
+        "longitude": "-81.360573"
+    },
+    {
+        "city": "Moscow",
+        "country": "Soviet Union",
+        "season": "Summer",
+        "year": "1980",
+        "latitude": "55.755825",
+        "longitude": "37.617298"
+    },
+    {
+        "city": "Sarajevo",
+        "country": "Yugoslavia",
+        "season": "Winter",
+        "year": "1984",
+        "latitude": "43.856258",
+        "longitude": "18.413076"
+    },
+    {
+        "city": "Los Angeles",
+        "country": "United States",
+        "season": "Summer",
+        "year": "1984",
+        "latitude": "34.052235",
+        "longitude": "-118.243683"
+    },
+    {
+        "city": "Calgary",
+        "country": "Canada",
+        "season": "Winter",
+        "year": "1988",
+        "latitude": "51.048615",
+        "longitude": "-114.070847"
+    },
+    {
+        "city": "Seoul",
+        "country": "South Korea",
+        "season": "Summer",
+        "year": "1988",
+        "latitude": "37.566536",
+        "longitude": "126.977966"
+    },
+    {
+        "city": "Albertville",
+        "country": "France",
+        "season": "Winter",
+        "year": "1992",
+        "latitude": "34.267849",
+        "longitude": "-86.208801"
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "season": "Summer",
+        "year": "1992",
+        "latitude": "41.385063",
+        "longitude": "2.173404"
+    },
+    {
+        "city": "Lillehammer",
+        "country": "Norway",
+        "season": "Winter",
+        "year": "1994",
+        "latitude": "61.115273",
+        "longitude": "10.466231"
+    },
+    {
+        "city": "Atlanta",
+        "country": "United States",
+        "season": "Summer",
+        "year": "1996",
+        "latitude": "33.748997",
+        "longitude": "-84.387985"
+    },
+    {
+        "city": "Nagano",
+        "country": "Japan",
+        "season": "Winter",
+        "year": "1998",
+        "latitude": "36.65345",
+        "longitude": "138.186035"
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "season": "Summer",
+        "year": "2000",
+        "latitude": "-33.86882",
+        "longitude": "151.20929"
+    },
+    {
+        "city": "Salt Lake City",
+        "country": "United States",
+        "season": "Winter",
+        "year": "2002",
+        "latitude": "40.76078",
+        "longitude": "-111.891045"
+    },
+    {
+        "city": "Athens",
+        "country": "Greece",
+        "season": "Summer",
+        "year": "2004",
+        "latitude": "37.98381",
+        "longitude": "23.727539"
+    },
+    {
+        "city": "Turin",
+        "country": "Italy",
+        "season": "Winter",
+        "year": "2006",
+        "latitude": "45.068371",
+        "longitude": "7.68307"
+    },
+    {
+        "city": "Beijing",
+        "country": "China",
+        "season": "Summer",
+        "year": "2008",
+        "latitude": "39.904202",
+        "longitude": "116.407394"
+    },
+    {
+        "city": "Vancouver",
+        "country": "Canada",
+        "season": "Winter",
+        "year": "2010",
+        "latitude": "49.28273",
+        "longitude": "-123.120735"
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "season": "Summer",
+        "year": "2012",
+        "latitude": "51.507351",
+        "longitude": "-0.127758"
+    },
+    {
+        "city": "Sochi",
+        "country": "Russia",
+        "season": "Winter",
+        "year": "2014",
+        "latitude": "43.60281",
+        "longitude": "39.734154"
+    }
+]

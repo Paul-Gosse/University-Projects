@@ -1,0 +1,4496 @@
+[
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "Military Patrol"
+    },
+    {
+        "season": "Winter",
+        "sport": "Bobsleigh",
+        "discipline": "Bobsleigh",
+        "event": "Four-Man"
+    },
+    {
+        "season": "Winter",
+        "sport": "Curling",
+        "discipline": "Curling",
+        "event": "Curling"
+    },
+    {
+        "season": "Winter",
+        "sport": "Ice Hockey",
+        "discipline": "Ice Hockey",
+        "event": "Ice Hockey"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Figure skating",
+        "event": "Individual"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Figure skating",
+        "event": "Pairs"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "10000M"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "1500M"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "5000M"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "500M"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "Combined (4 Events)"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "18KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "50KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Ski Jumping",
+        "event": "K90 Individual (70M)"
+    },
+    {
+        "season": "Winter",
+        "sport": "Bobsleigh",
+        "discipline": "Bobsleigh",
+        "event": "Five-Man"
+    },
+    {
+        "season": "Winter",
+        "sport": "Bobsleigh",
+        "discipline": "Bobsleigh",
+        "event": "Two-Man"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Alpine Skiing",
+        "event": "Alpine Combined"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "4X10KM Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Alpine Skiing",
+        "event": "Downhill"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Alpine Skiing",
+        "event": "Slalom"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Alpine Skiing",
+        "event": "Giant Slalom"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "10KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "15KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "30KM Mass Start"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "3X5KM Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "20KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "1000M"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "3000M"
+    },
+    {
+        "season": "Winter",
+        "sport": "Luge",
+        "discipline": "Luge",
+        "event": "Doubles"
+    },
+    {
+        "season": "Winter",
+        "sport": "Luge",
+        "discipline": "Luge",
+        "event": "Singles"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "5KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Ski Jumping",
+        "event": "K120 Individual (90M)"
+    },
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "4X7.5KM Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Figure skating",
+        "event": "Ice Dancing"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "4X5KM Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Alpine Skiing",
+        "event": "Super-G"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Nordic Combined",
+        "event": "Team"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Ski Jumping",
+        "event": "K120 Team (90M)"
+    },
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "7.5KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Short Track Speed Skating",
+        "event": "3000M Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Short Track Speed Skating",
+        "event": "5000M Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "10KM Pursuit"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "15KM Mass Start"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "30KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Combined 10KM + 15KM Pursuit"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Combined 5KM + 10KM Pursuit"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Freestyle Skiing",
+        "event": "Moguls"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Freestyle Skiing",
+        "event": "Aerials"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Snowboard",
+        "event": "Giant-Slalom"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Snowboard",
+        "event": "Half-Pipe"
+    },
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "12.5Km Pursuit"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "5Km Pursuit"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Sprint 1.5KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Nordic Combined",
+        "event": "Sprint"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Snowboard",
+        "event": "Giant Parallel Slalom"
+    },
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "12.5KM Mass Start"
+    },
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "4X6KM Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skating",
+        "discipline": "Speed skating",
+        "event": "Team Pursuit"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Combined 15 + 15KM Mass Start"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Combined 7.5 + 7.5Km Mass Start"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Team Sprint"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Nordic Combined",
+        "event": "Individual Sprint"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Snowboard",
+        "event": "Snowboard Cross"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Alpine Skiing",
+        "event": "Super Combined"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Freestyle Skiing",
+        "event": "Ski Cross"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Nordic Combined",
+        "event": "Individual, Ski Jumping K90 (70M)"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Nordic Combined",
+        "event": "Sprint K120"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Nordic Combined",
+        "event": "Team, 4X5 KM"
+    },
+    {
+        "season": "Winter",
+        "sport": "Biathlon",
+        "discipline": "Biathlon",
+        "event": "Relay Mix"
+    },
+    {
+        "season": "Winter",
+        "sport": "Bobsleigh",
+        "discipline": "Bobsleigh",
+        "event": "Two-Woman"
+    },
+    {
+        "season": "Winter",
+        "sport": "Luge",
+        "discipline": "Luge",
+        "event": "Mixed Relay"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Combined 15+15K"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Cross Country Skiing",
+        "event": "Combined7.5+7.5"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Freestyle Skiing",
+        "event": "Ski Halfpipe"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Freestyle Skiing",
+        "event": "Ski Slopestyle"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Nordic Combined",
+        "event": "Ind. K90 (70M)"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Ski Jumping",
+        "event": "Large Hill"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Ski Jumping",
+        "event": "Normal Hill"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Ski Jumping",
+        "event": "Teams"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Ski Jumping",
+        "event": "K90 Individual"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Snowboard",
+        "event": "Giant Parall.S."
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Snowboard",
+        "event": "Parallel Slalom"
+    },
+    {
+        "season": "Winter",
+        "sport": "Skiing",
+        "discipline": "Snowboard",
+        "event": "Slopestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "100M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "100M Freestyle For Sailors"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "1200M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "400M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "100M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "110M Hurdles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "1500M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "400M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "800M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Discus Throw"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "High Jump"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Long Jump"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Marathon"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Pole Vault"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Shot Put"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Triple Jump"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Road",
+        "event": "Individual Road Race"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "100KM"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "10KM"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "12-Hour Race"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "1KM Time Trial"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Sprint Indivual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "Foil Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "Foil, Masters"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "Sabre Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Horizontal Bar"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Parallel Bars"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Pommel Horse"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Rings"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Rope Climbing"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Team, Horizontal Bar"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Team, Parallel Bars"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Vault"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25M Army Pistol"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25M Rapid Fire Pistol (60 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Pistol (60 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Army Rifle, 200M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Army Rifle, 300M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Tennis",
+        "discipline": "Tennis",
+        "event": "Doubles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Tennis",
+        "discipline": "Tennis",
+        "event": "Singles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "Heavyweight - One Hand Lift"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "Heavyweight - Two Hand Lift"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "Open Event"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "1500M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Backstroke"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Obstacle Event"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Team Swimming"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4000M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "Underwater Swimming"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Water polo",
+        "event": "Water Polo"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Au Chapelet, 33M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Au Chapelet, 50M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Au Cordon Dor\u00e9, 33M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Au Cordon Dor\u00e9, 50M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Sur La Perche \u00c0 La Herse"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Sur La Perche \u00c0 La Pyramide"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "200M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "200M Hurdles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3000M Steeplechase"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "4000M Steeplechase"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "400M Hurdles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "5000M Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "60M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Hammer Throw"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "High Jump, Standing"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Long Jump, Standing"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Triple Jump, Standing"
+    },
+    {
+        "season": "Summer",
+        "sport": "Basque Pelota",
+        "discipline": "Basque Pelota",
+        "event": "Cesta Punta"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cricket",
+        "discipline": "Cricket",
+        "event": "Cricket"
+    },
+    {
+        "season": "Summer",
+        "sport": "Croquet",
+        "discipline": "Croquet",
+        "event": "Double"
+    },
+    {
+        "season": "Summer",
+        "sport": "Croquet",
+        "discipline": "Croquet",
+        "event": "Individual 1 Ball"
+    },
+    {
+        "season": "Summer",
+        "sport": "Croquet",
+        "discipline": "Croquet",
+        "event": "Individual 2 Balls"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "25 Kilometres"
+    },
+    {
+        "season": "Summer",
+        "sport": "Equestrian",
+        "discipline": "Jumping",
+        "event": "Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Equestrian",
+        "discipline": "Jumping",
+        "event": "Long Jump Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "\u00c9p\u00e9e Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "\u00c9p\u00e9e, Amateurs And Masters"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "\u00c9p\u00e9e, Masters"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "Sabre, Masters"
+    },
+    {
+        "season": "Summer",
+        "sport": "Football",
+        "discipline": "Football",
+        "event": "Football"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Individual All-Round"
+    },
+    {
+        "season": "Summer",
+        "sport": "Polo",
+        "discipline": "Polo",
+        "event": "Polo"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Eight With Coxswain (8+)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Four-Oared Shell With Coxswain (4-)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Pair-Oared Shell With Coxswain (2+)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Single Sculls (1X)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rugby",
+        "discipline": "Rugby",
+        "event": "Rugby"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "0.5-1T"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "10-20T"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "3-10T"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Open Class"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Army Pistol, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Army Rifle, 300M, 3 Positions"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Army Rifle, 300M, Kneeling"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Army Rifle, 300M, Prone"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Army Rifle, 300M, Standing"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Free Rifle, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Trap (125 Targets)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Tennis",
+        "discipline": "Tennis",
+        "event": "Mixed Doubles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Tug of War",
+        "discipline": "Tug of War",
+        "event": "Tug Of War"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "10M Platform"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "Plunge For Distance"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "100M Backstroke"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "400M Breaststroke"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4X50Y Freestyle Relay"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "50Y Freestyle (45.72M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "880Y Freestyle (804.66M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Double American Round (60Y - 50Y - 40Y)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Double Columbia Round (50Y - 40Y - 30Y)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Double National Round (60Y - 50Y)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Double York Round (100Y - 80Y - 60Y)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Team Round 60Y"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Teams Fita Round"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "4Miles Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "56LB Weight Throw (25.4KG)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Decathlon"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Triathlon (Long Jump / Shot Put / 100 Yards)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "- 47.63KG (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "+ 71.67KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "47.63 - 52.16KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "52.16 - 56.7KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "56.7 - 61.24KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "61.24 - 65.77KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "65.77 - 71.67KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "1 Mile (1609.3M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "1/2 Mile (804.7M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "1/3 Mile (536.5M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "1/4 Mile (402.3M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "2 Miles (3.218KM)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "25 Miles (40.232KM)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "5 Miles (8.046KM)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "Foil Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "Stick, Single"
+    },
+    {
+        "season": "Summer",
+        "sport": "Golf",
+        "discipline": "Golf",
+        "event": "Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Club Swinging"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Combined 3 Events"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Combined 4 Events"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Team Competition"
+    },
+    {
+        "season": "Summer",
+        "sport": "Lacrosse",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Coxless Pair (2-)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Double Sculls (2X)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Four Without Coxswain (4-)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "All-Around Dumbbell Contest"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "- 47.6KG (Light-Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "47.6 - 52.16KG (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "52.16 - 56.7KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "56.7 - 61.23KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "61.23 - 65.77KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "65.77 - 71.67KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "3M Springboard"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Breaststroke"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4X200M Freestyle Relay"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Continental Style 50M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "National Round (60Y - 50Y)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "York Round (100Y - 80Y - 60Y)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "10Miles Walk (16093M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3200M Steeplechase"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3500M Walk"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3Miles Team (4828M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "4X400M Relay"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "5 Miles (8047M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Discus Throw Ancient Style"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Javelin Throw"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Javelin Throw Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "- 52.62KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "52.62 - 57.15KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "57.15 - 63.5KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "63.5 - 71.67KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "1980 Yards Pursuit, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "2000M Tandem"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "20KM"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "5000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "One Lap (660Y) Sprint"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "\u00c9p\u00e9e Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Fencing",
+        "discipline": "Fencing",
+        "event": "Sabre Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Hockey",
+        "discipline": "Hockey",
+        "event": "Hockey"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "12M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "6M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "7M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "8M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "1000Y Free Rifle, Prone"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "100M Running Deer, Double Shots"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "100M Running Deer, Single Shots"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "100M Running Deer, Single Shots, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25Y Small Bore Rifle, Disappearing Target"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25Y Small Bore Rifle, Moving Target"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "300M Free Rifle 3 Positions (3X40 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50+100Y Small Bore Rifle, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Rifle Prone (60 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50Y Army Pistol, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Clay Pigeons, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Rifle, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Skating",
+        "discipline": "Figure skating",
+        "event": "Pairs"
+    },
+    {
+        "season": "Summer",
+        "sport": "Skating",
+        "discipline": "Figure skating",
+        "event": "Special Figures"
+    },
+    {
+        "season": "Summer",
+        "sport": "Tennis",
+        "discipline": "Tennis",
+        "event": "Doubles Indoor"
+    },
+    {
+        "season": "Summer",
+        "sport": "Tennis",
+        "discipline": "Tennis",
+        "event": "Singles Indoor"
+    },
+    {
+        "season": "Summer",
+        "sport": "Water Motorsports",
+        "discipline": "Water Motorspor",
+        "event": "8M Class C"
+    },
+    {
+        "season": "Summer",
+        "sport": "Water Motorsports",
+        "discipline": "Water Motorspor",
+        "event": "Class B Up To 60 Feet"
+    },
+    {
+        "season": "Summer",
+        "sport": "Water Motorsports",
+        "discipline": "Water Motorspor",
+        "event": "Open Class A"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "- 54KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "+ 73KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "54 - 60.3KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "60.3 - 66.6KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "66.6 - 73KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "- 66.6KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "+ 93KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "73 - 93KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "Plain High Diving"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4X100M Freestyle Relay"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "10000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "10000M Walk"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3000M Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "4X100M Relay"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Cross Country Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Cross Country Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Discus Throw, Both Hands"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Javelin Throw, Both Hands"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Pentathlon"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Shot Put, Both Hands"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Road",
+        "event": "Individual Time Trial"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Road",
+        "event": "Team Time Trial"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Team, Free System"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Team, Swedish System"
+    },
+    {
+        "season": "Summer",
+        "sport": "Modern Pentathlon",
+        "discipline": "Modern Pentath.",
+        "event": "Individual Competition"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Coxed Fours Jugriggers"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "10M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25M Small Bore Rifle, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25M Small Rifle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "30M Army Pistol, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Small Bore Rifle, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "600M Free Rifle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Tennis",
+        "discipline": "Tennis",
+        "event": "Mixed Doubles Indoor"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "- 60KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "+ 82.5KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "60 - 67.5KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "67.5 - 75KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "75 - 82.5KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Fixed Bird Target Large Birds"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Fixed Bird Target Large Birds Teams"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Fixed Bird Target Small Bird, Teams"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Fixed Bird Target Small Birds"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Moving Bird Target 28M Teams"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Moving Bird Target 33M Teams"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Moving Bird Target 50M Teams"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Moving Bird Target, 28M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Moving Bird Target, 33M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Moving Bird Target, 50M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3000M Walk"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "- 50.8KG (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "+ 79.38KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "50.8 - 53.52KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "53.52 - 57.15KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "57.15 - 61.24KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "61.24 - 66.68KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "66.68 - 72.57KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "72.57 - 79.38KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "50KM"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Team Pursuit (4000M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Equestrian",
+        "discipline": "Vaulting",
+        "event": "Figure Riding Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Equestrian",
+        "discipline": "Vaulting",
+        "event": "Figure Riding Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Ice Hockey",
+        "discipline": "Ice Hockey",
+        "event": "Ice Hockey"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "10M (Rating 1907)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "10M (Rating 1919)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "12 Foot Dinghy"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "12M (Rating 1907)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "12M (Rating 1919)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "18 Foot Dinghy"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "30M Sq"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "40M Sq"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "6.5M (Rating 1919)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "6M (Rating 1907)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "6M (Rating 1919)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "8M (Rating 1907)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "8M (Rating 1919)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "100M Running Deer, Double Shots, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "300+600M Free Rifle, Team, Prone"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "300M Free Rifle, Prone, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "300M Free Rifle, Standing, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Small Bore Rifle, Standing, Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "600M Free Rifle, Prone"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "600M Free Rifle, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "- 60KG, One-Two Hand 3 Events (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 82.5KG, One-Two Hand 3 Events (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "60 - 67.5KG, One-Two Hand 3 Events (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "67.5 - 75KG, One-Two Hand 3 Events (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "75 - 82.5KG, One-Two Hand 3 E. (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "+ 80KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "75 - 80KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "+ 82KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "75 - 82KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Sidehorse Vault"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Olympic Class Monotype"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "400, 600, 800M Free Rifle, Team"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "600M Free Rifle, Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "- 60KG, One-Two Hand 5 Events (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 82.5KG, One-Two Hand 5 Events (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "60 - 67.5KG, One-Two Hand 5 Events (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "67.5 - 75KG, One-Two Hand 5 Events (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "75 - 82.5KG, One-Two Hand 5 E. (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "- 56KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "+ 87KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "56 - 61KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "61 - 66KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "66 - 72KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "72 - 79KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "79 - 87KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "- 58KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "58 - 62KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "62 - 67.5KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "1KM Pursuit"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "12 Foot Dinghy Individual"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "- 60KG, Total (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 82.5KG, Total (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "60 - 67.5KG, Total (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "67.5 - 75KG, Total (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "75 - 82.5KG, Total (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "58 - 60KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "50KM Walk"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "80M Hurdles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "50.8 - 54KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "54 - 57.15KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Floor Exercises"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Indian Clubs"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Tumbling"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Two-Person Keelboat Open (Star)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "+ 87KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Basketball",
+        "discipline": "Basketball",
+        "event": "Basketball"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "C-1 1000M (Canoe Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "C-2 10000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "C-2 1000M (Canoe Double)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "Folding K-1 10000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "Folding K-2 10000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-1 10000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-1 1000M (Kayak Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-2 10000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-2 1000M (Kayak Double)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Handball",
+        "discipline": "Handball",
+        "event": "Handball"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "- 51KG (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "51 - 54KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "54 - 58KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "58 - 62KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "62 - 67KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "67 - 73KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "73 - 80KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "C-1 10000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-1 500M (Kayak Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Dragon"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Firefly Class"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Swallow (Golondrina)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "- 56KG, Total (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "56 - 60KG, Total (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "- 52KG (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "52 - 57KG (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "57 - 63KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "63 - 67KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "67 - 73KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "73 - 79KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "57 - 61KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "61 - 67KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "+ 81KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "54 - 57KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "57 - 60KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "60 - 63.5KG (Light-Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "63.5 - 67KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "67 - 71KG (Light-Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "71-75KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "75 - 81KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Balance Beam"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Team, Portable Apparatus"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Artistic G.",
+        "event": "Uneven Bars"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "5.5M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Single-Handed Dinghy (Finn)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "100M Running Deer, Single/Double Shots"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Rifle 3 Positions (3X40 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 90KG, Total (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "82.5 - 90KG, Total (Middle-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "100M Butterfly"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Butterfly"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "20KM Walk"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Sharpie 12M2"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4X100M Medley Relay"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-1 4X500M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-2 500M (Kayak Double)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Flying Dutchman"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "400M Individual Medley"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-4 1000M (Kayak Four)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Individual Pursuit"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "- 68KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "68 - 80KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "Open Category"
+    },
+    {
+        "season": "Summer",
+        "sport": "Volleyball",
+        "discipline": "Volleyball",
+        "event": "Volleyball"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "+ 97KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "63 - 70KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "70 - 78KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "78 - 87KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "87 - 97KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Gre-R",
+        "event": "+ 97KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "100M Breaststroke"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Individual Medley"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "800M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "- 48KG (Light-Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "48 - 51KG (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Skeet (125 Targets)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Individual Fita Round"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "100M Hurdles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak S",
+        "event": "C-1 (Canoe Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak S",
+        "event": "C-2 (Canoe Double)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak S",
+        "event": "K-1 (Kayak Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "- 63KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "+ 93KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "63 - 70KG (Half-Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "70 - 80KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "80 - 93KG (Half-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Fleet/Match Race Keelboat Open (Soling)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Tempest"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Running Target (30+30 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "- 52KG, Total (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 110KG, Total (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "52 - 56KG, Total (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "91 - 110KG, Total (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "+ 100KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "48 - 52KG (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "57 - 62KG (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "62 - 68KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "68 - 74KG (Welterweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "74 - 82KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "82 - 90KG (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "90 - 100KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "C-1 500M (Canoe Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "C-2 500M (Canoe Double)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Pair Without Coxswain (2-)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Quadruple Sculls With Coxswain (4X)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Quadruple Sculls Without Coxswain (4X)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "470 - Two Person Dinghy"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Tornado - Multihull"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "- 60 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "+ 95KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "60 - 65KG (Half-Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "65 - 71KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "71 - 78KG (Half-Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "78 - 86KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "86 - 95KG (Half-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "100 - 110KG, Total (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "90 - 100KG, Total (First-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Synchronized S.",
+        "event": "Duet"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Synchronized S.",
+        "event": "Solo"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "Heptathlon"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "+ 91KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "81 - 91KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe / Kayak",
+        "discipline": "Canoe / Kayak F",
+        "event": "K-4 500M (Kayak Four)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Points Race"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Board (Windglider)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "10M Air Rifle (40 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "10M Air Rifle (60 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25M Pistol (30+30 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Rifle 3 Positions (3X20 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "50M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Sprint"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Board (Division Ii)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "10M Air Pistol (40 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "10M Air Pistol (60 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "100 - 130KG (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Individual (Fita Olympic Round - 70M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Archery",
+        "discipline": "Archery",
+        "event": "Team (Fita Olympic Round - 70M)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Baseball",
+        "discipline": "Baseball",
+        "event": "Baseball"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "- 48KG (Extra-Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "+ 72KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "48 - 52KG (Half-Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "52 - 56KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "56 - 61KG (Half-Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "61 - 66KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "66 - 72KG (Half-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Coxless Four (4-)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Board (Lechner)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Single-Handed Dinghy (Europe)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Mountain Bike",
+        "event": "Cross-Country"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Rhythmic G.",
+        "event": "Group Competition"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "+ 100KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "60 - 66KG (Half-Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "66 - 73KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "73 - 81KG (Half-Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "81 - 90KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "90 - 100KG (Half-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Lightweight Coxless Four (4-)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Lightweight Double Sculls (2X)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Board (Mistral)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Single-Handed Dinghy Open (Laser)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Double Trap (120 Targets)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Double Trap (150 Targets)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Softball",
+        "discipline": "Softball",
+        "event": "Softball"
+    },
+    {
+        "season": "Summer",
+        "sport": "Volleyball",
+        "discipline": "Beach volley.",
+        "event": "Beach Volleyball"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "- 54KG, Total (Flyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 108KG, Total (Super Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "54 - 59KG, Total (Bantamweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "59 - 64KG, Total (Featherweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "64 - 70KG, Total (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "70 - 76KG, Total (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "76 - 83KG, Total (Light-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "83 - 91KG, Total (Middle-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "91 - 99KG, Total (First-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "99 - 108KG, Total (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "Synchronized Diving 10M Platform"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "Synchronized Diving 3M Springboard"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "20KM Race Walk"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "500M Time Trial"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Keirin"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Madison"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Olympic Sprint"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "+ 78KG (Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "52 - 57KG (Lightweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "57 - 63KG (Half-Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "63 - 70KG (Middleweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "70 - 78KG (Half-Heavyweight)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "49Er - Skiff"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "10M Running Target (30+30 Shots)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Skeet (75 Targets)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Trap (75 Targets)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "- 49 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "- 58 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "+ 67 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "+ 80 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "49 - 57 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "57 - 67 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "58 - 68 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Taekwondo",
+        "discipline": "Taekwondo",
+        "event": "68 - 80 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 105KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+ 75KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "105KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "48KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "53KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "56KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "58KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "62KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "63KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "69KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "75KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "77KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "85KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "94KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "48 - 54KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "54 - 58KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "58 - 63KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "63 - 69KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "69 - 76KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "76 - 85KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "85 - 97KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "97 - 130KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "48KG (Light Flywieght)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "60 - 64 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "64 - 69 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "69 - 75 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Team Sprint"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "- 48 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Star - Keelboat"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Yngling - Keelboat"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "- 48KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "- 55KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "48 - 55KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "55 - 60KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "55 - 63KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "60 - 66KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "63 - 72KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "66 - 74KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "74 - 84KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "84 - 96KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Free.",
+        "event": "96 - 120KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "Marathon 10KM"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Finn - Heavyweight Dinghy"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Laser - One Person Dinghy"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Laser Radial - One Person Dinghy"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Rs:X - Windsurfer"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "Synchronized 10M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Diving",
+        "event": "Synchronized 3M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "200M Medley"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "400M Medley"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4X100M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4X100M Medley"
+    },
+    {
+        "season": "Summer",
+        "sport": "Aquatics",
+        "discipline": "Swimming",
+        "event": "4X200M Freestyle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Athletics",
+        "discipline": "Athletics",
+        "event": "3000M Steeple"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "+ 91KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "46 - 49KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "51 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "52KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "57 - 60KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "60 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "75 - 81KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "75 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Boxing",
+        "discipline": "Boxing",
+        "event": "81 - 91KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Slalom",
+        "event": "C-1 (Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Slalom",
+        "event": "C-2 (Double)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Slalom",
+        "event": "K-1 (Single)"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "C-1 1000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "C-1 200M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "C-2 1000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-1 1000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-1 200M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-1 500M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-2 1000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-2 200M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-2 500M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-4 1000M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Canoe",
+        "discipline": "Canoe Sprint",
+        "event": "K-4 500M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Road",
+        "event": "Individual Road"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Road",
+        "event": "Time Trial"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Omnium"
+    },
+    {
+        "season": "Summer",
+        "sport": "Cycling",
+        "discipline": "Cycling Track",
+        "event": "Team Pursuit"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Gymnastics Artistic",
+        "event": "Beam"
+    },
+    {
+        "season": "Summer",
+        "sport": "Gymnastics",
+        "discipline": "Gymnastics Artistic",
+        "event": "Individual All-Around"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "+ 100KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "+ 78KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "48 - 52KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "52 - 57KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "57 - 63KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "63 - 70KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "66 - 73KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "70 - 78KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "73 - 81KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "81 - 90KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Judo",
+        "discipline": "Judo",
+        "event": "90 - 100KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Coxless Four"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Coxless Pair 2-"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Double Sculls"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Eight With Coxswain"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Lightweight 4"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Lightweight Doubles"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Quadruple Sculls"
+    },
+    {
+        "season": "Summer",
+        "sport": "Rowing",
+        "discipline": "Rowing",
+        "event": "Single Sculls"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "470"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Elliott 6M"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Finn"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Laser"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Laser Radial"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Rs:X"
+    },
+    {
+        "season": "Summer",
+        "sport": "Sailing",
+        "discipline": "Sailing",
+        "event": "Star"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "10M Air Pistol"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "10M Air Rifle"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25M Pistol"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "25M Rapid Pistol"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Pistol"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Rifle 3 Positions"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "50M Rifle Prone"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Double Trap 150"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Skeet"
+    },
+    {
+        "season": "Summer",
+        "sport": "Shooting",
+        "discipline": "Shooting",
+        "event": "Trap"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+105KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "+75KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Weightlifting",
+        "discipline": "Weightlifting",
+        "event": "-56KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 120KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 48 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 55 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 60 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 63 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 66 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 72 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 74 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 84 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wf 96 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wg 120 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wg 55 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wg 60 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wg 66 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wg 74 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wg 84 KG"
+    },
+    {
+        "season": "Summer",
+        "sport": "Wrestling",
+        "discipline": "Wrestling Freestyle",
+        "event": "Wg 96 KG"
+    }
+]

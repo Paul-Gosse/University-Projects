@@ -1,0 +1,29 @@
+.ryu{
+  padding-top: 10px;
+}
+
+.temple{
+  width:60%;
+  padding-top: 10px;
+}
+
+.temple img{
+  width:70%;
+}
+
+.susano{
+  width:65%;
+  padding-top: 10px;
+}
+
+.susano img{
+  width:80%;
+}
+
+/* ci-dessus sont les modifications lorsque les images ont une taille qui ne s'adapte pas avec les données générales du coup modifciations approprié à chaque image, balise.
+Sur ces données nous avons fixé la taille de l'image même puis la taille du cadre qui sont différentes pour obetnir le fond blanc bien répartie selon la taille de l'image */
+
+.mythologie4{
+  border-bottom: 1px solid white;
+}
+/* ci-dessus sont les modifications d'apparences du lien dans le menu pour se repérer à quelle page nous sommes */

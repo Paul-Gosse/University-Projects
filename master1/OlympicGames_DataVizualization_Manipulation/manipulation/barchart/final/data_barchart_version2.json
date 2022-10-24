@@ -1,0 +1,7682 @@
+[
+    {
+        "date": "1896-01-01",
+        "name": "AUS",
+        "value": 2
+    },
+    {
+        "date": "1896-01-01",
+        "name": "AUT",
+        "value": 5
+    },
+    {
+        "date": "1896-01-01",
+        "name": "DEN",
+        "value": 6
+    },
+    {
+        "date": "1896-01-01",
+        "name": "FRA",
+        "value": 11
+    },
+    {
+        "date": "1896-01-01",
+        "name": "GBR",
+        "value": 7
+    },
+    {
+        "date": "1896-01-01",
+        "name": "GER",
+        "value": 33
+    },
+    {
+        "date": "1896-01-01",
+        "name": "GRE",
+        "value": 52
+    },
+    {
+        "date": "1896-01-01",
+        "name": "HUN",
+        "value": 6
+    },
+    {
+        "date": "1896-01-01",
+        "name": "SUI",
+        "value": 3
+    },
+    {
+        "date": "1896-01-01",
+        "name": "USA",
+        "value": 20
+    },
+    {
+        "date": "1896-01-01",
+        "name": "ZZX",
+        "value": 6
+    },
+    {
+        "date": "1900-01-01",
+        "name": "AUS",
+        "value": 7
+    },
+    {
+        "date": "1900-01-01",
+        "name": "AUT",
+        "value": 11
+    },
+    {
+        "date": "1900-01-01",
+        "name": "BEL",
+        "value": 39
+    },
+    {
+        "date": "1900-01-01",
+        "name": "BOH",
+        "value": 2
+    },
+    {
+        "date": "1900-01-01",
+        "name": "CAN",
+        "value": 2
+    },
+    {
+        "date": "1900-01-01",
+        "name": "CUB",
+        "value": 2
+    },
+    {
+        "date": "1900-01-01",
+        "name": "DEN",
+        "value": 12
+    },
+    {
+        "date": "1900-01-01",
+        "name": "ESP",
+        "value": 2
+    },
+    {
+        "date": "1900-01-01",
+        "name": "FRA",
+        "value": 196
+    },
+    {
+        "date": "1900-01-01",
+        "name": "GBR",
+        "value": 85
+    },
+    {
+        "date": "1900-01-01",
+        "name": "GER",
+        "value": 73
+    },
+    {
+        "date": "1900-01-01",
+        "name": "HUN",
+        "value": 11
+    },
+    {
+        "date": "1900-01-01",
+        "name": "IND",
+        "value": 2
+    },
+    {
+        "date": "1900-01-01",
+        "name": "ITA",
+        "value": 4
+    },
+    {
+        "date": "1900-01-01",
+        "name": "NED",
+        "value": 20
+    },
+    {
+        "date": "1900-01-01",
+        "name": "NOR",
+        "value": 9
+    },
+    {
+        "date": "1900-01-01",
+        "name": "SUI",
+        "value": 18
+    },
+    {
+        "date": "1900-01-01",
+        "name": "SWE",
+        "value": 1
+    },
+    {
+        "date": "1900-01-01",
+        "name": "USA",
+        "value": 75
+    },
+    {
+        "date": "1900-01-01",
+        "name": "ZZX",
+        "value": 40
+    },
+    {
+        "date": "1904-01-01",
+        "name": "AUT",
+        "value": 12
+    },
+    {
+        "date": "1904-01-01",
+        "name": "CAN",
+        "value": 37
+    },
+    {
+        "date": "1904-01-01",
+        "name": "CUB",
+        "value": 11
+    },
+    {
+        "date": "1904-01-01",
+        "name": "GBR",
+        "value": 87
+    },
+    {
+        "date": "1904-01-01",
+        "name": "GER",
+        "value": 86
+    },
+    {
+        "date": "1904-01-01",
+        "name": "GRE",
+        "value": 54
+    },
+    {
+        "date": "1904-01-01",
+        "name": "HUN",
+        "value": 15
+    },
+    {
+        "date": "1904-01-01",
+        "name": "SUI",
+        "value": 20
+    },
+    {
+        "date": "1904-01-01",
+        "name": "USA",
+        "value": 469
+    },
+    {
+        "date": "1904-01-01",
+        "name": "ZZX",
+        "value": 48
+    },
+    {
+        "date": "1908-01-01",
+        "name": "ANZ",
+        "value": 19
+    },
+    {
+        "date": "1908-01-01",
+        "name": "AUT",
+        "value": 13
+    },
+    {
+        "date": "1908-01-01",
+        "name": "BEL",
+        "value": 70
+    },
+    {
+        "date": "1908-01-01",
+        "name": "BOH",
+        "value": 7
+    },
+    {
+        "date": "1908-01-01",
+        "name": "CAN",
+        "value": 88
+    },
+    {
+        "date": "1908-01-01",
+        "name": "DEN",
+        "value": 27
+    },
+    {
+        "date": "1908-01-01",
+        "name": "FIN",
+        "value": 29
+    },
+    {
+        "date": "1908-01-01",
+        "name": "FRA",
+        "value": 231
+    },
+    {
+        "date": "1908-01-01",
+        "name": "GBR",
+        "value": 434
+    },
+    {
+        "date": "1908-01-01",
+        "name": "GER",
+        "value": 108
+    },
+    {
+        "date": "1908-01-01",
+        "name": "GRE",
+        "value": 57
+    },
+    {
+        "date": "1908-01-01",
+        "name": "HUN",
+        "value": 33
+    },
+    {
+        "date": "1908-01-01",
+        "name": "ITA",
+        "value": 11
+    },
+    {
+        "date": "1908-01-01",
+        "name": "NED",
+        "value": 31
+    },
+    {
+        "date": "1908-01-01",
+        "name": "NOR",
+        "value": 53
+    },
+    {
+        "date": "1908-01-01",
+        "name": "RSA",
+        "value": 2
+    },
+    {
+        "date": "1908-01-01",
+        "name": "RU1",
+        "value": 3
+    },
+    {
+        "date": "1908-01-01",
+        "name": "SWE",
+        "value": 99
+    },
+    {
+        "date": "1908-01-01",
+        "name": "USA",
+        "value": 532
+    },
+    {
+        "date": "1912-01-01",
+        "name": "ANZ",
+        "value": 29
+    },
+    {
+        "date": "1912-01-01",
+        "name": "AUT",
+        "value": 27
+    },
+    {
+        "date": "1912-01-01",
+        "name": "BEL",
+        "value": 89
+    },
+    {
+        "date": "1912-01-01",
+        "name": "CAN",
+        "value": 96
+    },
+    {
+        "date": "1912-01-01",
+        "name": "DEN",
+        "value": 111
+    },
+    {
+        "date": "1912-01-01",
+        "name": "FIN",
+        "value": 96
+    },
+    {
+        "date": "1912-01-01",
+        "name": "FRA",
+        "value": 256
+    },
+    {
+        "date": "1912-01-01",
+        "name": "GBR",
+        "value": 594
+    },
+    {
+        "date": "1912-01-01",
+        "name": "GER",
+        "value": 160
+    },
+    {
+        "date": "1912-01-01",
+        "name": "GRE",
+        "value": 59
+    },
+    {
+        "date": "1912-01-01",
+        "name": "HUN",
+        "value": 63
+    },
+    {
+        "date": "1912-01-01",
+        "name": "ITA",
+        "value": 32
+    },
+    {
+        "date": "1912-01-01",
+        "name": "NED",
+        "value": 53
+    },
+    {
+        "date": "1912-01-01",
+        "name": "NOR",
+        "value": 129
+    },
+    {
+        "date": "1912-01-01",
+        "name": "RSA",
+        "value": 9
+    },
+    {
+        "date": "1912-01-01",
+        "name": "RU1",
+        "value": 17
+    },
+    {
+        "date": "1912-01-01",
+        "name": "SWE",
+        "value": 272
+    },
+    {
+        "date": "1912-01-01",
+        "name": "USA",
+        "value": 633
+    },
+    {
+        "date": "1920-01-01",
+        "name": "AUS",
+        "value": 13
+    },
+    {
+        "date": "1920-01-01",
+        "name": "BEL",
+        "value": 277
+    },
+    {
+        "date": "1920-01-01",
+        "name": "BRA",
+        "value": 7
+    },
+    {
+        "date": "1920-01-01",
+        "name": "CAN",
+        "value": 112
+    },
+    {
+        "date": "1920-01-01",
+        "name": "DEN",
+        "value": 186
+    },
+    {
+        "date": "1920-01-01",
+        "name": "ESP",
+        "value": 26
+    },
+    {
+        "date": "1920-01-01",
+        "name": "EST",
+        "value": 3
+    },
+    {
+        "date": "1920-01-01",
+        "name": "FIN",
+        "value": 145
+    },
+    {
+        "date": "1920-01-01",
+        "name": "FRA",
+        "value": 397
+    },
+    {
+        "date": "1920-01-01",
+        "name": "GBR",
+        "value": 701
+    },
+    {
+        "date": "1920-01-01",
+        "name": "GRE",
+        "value": 64
+    },
+    {
+        "date": "1920-01-01",
+        "name": "ITA",
+        "value": 116
+    },
+    {
+        "date": "1920-01-01",
+        "name": "JPN",
+        "value": 3
+    },
+    {
+        "date": "1920-01-01",
+        "name": "LUX",
+        "value": 1
+    },
+    {
+        "date": "1920-01-01",
+        "name": "NED",
+        "value": 101
+    },
+    {
+        "date": "1920-01-01",
+        "name": "NOR",
+        "value": 270
+    },
+    {
+        "date": "1920-01-01",
+        "name": "NZL",
+        "value": 1
+    },
+    {
+        "date": "1920-01-01",
+        "name": "RSA",
+        "value": 30
+    },
+    {
+        "date": "1920-01-01",
+        "name": "SUI",
+        "value": 49
+    },
+    {
+        "date": "1920-01-01",
+        "name": "SWE",
+        "value": 418
+    },
+    {
+        "date": "1920-01-01",
+        "name": "TCH",
+        "value": 10
+    },
+    {
+        "date": "1920-01-01",
+        "name": "USA",
+        "value": 826
+    },
+    {
+        "date": "1924-01-01",
+        "name": "ARG",
+        "value": 11
+    },
+    {
+        "date": "1924-01-01",
+        "name": "AUS",
+        "value": 23
+    },
+    {
+        "date": "1924-01-01",
+        "name": "AUT",
+        "value": 31
+    },
+    {
+        "date": "1924-01-01",
+        "name": "BEL",
+        "value": 315
+    },
+    {
+        "date": "1924-01-01",
+        "name": "CAN",
+        "value": 132
+    },
+    {
+        "date": "1924-01-01",
+        "name": "DEN",
+        "value": 198
+    },
+    {
+        "date": "1924-01-01",
+        "name": "EST",
+        "value": 9
+    },
+    {
+        "date": "1924-01-01",
+        "name": "FIN",
+        "value": 197
+    },
+    {
+        "date": "1924-01-01",
+        "name": "FRA",
+        "value": 519
+    },
+    {
+        "date": "1924-01-01",
+        "name": "GBR",
+        "value": 767
+    },
+    {
+        "date": "1924-01-01",
+        "name": "HAI",
+        "value": 7
+    },
+    {
+        "date": "1924-01-01",
+        "name": "HUN",
+        "value": 83
+    },
+    {
+        "date": "1924-01-01",
+        "name": "ITA",
+        "value": 167
+    },
+    {
+        "date": "1924-01-01",
+        "name": "JPN",
+        "value": 4
+    },
+    {
+        "date": "1924-01-01",
+        "name": "NED",
+        "value": 127
+    },
+    {
+        "date": "1924-01-01",
+        "name": "NOR",
+        "value": 296
+    },
+    {
+        "date": "1924-01-01",
+        "name": "NZL",
+        "value": 2
+    },
+    {
+        "date": "1924-01-01",
+        "name": "POL",
+        "value": 5
+    },
+    {
+        "date": "1924-01-01",
+        "name": "POR",
+        "value": 3
+    },
+    {
+        "date": "1924-01-01",
+        "name": "ROU",
+        "value": 23
+    },
+    {
+        "date": "1924-01-01",
+        "name": "RSA",
+        "value": 33
+    },
+    {
+        "date": "1924-01-01",
+        "name": "SUI",
+        "value": 114
+    },
+    {
+        "date": "1924-01-01",
+        "name": "SWE",
+        "value": 498
+    },
+    {
+        "date": "1924-01-01",
+        "name": "TCH",
+        "value": 20
+    },
+    {
+        "date": "1924-01-01",
+        "name": "URU",
+        "value": 22
+    },
+    {
+        "date": "1924-01-01",
+        "name": "USA",
+        "value": 1024
+    },
+    {
+        "date": "1924-01-01",
+        "name": "YUG",
+        "value": 2
+    },
+    {
+        "date": "1928-01-01",
+        "name": "ARG",
+        "value": 43
+    },
+    {
+        "date": "1928-01-01",
+        "name": "AUS",
+        "value": 27
+    },
+    {
+        "date": "1928-01-01",
+        "name": "AUT",
+        "value": 39
+    },
+    {
+        "date": "1928-01-01",
+        "name": "BEL",
+        "value": 325
+    },
+    {
+        "date": "1928-01-01",
+        "name": "CAN",
+        "value": 174
+    },
+    {
+        "date": "1928-01-01",
+        "name": "CHI",
+        "value": 1
+    },
+    {
+        "date": "1928-01-01",
+        "name": "DEN",
+        "value": 211
+    },
+    {
+        "date": "1928-01-01",
+        "name": "EGY",
+        "value": 4
+    },
+    {
+        "date": "1928-01-01",
+        "name": "ESP",
+        "value": 29
+    },
+    {
+        "date": "1928-01-01",
+        "name": "EST",
+        "value": 18
+    },
+    {
+        "date": "1928-01-01",
+        "name": "FIN",
+        "value": 237
+    },
+    {
+        "date": "1928-01-01",
+        "name": "FRA",
+        "value": 567
+    },
+    {
+        "date": "1928-01-01",
+        "name": "GBR",
+        "value": 847
+    },
+    {
+        "date": "1928-01-01",
+        "name": "GER",
+        "value": 232
+    },
+    {
+        "date": "1928-01-01",
+        "name": "HAI",
+        "value": 8
+    },
+    {
+        "date": "1928-01-01",
+        "name": "HUN",
+        "value": 103
+    },
+    {
+        "date": "1928-01-01",
+        "name": "IND",
+        "value": 17
+    },
+    {
+        "date": "1928-01-01",
+        "name": "IRL",
+        "value": 1
+    },
+    {
+        "date": "1928-01-01",
+        "name": "ITA",
+        "value": 237
+    },
+    {
+        "date": "1928-01-01",
+        "name": "JPN",
+        "value": 12
+    },
+    {
+        "date": "1928-01-01",
+        "name": "NED",
+        "value": 192
+    },
+    {
+        "date": "1928-01-01",
+        "name": "NOR",
+        "value": 322
+    },
+    {
+        "date": "1928-01-01",
+        "name": "NZL",
+        "value": 3
+    },
+    {
+        "date": "1928-01-01",
+        "name": "PHI",
+        "value": 1
+    },
+    {
+        "date": "1928-01-01",
+        "name": "POL",
+        "value": 23
+    },
+    {
+        "date": "1928-01-01",
+        "name": "RSA",
+        "value": 39
+    },
+    {
+        "date": "1928-01-01",
+        "name": "SUI",
+        "value": 152
+    },
+    {
+        "date": "1928-01-01",
+        "name": "SWE",
+        "value": 543
+    },
+    {
+        "date": "1928-01-01",
+        "name": "TCH",
+        "value": 36
+    },
+    {
+        "date": "1928-01-01",
+        "name": "URU",
+        "value": 44
+    },
+    {
+        "date": "1928-01-01",
+        "name": "USA",
+        "value": 1121
+    },
+    {
+        "date": "1928-01-01",
+        "name": "YUG",
+        "value": 14
+    },
+    {
+        "date": "1932-01-01",
+        "name": "ARG",
+        "value": 47
+    },
+    {
+        "date": "1932-01-01",
+        "name": "AUS",
+        "value": 32
+    },
+    {
+        "date": "1932-01-01",
+        "name": "AUT",
+        "value": 50
+    },
+    {
+        "date": "1932-01-01",
+        "name": "CAN",
+        "value": 224
+    },
+    {
+        "date": "1932-01-01",
+        "name": "DEN",
+        "value": 220
+    },
+    {
+        "date": "1932-01-01",
+        "name": "ESP",
+        "value": 30
+    },
+    {
+        "date": "1932-01-01",
+        "name": "FIN",
+        "value": 270
+    },
+    {
+        "date": "1932-01-01",
+        "name": "FRA",
+        "value": 606
+    },
+    {
+        "date": "1932-01-01",
+        "name": "GBR",
+        "value": 882
+    },
+    {
+        "date": "1932-01-01",
+        "name": "GER",
+        "value": 275
+    },
+    {
+        "date": "1932-01-01",
+        "name": "HUN",
+        "value": 135
+    },
+    {
+        "date": "1932-01-01",
+        "name": "IND",
+        "value": 28
+    },
+    {
+        "date": "1932-01-01",
+        "name": "IRL",
+        "value": 3
+    },
+    {
+        "date": "1932-01-01",
+        "name": "ITA",
+        "value": 314
+    },
+    {
+        "date": "1932-01-01",
+        "name": "JPN",
+        "value": 43
+    },
+    {
+        "date": "1932-01-01",
+        "name": "LAT",
+        "value": 1
+    },
+    {
+        "date": "1932-01-01",
+        "name": "MEX",
+        "value": 2
+    },
+    {
+        "date": "1932-01-01",
+        "name": "NED",
+        "value": 204
+    },
+    {
+        "date": "1932-01-01",
+        "name": "NZL",
+        "value": 5
+    },
+    {
+        "date": "1932-01-01",
+        "name": "PHI",
+        "value": 4
+    },
+    {
+        "date": "1932-01-01",
+        "name": "POL",
+        "value": 42
+    },
+    {
+        "date": "1932-01-01",
+        "name": "RSA",
+        "value": 44
+    },
+    {
+        "date": "1932-01-01",
+        "name": "SUI",
+        "value": 165
+    },
+    {
+        "date": "1932-01-01",
+        "name": "SWE",
+        "value": 590
+    },
+    {
+        "date": "1932-01-01",
+        "name": "TCH",
+        "value": 41
+    },
+    {
+        "date": "1932-01-01",
+        "name": "URU",
+        "value": 45
+    },
+    {
+        "date": "1932-01-01",
+        "name": "USA",
+        "value": 1316
+    },
+    {
+        "date": "1936-01-01",
+        "name": "ARG",
+        "value": 58
+    },
+    {
+        "date": "1936-01-01",
+        "name": "AUS",
+        "value": 33
+    },
+    {
+        "date": "1936-01-01",
+        "name": "AUT",
+        "value": 102
+    },
+    {
+        "date": "1936-01-01",
+        "name": "BEL",
+        "value": 338
+    },
+    {
+        "date": "1936-01-01",
+        "name": "CAN",
+        "value": 266
+    },
+    {
+        "date": "1936-01-01",
+        "name": "DEN",
+        "value": 226
+    },
+    {
+        "date": "1936-01-01",
+        "name": "EGY",
+        "value": 9
+    },
+    {
+        "date": "1936-01-01",
+        "name": "EST",
+        "value": 25
+    },
+    {
+        "date": "1936-01-01",
+        "name": "FIN",
+        "value": 299
+    },
+    {
+        "date": "1936-01-01",
+        "name": "FRA",
+        "value": 651
+    },
+    {
+        "date": "1936-01-01",
+        "name": "GBR",
+        "value": 918
+    },
+    {
+        "date": "1936-01-01",
+        "name": "GER",
+        "value": 506
+    },
+    {
+        "date": "1936-01-01",
+        "name": "HUN",
+        "value": 179
+    },
+    {
+        "date": "1936-01-01",
+        "name": "IND",
+        "value": 47
+    },
+    {
+        "date": "1936-01-01",
+        "name": "ITA",
+        "value": 385
+    },
+    {
+        "date": "1936-01-01",
+        "name": "JPN",
+        "value": 64
+    },
+    {
+        "date": "1936-01-01",
+        "name": "LAT",
+        "value": 3
+    },
+    {
+        "date": "1936-01-01",
+        "name": "MEX",
+        "value": 18
+    },
+    {
+        "date": "1936-01-01",
+        "name": "NED",
+        "value": 241
+    },
+    {
+        "date": "1936-01-01",
+        "name": "NOR",
+        "value": 375
+    },
+    {
+        "date": "1936-01-01",
+        "name": "NZL",
+        "value": 6
+    },
+    {
+        "date": "1936-01-01",
+        "name": "PHI",
+        "value": 5
+    },
+    {
+        "date": "1936-01-01",
+        "name": "POL",
+        "value": 51
+    },
+    {
+        "date": "1936-01-01",
+        "name": "POR",
+        "value": 6
+    },
+    {
+        "date": "1936-01-01",
+        "name": "ROU",
+        "value": 25
+    },
+    {
+        "date": "1936-01-01",
+        "name": "RSA",
+        "value": 45
+    },
+    {
+        "date": "1936-01-01",
+        "name": "SUI",
+        "value": 220
+    },
+    {
+        "date": "1936-01-01",
+        "name": "SWE",
+        "value": 627
+    },
+    {
+        "date": "1936-01-01",
+        "name": "TCH",
+        "value": 58
+    },
+    {
+        "date": "1936-01-01",
+        "name": "TUR",
+        "value": 2
+    },
+    {
+        "date": "1936-01-01",
+        "name": "USA",
+        "value": 1453
+    },
+    {
+        "date": "1936-01-01",
+        "name": "YUG",
+        "value": 15
+    },
+    {
+        "date": "1948-01-01",
+        "name": "ARG",
+        "value": 70
+    },
+    {
+        "date": "1948-01-01",
+        "name": "AUS",
+        "value": 49
+    },
+    {
+        "date": "1948-01-01",
+        "name": "AUT",
+        "value": 111
+    },
+    {
+        "date": "1948-01-01",
+        "name": "BEL",
+        "value": 352
+    },
+    {
+        "date": "1948-01-01",
+        "name": "BRA",
+        "value": 19
+    },
+    {
+        "date": "1948-01-01",
+        "name": "CAN",
+        "value": 285
+    },
+    {
+        "date": "1948-01-01",
+        "name": "CUB",
+        "value": 13
+    },
+    {
+        "date": "1948-01-01",
+        "name": "DEN",
+        "value": 275
+    },
+    {
+        "date": "1948-01-01",
+        "name": "EGY",
+        "value": 14
+    },
+    {
+        "date": "1948-01-01",
+        "name": "ESP",
+        "value": 33
+    },
+    {
+        "date": "1948-01-01",
+        "name": "FIN",
+        "value": 337
+    },
+    {
+        "date": "1948-01-01",
+        "name": "FRA",
+        "value": 720
+    },
+    {
+        "date": "1948-01-01",
+        "name": "GBR",
+        "value": 991
+    },
+    {
+        "date": "1948-01-01",
+        "name": "HUN",
+        "value": 241
+    },
+    {
+        "date": "1948-01-01",
+        "name": "IND",
+        "value": 67
+    },
+    {
+        "date": "1948-01-01",
+        "name": "IRI",
+        "value": 1
+    },
+    {
+        "date": "1948-01-01",
+        "name": "ITA",
+        "value": 448
+    },
+    {
+        "date": "1948-01-01",
+        "name": "JAM",
+        "value": 3
+    },
+    {
+        "date": "1948-01-01",
+        "name": "KOR",
+        "value": 2
+    },
+    {
+        "date": "1948-01-01",
+        "name": "MEX",
+        "value": 27
+    },
+    {
+        "date": "1948-01-01",
+        "name": "NED",
+        "value": 283
+    },
+    {
+        "date": "1948-01-01",
+        "name": "NOR",
+        "value": 411
+    },
+    {
+        "date": "1948-01-01",
+        "name": "PAN",
+        "value": 2
+    },
+    {
+        "date": "1948-01-01",
+        "name": "PER",
+        "value": 1
+    },
+    {
+        "date": "1948-01-01",
+        "name": "POL",
+        "value": 52
+    },
+    {
+        "date": "1948-01-01",
+        "name": "POR",
+        "value": 11
+    },
+    {
+        "date": "1948-01-01",
+        "name": "PUR",
+        "value": 1
+    },
+    {
+        "date": "1948-01-01",
+        "name": "RSA",
+        "value": 49
+    },
+    {
+        "date": "1948-01-01",
+        "name": "SRI",
+        "value": 1
+    },
+    {
+        "date": "1948-01-01",
+        "name": "SUI",
+        "value": 262
+    },
+    {
+        "date": "1948-01-01",
+        "name": "SWE",
+        "value": 710
+    },
+    {
+        "date": "1948-01-01",
+        "name": "TCH",
+        "value": 78
+    },
+    {
+        "date": "1948-01-01",
+        "name": "TRI",
+        "value": 1
+    },
+    {
+        "date": "1948-01-01",
+        "name": "TUR",
+        "value": 14
+    },
+    {
+        "date": "1948-01-01",
+        "name": "URU",
+        "value": 48
+    },
+    {
+        "date": "1948-01-01",
+        "name": "USA",
+        "value": 1617
+    },
+    {
+        "date": "1948-01-01",
+        "name": "YUG",
+        "value": 31
+    },
+    {
+        "date": "1952-01-01",
+        "name": "ARG",
+        "value": 76
+    },
+    {
+        "date": "1952-01-01",
+        "name": "AUS",
+        "value": 69
+    },
+    {
+        "date": "1952-01-01",
+        "name": "AUT",
+        "value": 122
+    },
+    {
+        "date": "1952-01-01",
+        "name": "BEL",
+        "value": 365
+    },
+    {
+        "date": "1952-01-01",
+        "name": "BRA",
+        "value": 22
+    },
+    {
+        "date": "1952-01-01",
+        "name": "BUL",
+        "value": 1
+    },
+    {
+        "date": "1952-01-01",
+        "name": "CAN",
+        "value": 309
+    },
+    {
+        "date": "1952-01-01",
+        "name": "CHI",
+        "value": 5
+    },
+    {
+        "date": "1952-01-01",
+        "name": "DEN",
+        "value": 284
+    },
+    {
+        "date": "1952-01-01",
+        "name": "EGY",
+        "value": 15
+    },
+    {
+        "date": "1952-01-01",
+        "name": "ESP",
+        "value": 34
+    },
+    {
+        "date": "1952-01-01",
+        "name": "FIN",
+        "value": 386
+    },
+    {
+        "date": "1952-01-01",
+        "name": "FRA",
+        "value": 764
+    },
+    {
+        "date": "1952-01-01",
+        "name": "GBR",
+        "value": 1024
+    },
+    {
+        "date": "1952-01-01",
+        "name": "GER",
+        "value": 553
+    },
+    {
+        "date": "1952-01-01",
+        "name": "HUN",
+        "value": 344
+    },
+    {
+        "date": "1952-01-01",
+        "name": "IND",
+        "value": 82
+    },
+    {
+        "date": "1952-01-01",
+        "name": "IRI",
+        "value": 8
+    },
+    {
+        "date": "1952-01-01",
+        "name": "IRL",
+        "value": 4
+    },
+    {
+        "date": "1952-01-01",
+        "name": "ITA",
+        "value": 502
+    },
+    {
+        "date": "1952-01-01",
+        "name": "JAM",
+        "value": 11
+    },
+    {
+        "date": "1952-01-01",
+        "name": "JPN",
+        "value": 76
+    },
+    {
+        "date": "1952-01-01",
+        "name": "KOR",
+        "value": 4
+    },
+    {
+        "date": "1952-01-01",
+        "name": "LIB",
+        "value": 2
+    },
+    {
+        "date": "1952-01-01",
+        "name": "LUX",
+        "value": 2
+    },
+    {
+        "date": "1952-01-01",
+        "name": "MEX",
+        "value": 28
+    },
+    {
+        "date": "1952-01-01",
+        "name": "NED",
+        "value": 301
+    },
+    {
+        "date": "1952-01-01",
+        "name": "NOR",
+        "value": 437
+    },
+    {
+        "date": "1952-01-01",
+        "name": "NZL",
+        "value": 9
+    },
+    {
+        "date": "1952-01-01",
+        "name": "POL",
+        "value": 56
+    },
+    {
+        "date": "1952-01-01",
+        "name": "POR",
+        "value": 13
+    },
+    {
+        "date": "1952-01-01",
+        "name": "ROU",
+        "value": 29
+    },
+    {
+        "date": "1952-01-01",
+        "name": "RSA",
+        "value": 63
+    },
+    {
+        "date": "1952-01-01",
+        "name": "SUI",
+        "value": 323
+    },
+    {
+        "date": "1952-01-01",
+        "name": "SWE",
+        "value": 793
+    },
+    {
+        "date": "1952-01-01",
+        "name": "TCH",
+        "value": 120
+    },
+    {
+        "date": "1952-01-01",
+        "name": "TRI",
+        "value": 3
+    },
+    {
+        "date": "1952-01-01",
+        "name": "TUR",
+        "value": 17
+    },
+    {
+        "date": "1952-01-01",
+        "name": "URS",
+        "value": 117
+    },
+    {
+        "date": "1952-01-01",
+        "name": "URU",
+        "value": 62
+    },
+    {
+        "date": "1952-01-01",
+        "name": "USA",
+        "value": 1763
+    },
+    {
+        "date": "1952-01-01",
+        "name": "VEN",
+        "value": 1
+    },
+    {
+        "date": "1952-01-01",
+        "name": "YUG",
+        "value": 55
+    },
+    {
+        "date": "1956-01-01",
+        "name": "ARG",
+        "value": 78
+    },
+    {
+        "date": "1956-01-01",
+        "name": "AUS",
+        "value": 130
+    },
+    {
+        "date": "1956-01-01",
+        "name": "AUT",
+        "value": 134
+    },
+    {
+        "date": "1956-01-01",
+        "name": "BAH",
+        "value": 2
+    },
+    {
+        "date": "1956-01-01",
+        "name": "BEL",
+        "value": 367
+    },
+    {
+        "date": "1956-01-01",
+        "name": "BRA",
+        "value": 23
+    },
+    {
+        "date": "1956-01-01",
+        "name": "BUL",
+        "value": 19
+    },
+    {
+        "date": "1956-01-01",
+        "name": "CAN",
+        "value": 345
+    },
+    {
+        "date": "1956-01-01",
+        "name": "CHI",
+        "value": 9
+    },
+    {
+        "date": "1956-01-01",
+        "name": "DEN",
+        "value": 291
+    },
+    {
+        "date": "1956-01-01",
+        "name": "EUA",
+        "value": 57
+    },
+    {
+        "date": "1956-01-01",
+        "name": "FIN",
+        "value": 424
+    },
+    {
+        "date": "1956-01-01",
+        "name": "FRA",
+        "value": 797
+    },
+    {
+        "date": "1956-01-01",
+        "name": "GBR",
+        "value": 1070
+    },
+    {
+        "date": "1956-01-01",
+        "name": "GRE",
+        "value": 65
+    },
+    {
+        "date": "1956-01-01",
+        "name": "HUN",
+        "value": 410
+    },
+    {
+        "date": "1956-01-01",
+        "name": "IND",
+        "value": 99
+    },
+    {
+        "date": "1956-01-01",
+        "name": "IRI",
+        "value": 13
+    },
+    {
+        "date": "1956-01-01",
+        "name": "IRL",
+        "value": 9
+    },
+    {
+        "date": "1956-01-01",
+        "name": "ISL",
+        "value": 1
+    },
+    {
+        "date": "1956-01-01",
+        "name": "ITA",
+        "value": 550
+    },
+    {
+        "date": "1956-01-01",
+        "name": "JPN",
+        "value": 100
+    },
+    {
+        "date": "1956-01-01",
+        "name": "KOR",
+        "value": 6
+    },
+    {
+        "date": "1956-01-01",
+        "name": "MEX",
+        "value": 30
+    },
+    {
+        "date": "1956-01-01",
+        "name": "NOR",
+        "value": 459
+    },
+    {
+        "date": "1956-01-01",
+        "name": "NZL",
+        "value": 12
+    },
+    {
+        "date": "1956-01-01",
+        "name": "PAK",
+        "value": 14
+    },
+    {
+        "date": "1956-01-01",
+        "name": "POL",
+        "value": 75
+    },
+    {
+        "date": "1956-01-01",
+        "name": "ROU",
+        "value": 48
+    },
+    {
+        "date": "1956-01-01",
+        "name": "RSA",
+        "value": 70
+    },
+    {
+        "date": "1956-01-01",
+        "name": "SUI",
+        "value": 332
+    },
+    {
+        "date": "1956-01-01",
+        "name": "SWE",
+        "value": 850
+    },
+    {
+        "date": "1956-01-01",
+        "name": "TCH",
+        "value": 127
+    },
+    {
+        "date": "1956-01-01",
+        "name": "TUR",
+        "value": 24
+    },
+    {
+        "date": "1956-01-01",
+        "name": "URS",
+        "value": 286
+    },
+    {
+        "date": "1956-01-01",
+        "name": "URU",
+        "value": 74
+    },
+    {
+        "date": "1956-01-01",
+        "name": "USA",
+        "value": 1911
+    },
+    {
+        "date": "1956-01-01",
+        "name": "YUG",
+        "value": 78
+    },
+    {
+        "date": "1960-01-01",
+        "name": "ARG",
+        "value": 82
+    },
+    {
+        "date": "1960-01-01",
+        "name": "AUS",
+        "value": 166
+    },
+    {
+        "date": "1960-01-01",
+        "name": "AUT",
+        "value": 149
+    },
+    {
+        "date": "1960-01-01",
+        "name": "BEL",
+        "value": 371
+    },
+    {
+        "date": "1960-01-01",
+        "name": "BRA",
+        "value": 36
+    },
+    {
+        "date": "1960-01-01",
+        "name": "BUL",
+        "value": 26
+    },
+    {
+        "date": "1960-01-01",
+        "name": "BWI",
+        "value": 5
+    },
+    {
+        "date": "1960-01-01",
+        "name": "CAN",
+        "value": 374
+    },
+    {
+        "date": "1960-01-01",
+        "name": "DEN",
+        "value": 314
+    },
+    {
+        "date": "1960-01-01",
+        "name": "EGY",
+        "value": 17
+    },
+    {
+        "date": "1960-01-01",
+        "name": "ESP",
+        "value": 48
+    },
+    {
+        "date": "1960-01-01",
+        "name": "ETH",
+        "value": 1
+    },
+    {
+        "date": "1960-01-01",
+        "name": "EUA",
+        "value": 147
+    },
+    {
+        "date": "1960-01-01",
+        "name": "FIN",
+        "value": 442
+    },
+    {
+        "date": "1960-01-01",
+        "name": "FRA",
+        "value": 808
+    },
+    {
+        "date": "1960-01-01",
+        "name": "GBR",
+        "value": 1098
+    },
+    {
+        "date": "1960-01-01",
+        "name": "GHA",
+        "value": 1
+    },
+    {
+        "date": "1960-01-01",
+        "name": "GRE",
+        "value": 68
+    },
+    {
+        "date": "1960-01-01",
+        "name": "HUN",
+        "value": 477
+    },
+    {
+        "date": "1960-01-01",
+        "name": "IND",
+        "value": 112
+    },
+    {
+        "date": "1960-01-01",
+        "name": "IRI",
+        "value": 17
+    },
+    {
+        "date": "1960-01-01",
+        "name": "IRQ",
+        "value": 1
+    },
+    {
+        "date": "1960-01-01",
+        "name": "ITA",
+        "value": 646
+    },
+    {
+        "date": "1960-01-01",
+        "name": "JPN",
+        "value": 130
+    },
+    {
+        "date": "1960-01-01",
+        "name": "MAR",
+        "value": 1
+    },
+    {
+        "date": "1960-01-01",
+        "name": "MEX",
+        "value": 31
+    },
+    {
+        "date": "1960-01-01",
+        "name": "NED",
+        "value": 307
+    },
+    {
+        "date": "1960-01-01",
+        "name": "NOR",
+        "value": 465
+    },
+    {
+        "date": "1960-01-01",
+        "name": "NZL",
+        "value": 15
+    },
+    {
+        "date": "1960-01-01",
+        "name": "PAK",
+        "value": 28
+    },
+    {
+        "date": "1960-01-01",
+        "name": "POL",
+        "value": 106
+    },
+    {
+        "date": "1960-01-01",
+        "name": "POR",
+        "value": 15
+    },
+    {
+        "date": "1960-01-01",
+        "name": "ROU",
+        "value": 63
+    },
+    {
+        "date": "1960-01-01",
+        "name": "RSA",
+        "value": 73
+    },
+    {
+        "date": "1960-01-01",
+        "name": "SIN",
+        "value": 1
+    },
+    {
+        "date": "1960-01-01",
+        "name": "SUI",
+        "value": 353
+    },
+    {
+        "date": "1960-01-01",
+        "name": "SWE",
+        "value": 872
+    },
+    {
+        "date": "1960-01-01",
+        "name": "TCH",
+        "value": 149
+    },
+    {
+        "date": "1960-01-01",
+        "name": "TPE",
+        "value": 1
+    },
+    {
+        "date": "1960-01-01",
+        "name": "TUR",
+        "value": 33
+    },
+    {
+        "date": "1960-01-01",
+        "name": "URS",
+        "value": 492
+    },
+    {
+        "date": "1960-01-01",
+        "name": "USA",
+        "value": 2049
+    },
+    {
+        "date": "1960-01-01",
+        "name": "VEN",
+        "value": 2
+    },
+    {
+        "date": "1960-01-01",
+        "name": "YUG",
+        "value": 95
+    },
+    {
+        "date": "1964-01-01",
+        "name": "ARG",
+        "value": 83
+    },
+    {
+        "date": "1964-01-01",
+        "name": "AUS",
+        "value": 208
+    },
+    {
+        "date": "1964-01-01",
+        "name": "BAH",
+        "value": 4
+    },
+    {
+        "date": "1964-01-01",
+        "name": "BEL",
+        "value": 374
+    },
+    {
+        "date": "1964-01-01",
+        "name": "BRA",
+        "value": 48
+    },
+    {
+        "date": "1964-01-01",
+        "name": "BUL",
+        "value": 36
+    },
+    {
+        "date": "1964-01-01",
+        "name": "CAN",
+        "value": 400
+    },
+    {
+        "date": "1964-01-01",
+        "name": "CUB",
+        "value": 14
+    },
+    {
+        "date": "1964-01-01",
+        "name": "DEN",
+        "value": 326
+    },
+    {
+        "date": "1964-01-01",
+        "name": "ETH",
+        "value": 2
+    },
+    {
+        "date": "1964-01-01",
+        "name": "EUA",
+        "value": 271
+    },
+    {
+        "date": "1964-01-01",
+        "name": "FIN",
+        "value": 460
+    },
+    {
+        "date": "1964-01-01",
+        "name": "FRA",
+        "value": 842
+    },
+    {
+        "date": "1964-01-01",
+        "name": "GBR",
+        "value": 1126
+    },
+    {
+        "date": "1964-01-01",
+        "name": "GHA",
+        "value": 2
+    },
+    {
+        "date": "1964-01-01",
+        "name": "HUN",
+        "value": 533
+    },
+    {
+        "date": "1964-01-01",
+        "name": "IND",
+        "value": 127
+    },
+    {
+        "date": "1964-01-01",
+        "name": "IRI",
+        "value": 19
+    },
+    {
+        "date": "1964-01-01",
+        "name": "IRL",
+        "value": 10
+    },
+    {
+        "date": "1964-01-01",
+        "name": "ITA",
+        "value": 697
+    },
+    {
+        "date": "1964-01-01",
+        "name": "JPN",
+        "value": 194
+    },
+    {
+        "date": "1964-01-01",
+        "name": "KEN",
+        "value": 1
+    },
+    {
+        "date": "1964-01-01",
+        "name": "KOR",
+        "value": 9
+    },
+    {
+        "date": "1964-01-01",
+        "name": "MEX",
+        "value": 32
+    },
+    {
+        "date": "1964-01-01",
+        "name": "NED",
+        "value": 339
+    },
+    {
+        "date": "1964-01-01",
+        "name": "NGR",
+        "value": 1
+    },
+    {
+        "date": "1964-01-01",
+        "name": "NZL",
+        "value": 21
+    },
+    {
+        "date": "1964-01-01",
+        "name": "PAK",
+        "value": 44
+    },
+    {
+        "date": "1964-01-01",
+        "name": "PHI",
+        "value": 6
+    },
+    {
+        "date": "1964-01-01",
+        "name": "POL",
+        "value": 156
+    },
+    {
+        "date": "1964-01-01",
+        "name": "ROU",
+        "value": 79
+    },
+    {
+        "date": "1964-01-01",
+        "name": "SUI",
+        "value": 361
+    },
+    {
+        "date": "1964-01-01",
+        "name": "SWE",
+        "value": 896
+    },
+    {
+        "date": "1964-01-01",
+        "name": "TCH",
+        "value": 205
+    },
+    {
+        "date": "1964-01-01",
+        "name": "TRI",
+        "value": 9
+    },
+    {
+        "date": "1964-01-01",
+        "name": "TUN",
+        "value": 2
+    },
+    {
+        "date": "1964-01-01",
+        "name": "TUR",
+        "value": 39
+    },
+    {
+        "date": "1964-01-01",
+        "name": "URS",
+        "value": 708
+    },
+    {
+        "date": "1964-01-01",
+        "name": "URU",
+        "value": 75
+    },
+    {
+        "date": "1964-01-01",
+        "name": "USA",
+        "value": 2226
+    },
+    {
+        "date": "1964-01-01",
+        "name": "YUG",
+        "value": 110
+    },
+    {
+        "date": "1968-01-01",
+        "name": "ARG",
+        "value": 85
+    },
+    {
+        "date": "1968-01-01",
+        "name": "AUS",
+        "value": 257
+    },
+    {
+        "date": "1968-01-01",
+        "name": "AUT",
+        "value": 177
+    },
+    {
+        "date": "1968-01-01",
+        "name": "BEL",
+        "value": 377
+    },
+    {
+        "date": "1968-01-01",
+        "name": "BRA",
+        "value": 52
+    },
+    {
+        "date": "1968-01-01",
+        "name": "BUL",
+        "value": 62
+    },
+    {
+        "date": "1968-01-01",
+        "name": "CAN",
+        "value": 417
+    },
+    {
+        "date": "1968-01-01",
+        "name": "CMR",
+        "value": 1
+    },
+    {
+        "date": "1968-01-01",
+        "name": "CUB",
+        "value": 24
+    },
+    {
+        "date": "1968-01-01",
+        "name": "DEN",
+        "value": 342
+    },
+    {
+        "date": "1968-01-01",
+        "name": "ETH",
+        "value": 4
+    },
+    {
+        "date": "1968-01-01",
+        "name": "FIN",
+        "value": 479
+    },
+    {
+        "date": "1968-01-01",
+        "name": "FRA",
+        "value": 876
+    },
+    {
+        "date": "1968-01-01",
+        "name": "FRG",
+        "value": 61
+    },
+    {
+        "date": "1968-01-01",
+        "name": "GBR",
+        "value": 1146
+    },
+    {
+        "date": "1968-01-01",
+        "name": "GDR",
+        "value": 51
+    },
+    {
+        "date": "1968-01-01",
+        "name": "GRE",
+        "value": 69
+    },
+    {
+        "date": "1968-01-01",
+        "name": "HUN",
+        "value": 614
+    },
+    {
+        "date": "1968-01-01",
+        "name": "IND",
+        "value": 142
+    },
+    {
+        "date": "1968-01-01",
+        "name": "IRI",
+        "value": 24
+    },
+    {
+        "date": "1968-01-01",
+        "name": "ITA",
+        "value": 739
+    },
+    {
+        "date": "1968-01-01",
+        "name": "JAM",
+        "value": 12
+    },
+    {
+        "date": "1968-01-01",
+        "name": "JPN",
+        "value": 261
+    },
+    {
+        "date": "1968-01-01",
+        "name": "KEN",
+        "value": 13
+    },
+    {
+        "date": "1968-01-01",
+        "name": "KOR",
+        "value": 11
+    },
+    {
+        "date": "1968-01-01",
+        "name": "MEX",
+        "value": 41
+    },
+    {
+        "date": "1968-01-01",
+        "name": "MGL",
+        "value": 4
+    },
+    {
+        "date": "1968-01-01",
+        "name": "NED",
+        "value": 355
+    },
+    {
+        "date": "1968-01-01",
+        "name": "NOR",
+        "value": 495
+    },
+    {
+        "date": "1968-01-01",
+        "name": "NZL",
+        "value": 28
+    },
+    {
+        "date": "1968-01-01",
+        "name": "PAK",
+        "value": 57
+    },
+    {
+        "date": "1968-01-01",
+        "name": "POL",
+        "value": 193
+    },
+    {
+        "date": "1968-01-01",
+        "name": "ROU",
+        "value": 102
+    },
+    {
+        "date": "1968-01-01",
+        "name": "SUI",
+        "value": 374
+    },
+    {
+        "date": "1968-01-01",
+        "name": "SWE",
+        "value": 933
+    },
+    {
+        "date": "1968-01-01",
+        "name": "TCH",
+        "value": 251
+    },
+    {
+        "date": "1968-01-01",
+        "name": "TPE",
+        "value": 2
+    },
+    {
+        "date": "1968-01-01",
+        "name": "TUN",
+        "value": 4
+    },
+    {
+        "date": "1968-01-01",
+        "name": "TUR",
+        "value": 41
+    },
+    {
+        "date": "1968-01-01",
+        "name": "UGA",
+        "value": 2
+    },
+    {
+        "date": "1968-01-01",
+        "name": "URS",
+        "value": 942
+    },
+    {
+        "date": "1968-01-01",
+        "name": "USA",
+        "value": 2383
+    },
+    {
+        "date": "1968-01-01",
+        "name": "VEN",
+        "value": 3
+    },
+    {
+        "date": "1968-01-01",
+        "name": "YUG",
+        "value": 139
+    },
+    {
+        "date": "1972-01-01",
+        "name": "ARG",
+        "value": 86
+    },
+    {
+        "date": "1972-01-01",
+        "name": "AUS",
+        "value": 277
+    },
+    {
+        "date": "1972-01-01",
+        "name": "AUT",
+        "value": 195
+    },
+    {
+        "date": "1972-01-01",
+        "name": "BEL",
+        "value": 379
+    },
+    {
+        "date": "1972-01-01",
+        "name": "BRA",
+        "value": 54
+    },
+    {
+        "date": "1972-01-01",
+        "name": "BUL",
+        "value": 84
+    },
+    {
+        "date": "1972-01-01",
+        "name": "CAN",
+        "value": 447
+    },
+    {
+        "date": "1972-01-01",
+        "name": "COL",
+        "value": 3
+    },
+    {
+        "date": "1972-01-01",
+        "name": "CUB",
+        "value": 46
+    },
+    {
+        "date": "1972-01-01",
+        "name": "DEN",
+        "value": 343
+    },
+    {
+        "date": "1972-01-01",
+        "name": "ESP",
+        "value": 49
+    },
+    {
+        "date": "1972-01-01",
+        "name": "ETH",
+        "value": 6
+    },
+    {
+        "date": "1972-01-01",
+        "name": "FIN",
+        "value": 497
+    },
+    {
+        "date": "1972-01-01",
+        "name": "FRA",
+        "value": 907
+    },
+    {
+        "date": "1972-01-01",
+        "name": "FRG",
+        "value": 167
+    },
+    {
+        "date": "1972-01-01",
+        "name": "GBR",
+        "value": 1175
+    },
+    {
+        "date": "1972-01-01",
+        "name": "GDR",
+        "value": 205
+    },
+    {
+        "date": "1972-01-01",
+        "name": "GHA",
+        "value": 3
+    },
+    {
+        "date": "1972-01-01",
+        "name": "GRE",
+        "value": 71
+    },
+    {
+        "date": "1972-01-01",
+        "name": "HUN",
+        "value": 695
+    },
+    {
+        "date": "1972-01-01",
+        "name": "IND",
+        "value": 156
+    },
+    {
+        "date": "1972-01-01",
+        "name": "IRI",
+        "value": 27
+    },
+    {
+        "date": "1972-01-01",
+        "name": "ITA",
+        "value": 772
+    },
+    {
+        "date": "1972-01-01",
+        "name": "JAM",
+        "value": 13
+    },
+    {
+        "date": "1972-01-01",
+        "name": "JPN",
+        "value": 317
+    },
+    {
+        "date": "1972-01-01",
+        "name": "KEN",
+        "value": 25
+    },
+    {
+        "date": "1972-01-01",
+        "name": "KOR",
+        "value": 12
+    },
+    {
+        "date": "1972-01-01",
+        "name": "LIB",
+        "value": 3
+    },
+    {
+        "date": "1972-01-01",
+        "name": "MEX",
+        "value": 42
+    },
+    {
+        "date": "1972-01-01",
+        "name": "MGL",
+        "value": 5
+    },
+    {
+        "date": "1972-01-01",
+        "name": "NED",
+        "value": 370
+    },
+    {
+        "date": "1972-01-01",
+        "name": "NGR",
+        "value": 2
+    },
+    {
+        "date": "1972-01-01",
+        "name": "NIG",
+        "value": 1
+    },
+    {
+        "date": "1972-01-01",
+        "name": "NOR",
+        "value": 525
+    },
+    {
+        "date": "1972-01-01",
+        "name": "NZL",
+        "value": 42
+    },
+    {
+        "date": "1972-01-01",
+        "name": "PAK",
+        "value": 72
+    },
+    {
+        "date": "1972-01-01",
+        "name": "POL",
+        "value": 239
+    },
+    {
+        "date": "1972-01-01",
+        "name": "PRK",
+        "value": 16
+    },
+    {
+        "date": "1972-01-01",
+        "name": "ROU",
+        "value": 144
+    },
+    {
+        "date": "1972-01-01",
+        "name": "SUI",
+        "value": 391
+    },
+    {
+        "date": "1972-01-01",
+        "name": "SWE",
+        "value": 970
+    },
+    {
+        "date": "1972-01-01",
+        "name": "TCH",
+        "value": 301
+    },
+    {
+        "date": "1972-01-01",
+        "name": "TUN",
+        "value": 5
+    },
+    {
+        "date": "1972-01-01",
+        "name": "TUR",
+        "value": 42
+    },
+    {
+        "date": "1972-01-01",
+        "name": "UGA",
+        "value": 4
+    },
+    {
+        "date": "1972-01-01",
+        "name": "URS",
+        "value": 1190
+    },
+    {
+        "date": "1972-01-01",
+        "name": "USA",
+        "value": 2545
+    },
+    {
+        "date": "1972-01-01",
+        "name": "YUG",
+        "value": 157
+    },
+    {
+        "date": "1976-01-01",
+        "name": "AUS",
+        "value": 301
+    },
+    {
+        "date": "1976-01-01",
+        "name": "AUT",
+        "value": 201
+    },
+    {
+        "date": "1976-01-01",
+        "name": "BEL",
+        "value": 388
+    },
+    {
+        "date": "1976-01-01",
+        "name": "BER",
+        "value": 1
+    },
+    {
+        "date": "1976-01-01",
+        "name": "BRA",
+        "value": 57
+    },
+    {
+        "date": "1976-01-01",
+        "name": "BUL",
+        "value": 123
+    },
+    {
+        "date": "1976-01-01",
+        "name": "CAN",
+        "value": 468
+    },
+    {
+        "date": "1976-01-01",
+        "name": "CUB",
+        "value": 70
+    },
+    {
+        "date": "1976-01-01",
+        "name": "DEN",
+        "value": 351
+    },
+    {
+        "date": "1976-01-01",
+        "name": "ESP",
+        "value": 56
+    },
+    {
+        "date": "1976-01-01",
+        "name": "FIN",
+        "value": 513
+    },
+    {
+        "date": "1976-01-01",
+        "name": "FRA",
+        "value": 930
+    },
+    {
+        "date": "1976-01-01",
+        "name": "FRG",
+        "value": 252
+    },
+    {
+        "date": "1976-01-01",
+        "name": "GBR",
+        "value": 1207
+    },
+    {
+        "date": "1976-01-01",
+        "name": "GDR",
+        "value": 417
+    },
+    {
+        "date": "1976-01-01",
+        "name": "HUN",
+        "value": 750
+    },
+    {
+        "date": "1976-01-01",
+        "name": "IRI",
+        "value": 29
+    },
+    {
+        "date": "1976-01-01",
+        "name": "ITA",
+        "value": 812
+    },
+    {
+        "date": "1976-01-01",
+        "name": "JAM",
+        "value": 15
+    },
+    {
+        "date": "1976-01-01",
+        "name": "JPN",
+        "value": 361
+    },
+    {
+        "date": "1976-01-01",
+        "name": "KOR",
+        "value": 29
+    },
+    {
+        "date": "1976-01-01",
+        "name": "MEX",
+        "value": 44
+    },
+    {
+        "date": "1976-01-01",
+        "name": "MGL",
+        "value": 6
+    },
+    {
+        "date": "1976-01-01",
+        "name": "NED",
+        "value": 394
+    },
+    {
+        "date": "1976-01-01",
+        "name": "NOR",
+        "value": 548
+    },
+    {
+        "date": "1976-01-01",
+        "name": "NZL",
+        "value": 69
+    },
+    {
+        "date": "1976-01-01",
+        "name": "PAK",
+        "value": 88
+    },
+    {
+        "date": "1976-01-01",
+        "name": "POL",
+        "value": 313
+    },
+    {
+        "date": "1976-01-01",
+        "name": "POR",
+        "value": 17
+    },
+    {
+        "date": "1976-01-01",
+        "name": "PRK",
+        "value": 18
+    },
+    {
+        "date": "1976-01-01",
+        "name": "PUR",
+        "value": 2
+    },
+    {
+        "date": "1976-01-01",
+        "name": "ROU",
+        "value": 199
+    },
+    {
+        "date": "1976-01-01",
+        "name": "SUI",
+        "value": 418
+    },
+    {
+        "date": "1976-01-01",
+        "name": "SWE",
+        "value": 984
+    },
+    {
+        "date": "1976-01-01",
+        "name": "TCH",
+        "value": 336
+    },
+    {
+        "date": "1976-01-01",
+        "name": "THA",
+        "value": 1
+    },
+    {
+        "date": "1976-01-01",
+        "name": "TRI",
+        "value": 10
+    },
+    {
+        "date": "1976-01-01",
+        "name": "URS",
+        "value": 1520
+    },
+    {
+        "date": "1976-01-01",
+        "name": "USA",
+        "value": 2725
+    },
+    {
+        "date": "1976-01-01",
+        "name": "VEN",
+        "value": 4
+    },
+    {
+        "date": "1976-01-01",
+        "name": "YUG",
+        "value": 176
+    },
+    {
+        "date": "1980-01-01",
+        "name": "AUS",
+        "value": 313
+    },
+    {
+        "date": "1980-01-01",
+        "name": "AUT",
+        "value": 213
+    },
+    {
+        "date": "1980-01-01",
+        "name": "BEL",
+        "value": 389
+    },
+    {
+        "date": "1980-01-01",
+        "name": "BRA",
+        "value": 66
+    },
+    {
+        "date": "1980-01-01",
+        "name": "BUL",
+        "value": 217
+    },
+    {
+        "date": "1980-01-01",
+        "name": "CUB",
+        "value": 90
+    },
+    {
+        "date": "1980-01-01",
+        "name": "DEN",
+        "value": 359
+    },
+    {
+        "date": "1980-01-01",
+        "name": "ESP",
+        "value": 80
+    },
+    {
+        "date": "1980-01-01",
+        "name": "ETH",
+        "value": 10
+    },
+    {
+        "date": "1980-01-01",
+        "name": "FIN",
+        "value": 538
+    },
+    {
+        "date": "1980-01-01",
+        "name": "FRA",
+        "value": 960
+    },
+    {
+        "date": "1980-01-01",
+        "name": "GBR",
+        "value": 1253
+    },
+    {
+        "date": "1980-01-01",
+        "name": "GDR",
+        "value": 709
+    },
+    {
+        "date": "1980-01-01",
+        "name": "GRE",
+        "value": 76
+    },
+    {
+        "date": "1980-01-01",
+        "name": "GUY",
+        "value": 1
+    },
+    {
+        "date": "1980-01-01",
+        "name": "HUN",
+        "value": 811
+    },
+    {
+        "date": "1980-01-01",
+        "name": "IND",
+        "value": 172
+    },
+    {
+        "date": "1980-01-01",
+        "name": "IRL",
+        "value": 13
+    },
+    {
+        "date": "1980-01-01",
+        "name": "ITA",
+        "value": 853
+    },
+    {
+        "date": "1980-01-01",
+        "name": "JAM",
+        "value": 18
+    },
+    {
+        "date": "1980-01-01",
+        "name": "LIB",
+        "value": 4
+    },
+    {
+        "date": "1980-01-01",
+        "name": "MEX",
+        "value": 56
+    },
+    {
+        "date": "1980-01-01",
+        "name": "MGL",
+        "value": 10
+    },
+    {
+        "date": "1980-01-01",
+        "name": "NED",
+        "value": 406
+    },
+    {
+        "date": "1980-01-01",
+        "name": "POL",
+        "value": 363
+    },
+    {
+        "date": "1980-01-01",
+        "name": "PRK",
+        "value": 23
+    },
+    {
+        "date": "1980-01-01",
+        "name": "ROU",
+        "value": 271
+    },
+    {
+        "date": "1980-01-01",
+        "name": "SUI",
+        "value": 429
+    },
+    {
+        "date": "1980-01-01",
+        "name": "SWE",
+        "value": 1004
+    },
+    {
+        "date": "1980-01-01",
+        "name": "TAN",
+        "value": 2
+    },
+    {
+        "date": "1980-01-01",
+        "name": "TCH",
+        "value": 406
+    },
+    {
+        "date": "1980-01-01",
+        "name": "UGA",
+        "value": 5
+    },
+    {
+        "date": "1980-01-01",
+        "name": "URS",
+        "value": 2018
+    },
+    {
+        "date": "1980-01-01",
+        "name": "VEN",
+        "value": 5
+    },
+    {
+        "date": "1980-01-01",
+        "name": "YUG",
+        "value": 233
+    },
+    {
+        "date": "1980-01-01",
+        "name": "ZIM",
+        "value": 16
+    },
+    {
+        "date": "1984-01-01",
+        "name": "ALG",
+        "value": 2
+    },
+    {
+        "date": "1984-01-01",
+        "name": "AUS",
+        "value": 363
+    },
+    {
+        "date": "1984-01-01",
+        "name": "AUT",
+        "value": 224
+    },
+    {
+        "date": "1984-01-01",
+        "name": "BEL",
+        "value": 394
+    },
+    {
+        "date": "1984-01-01",
+        "name": "BRA",
+        "value": 103
+    },
+    {
+        "date": "1984-01-01",
+        "name": "CAN",
+        "value": 559
+    },
+    {
+        "date": "1984-01-01",
+        "name": "CHN",
+        "value": 76
+    },
+    {
+        "date": "1984-01-01",
+        "name": "CIV",
+        "value": 1
+    },
+    {
+        "date": "1984-01-01",
+        "name": "CMR",
+        "value": 2
+    },
+    {
+        "date": "1984-01-01",
+        "name": "COL",
+        "value": 4
+    },
+    {
+        "date": "1984-01-01",
+        "name": "DEN",
+        "value": 374
+    },
+    {
+        "date": "1984-01-01",
+        "name": "DOM",
+        "value": 1
+    },
+    {
+        "date": "1984-01-01",
+        "name": "EGY",
+        "value": 18
+    },
+    {
+        "date": "1984-01-01",
+        "name": "ESP",
+        "value": 99
+    },
+    {
+        "date": "1984-01-01",
+        "name": "FIN",
+        "value": 562
+    },
+    {
+        "date": "1984-01-01",
+        "name": "FRA",
+        "value": 1029
+    },
+    {
+        "date": "1984-01-01",
+        "name": "FRG",
+        "value": 449
+    },
+    {
+        "date": "1984-01-01",
+        "name": "GBR",
+        "value": 1326
+    },
+    {
+        "date": "1984-01-01",
+        "name": "GRE",
+        "value": 78
+    },
+    {
+        "date": "1984-01-01",
+        "name": "IRL",
+        "value": 14
+    },
+    {
+        "date": "1984-01-01",
+        "name": "ISL",
+        "value": 2
+    },
+    {
+        "date": "1984-01-01",
+        "name": "ITA",
+        "value": 919
+    },
+    {
+        "date": "1984-01-01",
+        "name": "JAM",
+        "value": 24
+    },
+    {
+        "date": "1984-01-01",
+        "name": "JPN",
+        "value": 411
+    },
+    {
+        "date": "1984-01-01",
+        "name": "KEN",
+        "value": 28
+    },
+    {
+        "date": "1984-01-01",
+        "name": "KOR",
+        "value": 71
+    },
+    {
+        "date": "1984-01-01",
+        "name": "MAR",
+        "value": 3
+    },
+    {
+        "date": "1984-01-01",
+        "name": "MEX",
+        "value": 62
+    },
+    {
+        "date": "1984-01-01",
+        "name": "NED",
+        "value": 450
+    },
+    {
+        "date": "1984-01-01",
+        "name": "NGR",
+        "value": 7
+    },
+    {
+        "date": "1984-01-01",
+        "name": "NOR",
+        "value": 578
+    },
+    {
+        "date": "1984-01-01",
+        "name": "NZL",
+        "value": 92
+    },
+    {
+        "date": "1984-01-01",
+        "name": "PAK",
+        "value": 104
+    },
+    {
+        "date": "1984-01-01",
+        "name": "PER",
+        "value": 2
+    },
+    {
+        "date": "1984-01-01",
+        "name": "POR",
+        "value": 20
+    },
+    {
+        "date": "1984-01-01",
+        "name": "PUR",
+        "value": 4
+    },
+    {
+        "date": "1984-01-01",
+        "name": "ROU",
+        "value": 377
+    },
+    {
+        "date": "1984-01-01",
+        "name": "SUI",
+        "value": 453
+    },
+    {
+        "date": "1984-01-01",
+        "name": "SWE",
+        "value": 1058
+    },
+    {
+        "date": "1984-01-01",
+        "name": "SYR",
+        "value": 1
+    },
+    {
+        "date": "1984-01-01",
+        "name": "THA",
+        "value": 2
+    },
+    {
+        "date": "1984-01-01",
+        "name": "TPE",
+        "value": 3
+    },
+    {
+        "date": "1984-01-01",
+        "name": "TUR",
+        "value": 45
+    },
+    {
+        "date": "1984-01-01",
+        "name": "USA",
+        "value": 3099
+    },
+    {
+        "date": "1984-01-01",
+        "name": "VEN",
+        "value": 8
+    },
+    {
+        "date": "1984-01-01",
+        "name": "YUG",
+        "value": 320
+    },
+    {
+        "date": "1984-01-01",
+        "name": "ZAM",
+        "value": 1
+    },
+    {
+        "date": "1988-01-01",
+        "name": "AHO",
+        "value": 1
+    },
+    {
+        "date": "1988-01-01",
+        "name": "ARG",
+        "value": 99
+    },
+    {
+        "date": "1988-01-01",
+        "name": "AUS",
+        "value": 397
+    },
+    {
+        "date": "1988-01-01",
+        "name": "AUT",
+        "value": 226
+    },
+    {
+        "date": "1988-01-01",
+        "name": "BEL",
+        "value": 396
+    },
+    {
+        "date": "1988-01-01",
+        "name": "BRA",
+        "value": 131
+    },
+    {
+        "date": "1988-01-01",
+        "name": "BUL",
+        "value": 259
+    },
+    {
+        "date": "1988-01-01",
+        "name": "CAN",
+        "value": 584
+    },
+    {
+        "date": "1988-01-01",
+        "name": "CHI",
+        "value": 10
+    },
+    {
+        "date": "1988-01-01",
+        "name": "CHN",
+        "value": 129
+    },
+    {
+        "date": "1988-01-01",
+        "name": "COL",
+        "value": 5
+    },
+    {
+        "date": "1988-01-01",
+        "name": "CRC",
+        "value": 1
+    },
+    {
+        "date": "1988-01-01",
+        "name": "DEN",
+        "value": 381
+    },
+    {
+        "date": "1988-01-01",
+        "name": "DJI",
+        "value": 1
+    },
+    {
+        "date": "1988-01-01",
+        "name": "ESP",
+        "value": 104
+    },
+    {
+        "date": "1988-01-01",
+        "name": "FIN",
+        "value": 585
+    },
+    {
+        "date": "1988-01-01",
+        "name": "FRA",
+        "value": 1061
+    },
+    {
+        "date": "1988-01-01",
+        "name": "FRG",
+        "value": 570
+    },
+    {
+        "date": "1988-01-01",
+        "name": "GBR",
+        "value": 1381
+    },
+    {
+        "date": "1988-01-01",
+        "name": "GDR",
+        "value": 955
+    },
+    {
+        "date": "1988-01-01",
+        "name": "GRE",
+        "value": 79
+    },
+    {
+        "date": "1988-01-01",
+        "name": "HUN",
+        "value": 857
+    },
+    {
+        "date": "1988-01-01",
+        "name": "INA",
+        "value": 3
+    },
+    {
+        "date": "1988-01-01",
+        "name": "IRI",
+        "value": 30
+    },
+    {
+        "date": "1988-01-01",
+        "name": "ISV",
+        "value": 1
+    },
+    {
+        "date": "1988-01-01",
+        "name": "ITA",
+        "value": 950
+    },
+    {
+        "date": "1988-01-01",
+        "name": "JAM",
+        "value": 29
+    },
+    {
+        "date": "1988-01-01",
+        "name": "JPN",
+        "value": 432
+    },
+    {
+        "date": "1988-01-01",
+        "name": "KEN",
+        "value": 37
+    },
+    {
+        "date": "1988-01-01",
+        "name": "KOR",
+        "value": 148
+    },
+    {
+        "date": "1988-01-01",
+        "name": "MAR",
+        "value": 6
+    },
+    {
+        "date": "1988-01-01",
+        "name": "MEX",
+        "value": 64
+    },
+    {
+        "date": "1988-01-01",
+        "name": "MGL",
+        "value": 11
+    },
+    {
+        "date": "1988-01-01",
+        "name": "NED",
+        "value": 494
+    },
+    {
+        "date": "1988-01-01",
+        "name": "NOR",
+        "value": 616
+    },
+    {
+        "date": "1988-01-01",
+        "name": "NZL",
+        "value": 116
+    },
+    {
+        "date": "1988-01-01",
+        "name": "PAK",
+        "value": 105
+    },
+    {
+        "date": "1988-01-01",
+        "name": "PER",
+        "value": 14
+    },
+    {
+        "date": "1988-01-01",
+        "name": "PHI",
+        "value": 7
+    },
+    {
+        "date": "1988-01-01",
+        "name": "POL",
+        "value": 384
+    },
+    {
+        "date": "1988-01-01",
+        "name": "POR",
+        "value": 21
+    },
+    {
+        "date": "1988-01-01",
+        "name": "ROU",
+        "value": 428
+    },
+    {
+        "date": "1988-01-01",
+        "name": "SEN",
+        "value": 1
+    },
+    {
+        "date": "1988-01-01",
+        "name": "SUI",
+        "value": 469
+    },
+    {
+        "date": "1988-01-01",
+        "name": "SUR",
+        "value": 1
+    },
+    {
+        "date": "1988-01-01",
+        "name": "SWE",
+        "value": 1104
+    },
+    {
+        "date": "1988-01-01",
+        "name": "TCH",
+        "value": 445
+    },
+    {
+        "date": "1988-01-01",
+        "name": "THA",
+        "value": 3
+    },
+    {
+        "date": "1988-01-01",
+        "name": "TUR",
+        "value": 47
+    },
+    {
+        "date": "1988-01-01",
+        "name": "URS",
+        "value": 2422
+    },
+    {
+        "date": "1988-01-01",
+        "name": "USA",
+        "value": 3301
+    },
+    {
+        "date": "1988-01-01",
+        "name": "YUG",
+        "value": 384
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ALG",
+        "value": 4
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ARG",
+        "value": 101
+    },
+    {
+        "date": "1992-01-01",
+        "name": "AUS",
+        "value": 454
+    },
+    {
+        "date": "1992-01-01",
+        "name": "AUT",
+        "value": 244
+    },
+    {
+        "date": "1992-01-01",
+        "name": "BAH",
+        "value": 5
+    },
+    {
+        "date": "1992-01-01",
+        "name": "BEL",
+        "value": 399
+    },
+    {
+        "date": "1992-01-01",
+        "name": "BRA",
+        "value": 145
+    },
+    {
+        "date": "1992-01-01",
+        "name": "BUL",
+        "value": 276
+    },
+    {
+        "date": "1992-01-01",
+        "name": "CAN",
+        "value": 634
+    },
+    {
+        "date": "1992-01-01",
+        "name": "CHN",
+        "value": 212
+    },
+    {
+        "date": "1992-01-01",
+        "name": "COL",
+        "value": 6
+    },
+    {
+        "date": "1992-01-01",
+        "name": "CRO",
+        "value": 15
+    },
+    {
+        "date": "1992-01-01",
+        "name": "CUB",
+        "value": 161
+    },
+    {
+        "date": "1992-01-01",
+        "name": "DEN",
+        "value": 395
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ESP",
+        "value": 170
+    },
+    {
+        "date": "1992-01-01",
+        "name": "EST",
+        "value": 28
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ETH",
+        "value": 13
+    },
+    {
+        "date": "1992-01-01",
+        "name": "EUN",
+        "value": 223
+    },
+    {
+        "date": "1992-01-01",
+        "name": "FIN",
+        "value": 626
+    },
+    {
+        "date": "1992-01-01",
+        "name": "FRA",
+        "value": 1120
+    },
+    {
+        "date": "1992-01-01",
+        "name": "GBR",
+        "value": 1431
+    },
+    {
+        "date": "1992-01-01",
+        "name": "GER",
+        "value": 751
+    },
+    {
+        "date": "1992-01-01",
+        "name": "GHA",
+        "value": 16
+    },
+    {
+        "date": "1992-01-01",
+        "name": "GRE",
+        "value": 81
+    },
+    {
+        "date": "1992-01-01",
+        "name": "HUN",
+        "value": 902
+    },
+    {
+        "date": "1992-01-01",
+        "name": "INA",
+        "value": 9
+    },
+    {
+        "date": "1992-01-01",
+        "name": "IOP",
+        "value": 3
+    },
+    {
+        "date": "1992-01-01",
+        "name": "IRI",
+        "value": 33
+    },
+    {
+        "date": "1992-01-01",
+        "name": "IRL",
+        "value": 16
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ISR",
+        "value": 2
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ITA",
+        "value": 1004
+    },
+    {
+        "date": "1992-01-01",
+        "name": "JAM",
+        "value": 33
+    },
+    {
+        "date": "1992-01-01",
+        "name": "JPN",
+        "value": 480
+    },
+    {
+        "date": "1992-01-01",
+        "name": "KEN",
+        "value": 45
+    },
+    {
+        "date": "1992-01-01",
+        "name": "KOR",
+        "value": 197
+    },
+    {
+        "date": "1992-01-01",
+        "name": "LAT",
+        "value": 6
+    },
+    {
+        "date": "1992-01-01",
+        "name": "LTU",
+        "value": 13
+    },
+    {
+        "date": "1992-01-01",
+        "name": "MAR",
+        "value": 9
+    },
+    {
+        "date": "1992-01-01",
+        "name": "MAS",
+        "value": 2
+    },
+    {
+        "date": "1992-01-01",
+        "name": "MEX",
+        "value": 65
+    },
+    {
+        "date": "1992-01-01",
+        "name": "MGL",
+        "value": 13
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NAM",
+        "value": 2
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NED",
+        "value": 534
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NGR",
+        "value": 18
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NOR",
+        "value": 650
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NZL",
+        "value": 131
+    },
+    {
+        "date": "1992-01-01",
+        "name": "PAK",
+        "value": 121
+    },
+    {
+        "date": "1992-01-01",
+        "name": "PER",
+        "value": 15
+    },
+    {
+        "date": "1992-01-01",
+        "name": "PHI",
+        "value": 8
+    },
+    {
+        "date": "1992-01-01",
+        "name": "POL",
+        "value": 426
+    },
+    {
+        "date": "1992-01-01",
+        "name": "PRK",
+        "value": 33
+    },
+    {
+        "date": "1992-01-01",
+        "name": "PUR",
+        "value": 5
+    },
+    {
+        "date": "1992-01-01",
+        "name": "QAT",
+        "value": 1
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ROU",
+        "value": 481
+    },
+    {
+        "date": "1992-01-01",
+        "name": "RSA",
+        "value": 76
+    },
+    {
+        "date": "1992-01-01",
+        "name": "SLO",
+        "value": 6
+    },
+    {
+        "date": "1992-01-01",
+        "name": "SUI",
+        "value": 490
+    },
+    {
+        "date": "1992-01-01",
+        "name": "SUR",
+        "value": 2
+    },
+    {
+        "date": "1992-01-01",
+        "name": "SWE",
+        "value": 1169
+    },
+    {
+        "date": "1992-01-01",
+        "name": "TCH",
+        "value": 459
+    },
+    {
+        "date": "1992-01-01",
+        "name": "THA",
+        "value": 4
+    },
+    {
+        "date": "1992-01-01",
+        "name": "TPE",
+        "value": 23
+    },
+    {
+        "date": "1992-01-01",
+        "name": "TUR",
+        "value": 53
+    },
+    {
+        "date": "1992-01-01",
+        "name": "USA",
+        "value": 3532
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ALG",
+        "value": 7
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ARG",
+        "value": 121
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ARM",
+        "value": 2
+    },
+    {
+        "date": "1996-01-01",
+        "name": "AUS",
+        "value": 586
+    },
+    {
+        "date": "1996-01-01",
+        "name": "AUT",
+        "value": 276
+    },
+    {
+        "date": "1996-01-01",
+        "name": "AZE",
+        "value": 1
+    },
+    {
+        "date": "1996-01-01",
+        "name": "BAH",
+        "value": 10
+    },
+    {
+        "date": "1996-01-01",
+        "name": "BDI",
+        "value": 1
+    },
+    {
+        "date": "1996-01-01",
+        "name": "BEL",
+        "value": 405
+    },
+    {
+        "date": "1996-01-01",
+        "name": "BLR",
+        "value": 23
+    },
+    {
+        "date": "1996-01-01",
+        "name": "BRA",
+        "value": 209
+    },
+    {
+        "date": "1996-01-01",
+        "name": "BUL",
+        "value": 297
+    },
+    {
+        "date": "1996-01-01",
+        "name": "CAN",
+        "value": 722
+    },
+    {
+        "date": "1996-01-01",
+        "name": "CHN",
+        "value": 325
+    },
+    {
+        "date": "1996-01-01",
+        "name": "CRC",
+        "value": 2
+    },
+    {
+        "date": "1996-01-01",
+        "name": "CRO",
+        "value": 44
+    },
+    {
+        "date": "1996-01-01",
+        "name": "CUB",
+        "value": 218
+    },
+    {
+        "date": "1996-01-01",
+        "name": "CZE",
+        "value": 13
+    },
+    {
+        "date": "1996-01-01",
+        "name": "DEN",
+        "value": 419
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ECU",
+        "value": 1
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ESP",
+        "value": 238
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ETH",
+        "value": 16
+    },
+    {
+        "date": "1996-01-01",
+        "name": "FIN",
+        "value": 643
+    },
+    {
+        "date": "1996-01-01",
+        "name": "FRA",
+        "value": 1183
+    },
+    {
+        "date": "1996-01-01",
+        "name": "GBR",
+        "value": 1457
+    },
+    {
+        "date": "1996-01-01",
+        "name": "GEO",
+        "value": 2
+    },
+    {
+        "date": "1996-01-01",
+        "name": "GER",
+        "value": 913
+    },
+    {
+        "date": "1996-01-01",
+        "name": "GRE",
+        "value": 89
+    },
+    {
+        "date": "1996-01-01",
+        "name": "HKG",
+        "value": 1
+    },
+    {
+        "date": "1996-01-01",
+        "name": "HUN",
+        "value": 945
+    },
+    {
+        "date": "1996-01-01",
+        "name": "INA",
+        "value": 15
+    },
+    {
+        "date": "1996-01-01",
+        "name": "IND",
+        "value": 173
+    },
+    {
+        "date": "1996-01-01",
+        "name": "IRI",
+        "value": 36
+    },
+    {
+        "date": "1996-01-01",
+        "name": "IRL",
+        "value": 20
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ISR",
+        "value": 3
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ITA",
+        "value": 1096
+    },
+    {
+        "date": "1996-01-01",
+        "name": "JAM",
+        "value": 49
+    },
+    {
+        "date": "1996-01-01",
+        "name": "JPN",
+        "value": 535
+    },
+    {
+        "date": "1996-01-01",
+        "name": "KAZ",
+        "value": 11
+    },
+    {
+        "date": "1996-01-01",
+        "name": "KEN",
+        "value": 53
+    },
+    {
+        "date": "1996-01-01",
+        "name": "KOR",
+        "value": 270
+    },
+    {
+        "date": "1996-01-01",
+        "name": "LAT",
+        "value": 7
+    },
+    {
+        "date": "1996-01-01",
+        "name": "LTU",
+        "value": 25
+    },
+    {
+        "date": "1996-01-01",
+        "name": "MAR",
+        "value": 11
+    },
+    {
+        "date": "1996-01-01",
+        "name": "MAS",
+        "value": 5
+    },
+    {
+        "date": "1996-01-01",
+        "name": "MDA",
+        "value": 3
+    },
+    {
+        "date": "1996-01-01",
+        "name": "MEX",
+        "value": 66
+    },
+    {
+        "date": "1996-01-01",
+        "name": "MGL",
+        "value": 14
+    },
+    {
+        "date": "1996-01-01",
+        "name": "MOZ",
+        "value": 1
+    },
+    {
+        "date": "1996-01-01",
+        "name": "NAM",
+        "value": 4
+    },
+    {
+        "date": "1996-01-01",
+        "name": "NED",
+        "value": 611
+    },
+    {
+        "date": "1996-01-01",
+        "name": "NGR",
+        "value": 44
+    },
+    {
+        "date": "1996-01-01",
+        "name": "NOR",
+        "value": 703
+    },
+    {
+        "date": "1996-01-01",
+        "name": "NZL",
+        "value": 141
+    },
+    {
+        "date": "1996-01-01",
+        "name": "PHI",
+        "value": 9
+    },
+    {
+        "date": "1996-01-01",
+        "name": "POL",
+        "value": 447
+    },
+    {
+        "date": "1996-01-01",
+        "name": "POR",
+        "value": 24
+    },
+    {
+        "date": "1996-01-01",
+        "name": "PRK",
+        "value": 39
+    },
+    {
+        "date": "1996-01-01",
+        "name": "PUR",
+        "value": 6
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ROU",
+        "value": 519
+    },
+    {
+        "date": "1996-01-01",
+        "name": "RSA",
+        "value": 81
+    },
+    {
+        "date": "1996-01-01",
+        "name": "RUS",
+        "value": 115
+    },
+    {
+        "date": "1996-01-01",
+        "name": "SLO",
+        "value": 8
+    },
+    {
+        "date": "1996-01-01",
+        "name": "SUI",
+        "value": 508
+    },
+    {
+        "date": "1996-01-01",
+        "name": "SVK",
+        "value": 3
+    },
+    {
+        "date": "1996-01-01",
+        "name": "SWE",
+        "value": 1207
+    },
+    {
+        "date": "1996-01-01",
+        "name": "SYR",
+        "value": 2
+    },
+    {
+        "date": "1996-01-01",
+        "name": "TGA",
+        "value": 1
+    },
+    {
+        "date": "1996-01-01",
+        "name": "THA",
+        "value": 6
+    },
+    {
+        "date": "1996-01-01",
+        "name": "TPE",
+        "value": 24
+    },
+    {
+        "date": "1996-01-01",
+        "name": "TRI",
+        "value": 12
+    },
+    {
+        "date": "1996-01-01",
+        "name": "TUN",
+        "value": 6
+    },
+    {
+        "date": "1996-01-01",
+        "name": "TUR",
+        "value": 59
+    },
+    {
+        "date": "1996-01-01",
+        "name": "UGA",
+        "value": 6
+    },
+    {
+        "date": "1996-01-01",
+        "name": "UKR",
+        "value": 34
+    },
+    {
+        "date": "1996-01-01",
+        "name": "USA",
+        "value": 3806
+    },
+    {
+        "date": "1996-01-01",
+        "name": "UZB",
+        "value": 2
+    },
+    {
+        "date": "1996-01-01",
+        "name": "YUG",
+        "value": 416
+    },
+    {
+        "date": "1996-01-01",
+        "name": "ZAM",
+        "value": 2
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ALG",
+        "value": 12
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ARG",
+        "value": 141
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ARM",
+        "value": 3
+    },
+    {
+        "date": "2000-01-01",
+        "name": "AUS",
+        "value": 769
+    },
+    {
+        "date": "2000-01-01",
+        "name": "AUT",
+        "value": 280
+    },
+    {
+        "date": "2000-01-01",
+        "name": "AZE",
+        "value": 4
+    },
+    {
+        "date": "2000-01-01",
+        "name": "BAH",
+        "value": 16
+    },
+    {
+        "date": "2000-01-01",
+        "name": "BAR",
+        "value": 1
+    },
+    {
+        "date": "2000-01-01",
+        "name": "BEL",
+        "value": 412
+    },
+    {
+        "date": "2000-01-01",
+        "name": "BLR",
+        "value": 45
+    },
+    {
+        "date": "2000-01-01",
+        "name": "BRA",
+        "value": 257
+    },
+    {
+        "date": "2000-01-01",
+        "name": "BUL",
+        "value": 310
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CAN",
+        "value": 753
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CHI",
+        "value": 28
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CHN",
+        "value": 404
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CMR",
+        "value": 20
+    },
+    {
+        "date": "2000-01-01",
+        "name": "COL",
+        "value": 7
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CRC",
+        "value": 4
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CRO",
+        "value": 54
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CUB",
+        "value": 287
+    },
+    {
+        "date": "2000-01-01",
+        "name": "CZE",
+        "value": 22
+    },
+    {
+        "date": "2000-01-01",
+        "name": "DEN",
+        "value": 444
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ESP",
+        "value": 281
+    },
+    {
+        "date": "2000-01-01",
+        "name": "EST",
+        "value": 31
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ETH",
+        "value": 24
+    },
+    {
+        "date": "2000-01-01",
+        "name": "FIN",
+        "value": 648
+    },
+    {
+        "date": "2000-01-01",
+        "name": "FRA",
+        "value": 1249
+    },
+    {
+        "date": "2000-01-01",
+        "name": "GBR",
+        "value": 1512
+    },
+    {
+        "date": "2000-01-01",
+        "name": "GEO",
+        "value": 8
+    },
+    {
+        "date": "2000-01-01",
+        "name": "GER",
+        "value": 1032
+    },
+    {
+        "date": "2000-01-01",
+        "name": "GRE",
+        "value": 107
+    },
+    {
+        "date": "2000-01-01",
+        "name": "HUN",
+        "value": 998
+    },
+    {
+        "date": "2000-01-01",
+        "name": "INA",
+        "value": 23
+    },
+    {
+        "date": "2000-01-01",
+        "name": "IND",
+        "value": 174
+    },
+    {
+        "date": "2000-01-01",
+        "name": "IRI",
+        "value": 40
+    },
+    {
+        "date": "2000-01-01",
+        "name": "IRL",
+        "value": 21
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ISL",
+        "value": 3
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ISR",
+        "value": 4
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ITA",
+        "value": 1161
+    },
+    {
+        "date": "2000-01-01",
+        "name": "JAM",
+        "value": 72
+    },
+    {
+        "date": "2000-01-01",
+        "name": "JPN",
+        "value": 578
+    },
+    {
+        "date": "2000-01-01",
+        "name": "KAZ",
+        "value": 18
+    },
+    {
+        "date": "2000-01-01",
+        "name": "KEN",
+        "value": 60
+    },
+    {
+        "date": "2000-01-01",
+        "name": "KGZ",
+        "value": 1
+    },
+    {
+        "date": "2000-01-01",
+        "name": "KOR",
+        "value": 343
+    },
+    {
+        "date": "2000-01-01",
+        "name": "KSA",
+        "value": 2
+    },
+    {
+        "date": "2000-01-01",
+        "name": "KUW",
+        "value": 1
+    },
+    {
+        "date": "2000-01-01",
+        "name": "LAT",
+        "value": 10
+    },
+    {
+        "date": "2000-01-01",
+        "name": "LTU",
+        "value": 42
+    },
+    {
+        "date": "2000-01-01",
+        "name": "MAR",
+        "value": 16
+    },
+    {
+        "date": "2000-01-01",
+        "name": "MDA",
+        "value": 5
+    },
+    {
+        "date": "2000-01-01",
+        "name": "MEX",
+        "value": 72
+    },
+    {
+        "date": "2000-01-01",
+        "name": "MKD",
+        "value": 1
+    },
+    {
+        "date": "2000-01-01",
+        "name": "MOZ",
+        "value": 2
+    },
+    {
+        "date": "2000-01-01",
+        "name": "NED",
+        "value": 690
+    },
+    {
+        "date": "2000-01-01",
+        "name": "NGR",
+        "value": 52
+    },
+    {
+        "date": "2000-01-01",
+        "name": "NOR",
+        "value": 747
+    },
+    {
+        "date": "2000-01-01",
+        "name": "NZL",
+        "value": 145
+    },
+    {
+        "date": "2000-01-01",
+        "name": "POL",
+        "value": 471
+    },
+    {
+        "date": "2000-01-01",
+        "name": "POR",
+        "value": 26
+    },
+    {
+        "date": "2000-01-01",
+        "name": "PRK",
+        "value": 43
+    },
+    {
+        "date": "2000-01-01",
+        "name": "QAT",
+        "value": 2
+    },
+    {
+        "date": "2000-01-01",
+        "name": "ROU",
+        "value": 565
+    },
+    {
+        "date": "2000-01-01",
+        "name": "RSA",
+        "value": 86
+    },
+    {
+        "date": "2000-01-01",
+        "name": "RUS",
+        "value": 303
+    },
+    {
+        "date": "2000-01-01",
+        "name": "SLO",
+        "value": 11
+    },
+    {
+        "date": "2000-01-01",
+        "name": "SRI",
+        "value": 2
+    },
+    {
+        "date": "2000-01-01",
+        "name": "SUI",
+        "value": 522
+    },
+    {
+        "date": "2000-01-01",
+        "name": "SVK",
+        "value": 9
+    },
+    {
+        "date": "2000-01-01",
+        "name": "SWE",
+        "value": 1239
+    },
+    {
+        "date": "2000-01-01",
+        "name": "THA",
+        "value": 9
+    },
+    {
+        "date": "2000-01-01",
+        "name": "TPE",
+        "value": 29
+    },
+    {
+        "date": "2000-01-01",
+        "name": "TRI",
+        "value": 14
+    },
+    {
+        "date": "2000-01-01",
+        "name": "TUR",
+        "value": 64
+    },
+    {
+        "date": "2000-01-01",
+        "name": "UKR",
+        "value": 69
+    },
+    {
+        "date": "2000-01-01",
+        "name": "URU",
+        "value": 76
+    },
+    {
+        "date": "2000-01-01",
+        "name": "USA",
+        "value": 4054
+    },
+    {
+        "date": "2000-01-01",
+        "name": "UZB",
+        "value": 6
+    },
+    {
+        "date": "2000-01-01",
+        "name": "VIE",
+        "value": 1
+    },
+    {
+        "date": "2000-01-01",
+        "name": "YUG",
+        "value": 442
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ARG",
+        "value": 188
+    },
+    {
+        "date": "2004-01-01",
+        "name": "AUS",
+        "value": 926
+    },
+    {
+        "date": "2004-01-01",
+        "name": "AUT",
+        "value": 288
+    },
+    {
+        "date": "2004-01-01",
+        "name": "AZE",
+        "value": 9
+    },
+    {
+        "date": "2004-01-01",
+        "name": "BAH",
+        "value": 18
+    },
+    {
+        "date": "2004-01-01",
+        "name": "BEL",
+        "value": 415
+    },
+    {
+        "date": "2004-01-01",
+        "name": "BLR",
+        "value": 62
+    },
+    {
+        "date": "2004-01-01",
+        "name": "BRA",
+        "value": 297
+    },
+    {
+        "date": "2004-01-01",
+        "name": "BUL",
+        "value": 327
+    },
+    {
+        "date": "2004-01-01",
+        "name": "CAN",
+        "value": 770
+    },
+    {
+        "date": "2004-01-01",
+        "name": "CHI",
+        "value": 32
+    },
+    {
+        "date": "2004-01-01",
+        "name": "CHN",
+        "value": 498
+    },
+    {
+        "date": "2004-01-01",
+        "name": "CMR",
+        "value": 21
+    },
+    {
+        "date": "2004-01-01",
+        "name": "COL",
+        "value": 9
+    },
+    {
+        "date": "2004-01-01",
+        "name": "CRO",
+        "value": 74
+    },
+    {
+        "date": "2004-01-01",
+        "name": "CUB",
+        "value": 348
+    },
+    {
+        "date": "2004-01-01",
+        "name": "CZE",
+        "value": 34
+    },
+    {
+        "date": "2004-01-01",
+        "name": "DEN",
+        "value": 473
+    },
+    {
+        "date": "2004-01-01",
+        "name": "DOM",
+        "value": 2
+    },
+    {
+        "date": "2004-01-01",
+        "name": "EGY",
+        "value": 23
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ERI",
+        "value": 1
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ESP",
+        "value": 308
+    },
+    {
+        "date": "2004-01-01",
+        "name": "EST",
+        "value": 34
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ETH",
+        "value": 31
+    },
+    {
+        "date": "2004-01-01",
+        "name": "FIN",
+        "value": 650
+    },
+    {
+        "date": "2004-01-01",
+        "name": "FRA",
+        "value": 1302
+    },
+    {
+        "date": "2004-01-01",
+        "name": "GBR",
+        "value": 1569
+    },
+    {
+        "date": "2004-01-01",
+        "name": "GEO",
+        "value": 12
+    },
+    {
+        "date": "2004-01-01",
+        "name": "GER",
+        "value": 1181
+    },
+    {
+        "date": "2004-01-01",
+        "name": "GRE",
+        "value": 138
+    },
+    {
+        "date": "2004-01-01",
+        "name": "HKG",
+        "value": 3
+    },
+    {
+        "date": "2004-01-01",
+        "name": "HUN",
+        "value": 1038
+    },
+    {
+        "date": "2004-01-01",
+        "name": "INA",
+        "value": 28
+    },
+    {
+        "date": "2004-01-01",
+        "name": "IND",
+        "value": 175
+    },
+    {
+        "date": "2004-01-01",
+        "name": "IRI",
+        "value": 46
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ISR",
+        "value": 6
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ITA",
+        "value": 1263
+    },
+    {
+        "date": "2004-01-01",
+        "name": "JAM",
+        "value": 85
+    },
+    {
+        "date": "2004-01-01",
+        "name": "JPN",
+        "value": 672
+    },
+    {
+        "date": "2004-01-01",
+        "name": "KAZ",
+        "value": 26
+    },
+    {
+        "date": "2004-01-01",
+        "name": "KEN",
+        "value": 67
+    },
+    {
+        "date": "2004-01-01",
+        "name": "KOR",
+        "value": 395
+    },
+    {
+        "date": "2004-01-01",
+        "name": "LAT",
+        "value": 14
+    },
+    {
+        "date": "2004-01-01",
+        "name": "LTU",
+        "value": 45
+    },
+    {
+        "date": "2004-01-01",
+        "name": "MAR",
+        "value": 19
+    },
+    {
+        "date": "2004-01-01",
+        "name": "MEX",
+        "value": 76
+    },
+    {
+        "date": "2004-01-01",
+        "name": "MGL",
+        "value": 15
+    },
+    {
+        "date": "2004-01-01",
+        "name": "NED",
+        "value": 766
+    },
+    {
+        "date": "2004-01-01",
+        "name": "NGR",
+        "value": 60
+    },
+    {
+        "date": "2004-01-01",
+        "name": "NOR",
+        "value": 754
+    },
+    {
+        "date": "2004-01-01",
+        "name": "NZL",
+        "value": 151
+    },
+    {
+        "date": "2004-01-01",
+        "name": "PAR",
+        "value": 17
+    },
+    {
+        "date": "2004-01-01",
+        "name": "POL",
+        "value": 483
+    },
+    {
+        "date": "2004-01-01",
+        "name": "POR",
+        "value": 29
+    },
+    {
+        "date": "2004-01-01",
+        "name": "PRK",
+        "value": 48
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ROU",
+        "value": 604
+    },
+    {
+        "date": "2004-01-01",
+        "name": "RSA",
+        "value": 96
+    },
+    {
+        "date": "2004-01-01",
+        "name": "RUS",
+        "value": 495
+    },
+    {
+        "date": "2004-01-01",
+        "name": "SCG",
+        "value": 14
+    },
+    {
+        "date": "2004-01-01",
+        "name": "SLO",
+        "value": 16
+    },
+    {
+        "date": "2004-01-01",
+        "name": "SUI",
+        "value": 529
+    },
+    {
+        "date": "2004-01-01",
+        "name": "SVK",
+        "value": 19
+    },
+    {
+        "date": "2004-01-01",
+        "name": "SWE",
+        "value": 1251
+    },
+    {
+        "date": "2004-01-01",
+        "name": "SYR",
+        "value": 3
+    },
+    {
+        "date": "2004-01-01",
+        "name": "THA",
+        "value": 17
+    },
+    {
+        "date": "2004-01-01",
+        "name": "TPE",
+        "value": 38
+    },
+    {
+        "date": "2004-01-01",
+        "name": "TRI",
+        "value": 15
+    },
+    {
+        "date": "2004-01-01",
+        "name": "TUR",
+        "value": 74
+    },
+    {
+        "date": "2004-01-01",
+        "name": "UAE",
+        "value": 1
+    },
+    {
+        "date": "2004-01-01",
+        "name": "UKR",
+        "value": 117
+    },
+    {
+        "date": "2004-01-01",
+        "name": "USA",
+        "value": 4318
+    },
+    {
+        "date": "2004-01-01",
+        "name": "UZB",
+        "value": 11
+    },
+    {
+        "date": "2004-01-01",
+        "name": "VEN",
+        "value": 10
+    },
+    {
+        "date": "2004-01-01",
+        "name": "ZIM",
+        "value": 19
+    },
+    {
+        "date": "2008-01-01",
+        "name": "AFG",
+        "value": 1
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ALG",
+        "value": 14
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ARG",
+        "value": 239
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ARM",
+        "value": 9
+    },
+    {
+        "date": "2008-01-01",
+        "name": "AUS",
+        "value": 1075
+    },
+    {
+        "date": "2008-01-01",
+        "name": "AUT",
+        "value": 291
+    },
+    {
+        "date": "2008-01-01",
+        "name": "AZE",
+        "value": 16
+    },
+    {
+        "date": "2008-01-01",
+        "name": "BAH",
+        "value": 23
+    },
+    {
+        "date": "2008-01-01",
+        "name": "BEL",
+        "value": 420
+    },
+    {
+        "date": "2008-01-01",
+        "name": "BLR",
+        "value": 92
+    },
+    {
+        "date": "2008-01-01",
+        "name": "BRA",
+        "value": 372
+    },
+    {
+        "date": "2008-01-01",
+        "name": "BUL",
+        "value": 332
+    },
+    {
+        "date": "2008-01-01",
+        "name": "CAN",
+        "value": 804
+    },
+    {
+        "date": "2008-01-01",
+        "name": "CHI",
+        "value": 33
+    },
+    {
+        "date": "2008-01-01",
+        "name": "CHN",
+        "value": 682
+    },
+    {
+        "date": "2008-01-01",
+        "name": "CMR",
+        "value": 22
+    },
+    {
+        "date": "2008-01-01",
+        "name": "COL",
+        "value": 11
+    },
+    {
+        "date": "2008-01-01",
+        "name": "CRO",
+        "value": 79
+    },
+    {
+        "date": "2008-01-01",
+        "name": "CUB",
+        "value": 395
+    },
+    {
+        "date": "2008-01-01",
+        "name": "CZE",
+        "value": 41
+    },
+    {
+        "date": "2008-01-01",
+        "name": "DEN",
+        "value": 491
+    },
+    {
+        "date": "2008-01-01",
+        "name": "DOM",
+        "value": 4
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ECU",
+        "value": 2
+    },
+    {
+        "date": "2008-01-01",
+        "name": "EGY",
+        "value": 24
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ESP",
+        "value": 379
+    },
+    {
+        "date": "2008-01-01",
+        "name": "EST",
+        "value": 37
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ETH",
+        "value": 38
+    },
+    {
+        "date": "2008-01-01",
+        "name": "FIN",
+        "value": 655
+    },
+    {
+        "date": "2008-01-01",
+        "name": "FRA",
+        "value": 1378
+    },
+    {
+        "date": "2008-01-01",
+        "name": "GBR",
+        "value": 1646
+    },
+    {
+        "date": "2008-01-01",
+        "name": "GEO",
+        "value": 18
+    },
+    {
+        "date": "2008-01-01",
+        "name": "GER",
+        "value": 1282
+    },
+    {
+        "date": "2008-01-01",
+        "name": "GRE",
+        "value": 145
+    },
+    {
+        "date": "2008-01-01",
+        "name": "HUN",
+        "value": 1065
+    },
+    {
+        "date": "2008-01-01",
+        "name": "INA",
+        "value": 35
+    },
+    {
+        "date": "2008-01-01",
+        "name": "IND",
+        "value": 178
+    },
+    {
+        "date": "2008-01-01",
+        "name": "IRI",
+        "value": 48
+    },
+    {
+        "date": "2008-01-01",
+        "name": "IRL",
+        "value": 24
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ISL",
+        "value": 17
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ISR",
+        "value": 7
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ITA",
+        "value": 1305
+    },
+    {
+        "date": "2008-01-01",
+        "name": "JAM",
+        "value": 102
+    },
+    {
+        "date": "2008-01-01",
+        "name": "JPN",
+        "value": 723
+    },
+    {
+        "date": "2008-01-01",
+        "name": "KAZ",
+        "value": 39
+    },
+    {
+        "date": "2008-01-01",
+        "name": "KEN",
+        "value": 81
+    },
+    {
+        "date": "2008-01-01",
+        "name": "KGZ",
+        "value": 3
+    },
+    {
+        "date": "2008-01-01",
+        "name": "KOR",
+        "value": 473
+    },
+    {
+        "date": "2008-01-01",
+        "name": "LAT",
+        "value": 17
+    },
+    {
+        "date": "2008-01-01",
+        "name": "LTU",
+        "value": 50
+    },
+    {
+        "date": "2008-01-01",
+        "name": "MAR",
+        "value": 21
+    },
+    {
+        "date": "2008-01-01",
+        "name": "MAS",
+        "value": 6
+    },
+    {
+        "date": "2008-01-01",
+        "name": "MDA",
+        "value": 6
+    },
+    {
+        "date": "2008-01-01",
+        "name": "MEX",
+        "value": 80
+    },
+    {
+        "date": "2008-01-01",
+        "name": "MGL",
+        "value": 19
+    },
+    {
+        "date": "2008-01-01",
+        "name": "MRI",
+        "value": 1
+    },
+    {
+        "date": "2008-01-01",
+        "name": "NED",
+        "value": 828
+    },
+    {
+        "date": "2008-01-01",
+        "name": "NGR",
+        "value": 84
+    },
+    {
+        "date": "2008-01-01",
+        "name": "NOR",
+        "value": 776
+    },
+    {
+        "date": "2008-01-01",
+        "name": "NZL",
+        "value": 165
+    },
+    {
+        "date": "2008-01-01",
+        "name": "PAN",
+        "value": 3
+    },
+    {
+        "date": "2008-01-01",
+        "name": "POL",
+        "value": 503
+    },
+    {
+        "date": "2008-01-01",
+        "name": "POR",
+        "value": 31
+    },
+    {
+        "date": "2008-01-01",
+        "name": "PRK",
+        "value": 54
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ROU",
+        "value": 626
+    },
+    {
+        "date": "2008-01-01",
+        "name": "RSA",
+        "value": 97
+    },
+    {
+        "date": "2008-01-01",
+        "name": "RUS",
+        "value": 638
+    },
+    {
+        "date": "2008-01-01",
+        "name": "SIN",
+        "value": 4
+    },
+    {
+        "date": "2008-01-01",
+        "name": "SLO",
+        "value": 21
+    },
+    {
+        "date": "2008-01-01",
+        "name": "SRB",
+        "value": 15
+    },
+    {
+        "date": "2008-01-01",
+        "name": "SUD",
+        "value": 1
+    },
+    {
+        "date": "2008-01-01",
+        "name": "SUI",
+        "value": 540
+    },
+    {
+        "date": "2008-01-01",
+        "name": "SVK",
+        "value": 29
+    },
+    {
+        "date": "2008-01-01",
+        "name": "SWE",
+        "value": 1258
+    },
+    {
+        "date": "2008-01-01",
+        "name": "THA",
+        "value": 21
+    },
+    {
+        "date": "2008-01-01",
+        "name": "TJK",
+        "value": 2
+    },
+    {
+        "date": "2008-01-01",
+        "name": "TOG",
+        "value": 1
+    },
+    {
+        "date": "2008-01-01",
+        "name": "TPE",
+        "value": 42
+    },
+    {
+        "date": "2008-01-01",
+        "name": "TRI",
+        "value": 20
+    },
+    {
+        "date": "2008-01-01",
+        "name": "TUN",
+        "value": 7
+    },
+    {
+        "date": "2008-01-01",
+        "name": "TUR",
+        "value": 82
+    },
+    {
+        "date": "2008-01-01",
+        "name": "UKR",
+        "value": 148
+    },
+    {
+        "date": "2008-01-01",
+        "name": "USA",
+        "value": 4633
+    },
+    {
+        "date": "2008-01-01",
+        "name": "UZB",
+        "value": 17
+    },
+    {
+        "date": "2008-01-01",
+        "name": "VEN",
+        "value": 11
+    },
+    {
+        "date": "2008-01-01",
+        "name": "VIE",
+        "value": 2
+    },
+    {
+        "date": "2008-01-01",
+        "name": "ZIM",
+        "value": 23
+    },
+    {
+        "date": "2012-01-01",
+        "name": "AFG",
+        "value": 2
+    },
+    {
+        "date": "2012-01-01",
+        "name": "ALG",
+        "value": 15
+    },
+    {
+        "date": "2012-01-01",
+        "name": "ARG",
+        "value": 259
+    },
+    {
+        "date": "2012-01-01",
+        "name": "ARM",
+        "value": 11
+    },
+    {
+        "date": "2012-01-01",
+        "name": "AUS",
+        "value": 1189
+    },
+    {
+        "date": "2012-01-01",
+        "name": "AZE",
+        "value": 26
+    },
+    {
+        "date": "2012-01-01",
+        "name": "BAH",
+        "value": 27
+    },
+    {
+        "date": "2012-01-01",
+        "name": "BEL",
+        "value": 423
+    },
+    {
+        "date": "2012-01-01",
+        "name": "BLR",
+        "value": 113
+    },
+    {
+        "date": "2012-01-01",
+        "name": "BOT",
+        "value": 1
+    },
+    {
+        "date": "2012-01-01",
+        "name": "BRA",
+        "value": 431
+    },
+    {
+        "date": "2012-01-01",
+        "name": "BRN",
+        "value": 1
+    },
+    {
+        "date": "2012-01-01",
+        "name": "BUL",
+        "value": 334
+    },
+    {
+        "date": "2012-01-01",
+        "name": "CAN",
+        "value": 861
+    },
+    {
+        "date": "2012-01-01",
+        "name": "CHN",
+        "value": 810
+    },
+    {
+        "date": "2012-01-01",
+        "name": "CMR",
+        "value": 23
+    },
+    {
+        "date": "2012-01-01",
+        "name": "COL",
+        "value": 19
+    },
+    {
+        "date": "2012-01-01",
+        "name": "CRO",
+        "value": 114
+    },
+    {
+        "date": "2012-01-01",
+        "name": "CUB",
+        "value": 410
+    },
+    {
+        "date": "2012-01-01",
+        "name": "CYP",
+        "value": 1
+    },
+    {
+        "date": "2012-01-01",
+        "name": "CZE",
+        "value": 56
+    },
+    {
+        "date": "2012-01-01",
+        "name": "DEN",
+        "value": 507
+    },
+    {
+        "date": "2012-01-01",
+        "name": "DOM",
+        "value": 6
+    },
+    {
+        "date": "2012-01-01",
+        "name": "EGY",
+        "value": 28
+    },
+    {
+        "date": "2012-01-01",
+        "name": "ESP",
+        "value": 444
+    },
+    {
+        "date": "2012-01-01",
+        "name": "EST",
+        "value": 39
+    },
+    {
+        "date": "2012-01-01",
+        "name": "ETH",
+        "value": 45
+    },
+    {
+        "date": "2012-01-01",
+        "name": "FIN",
+        "value": 660
+    },
+    {
+        "date": "2012-01-01",
+        "name": "FRA",
+        "value": 1460
+    },
+    {
+        "date": "2012-01-01",
+        "name": "GAB",
+        "value": 1
+    },
+    {
+        "date": "2012-01-01",
+        "name": "GBR",
+        "value": 1772
+    },
+    {
+        "date": "2012-01-01",
+        "name": "GEO",
+        "value": 25
+    },
+    {
+        "date": "2012-01-01",
+        "name": "GER",
+        "value": 1376
+    },
+    {
+        "date": "2012-01-01",
+        "name": "GRE",
+        "value": 148
+    },
+    {
+        "date": "2012-01-01",
+        "name": "GRN",
+        "value": 1
+    },
+    {
+        "date": "2012-01-01",
+        "name": "GUA",
+        "value": 1
+    },
+    {
+        "date": "2012-01-01",
+        "name": "HKG",
+        "value": 4
+    },
+    {
+        "date": "2012-01-01",
+        "name": "HUN",
+        "value": 1091
+    },
+    {
+        "date": "2012-01-01",
+        "name": "INA",
+        "value": 38
+    },
+    {
+        "date": "2012-01-01",
+        "name": "IND",
+        "value": 184
+    },
+    {
+        "date": "2012-01-01",
+        "name": "IRI",
+        "value": 61
+    },
+    {
+        "date": "2012-01-01",
+        "name": "IRL",
+        "value": 30
+    },
+    {
+        "date": "2012-01-01",
+        "name": "ITA",
+        "value": 1373
+    },
+    {
+        "date": "2012-01-01",
+        "name": "JAM",
+        "value": 127
+    },
+    {
+        "date": "2012-01-01",
+        "name": "JPN",
+        "value": 807
+    },
+    {
+        "date": "2012-01-01",
+        "name": "KAZ",
+        "value": 49
+    },
+    {
+        "date": "2012-01-01",
+        "name": "KEN",
+        "value": 93
+    },
+    {
+        "date": "2012-01-01",
+        "name": "KOR",
+        "value": 536
+    },
+    {
+        "date": "2012-01-01",
+        "name": "KSA",
+        "value": 6
+    },
+    {
+        "date": "2012-01-01",
+        "name": "KUW",
+        "value": 2
+    },
+    {
+        "date": "2012-01-01",
+        "name": "LAT",
+        "value": 20
+    },
+    {
+        "date": "2012-01-01",
+        "name": "LTU",
+        "value": 55
+    },
+    {
+        "date": "2012-01-01",
+        "name": "MAR",
+        "value": 22
+    },
+    {
+        "date": "2012-01-01",
+        "name": "MAS",
+        "value": 8
+    },
+    {
+        "date": "2012-01-01",
+        "name": "MEX",
+        "value": 106
+    },
+    {
+        "date": "2012-01-01",
+        "name": "MGL",
+        "value": 24
+    },
+    {
+        "date": "2012-01-01",
+        "name": "MNE",
+        "value": 14
+    },
+    {
+        "date": "2012-01-01",
+        "name": "NED",
+        "value": 897
+    },
+    {
+        "date": "2012-01-01",
+        "name": "NOR",
+        "value": 793
+    },
+    {
+        "date": "2012-01-01",
+        "name": "NZL",
+        "value": 191
+    },
+    {
+        "date": "2012-01-01",
+        "name": "POL",
+        "value": 515
+    },
+    {
+        "date": "2012-01-01",
+        "name": "POR",
+        "value": 33
+    },
+    {
+        "date": "2012-01-01",
+        "name": "PRK",
+        "value": 60
+    },
+    {
+        "date": "2012-01-01",
+        "name": "PUR",
+        "value": 8
+    },
+    {
+        "date": "2012-01-01",
+        "name": "QAT",
+        "value": 4
+    },
+    {
+        "date": "2012-01-01",
+        "name": "ROU",
+        "value": 642
+    },
+    {
+        "date": "2012-01-01",
+        "name": "RSA",
+        "value": 106
+    },
+    {
+        "date": "2012-01-01",
+        "name": "RUS",
+        "value": 768
+    },
+    {
+        "date": "2012-01-01",
+        "name": "SGP",
+        "value": 4
+    },
+    {
+        "date": "2012-01-01",
+        "name": "SLO",
+        "value": 26
+    },
+    {
+        "date": "2012-01-01",
+        "name": "SRB",
+        "value": 31
+    },
+    {
+        "date": "2012-01-01",
+        "name": "SUI",
+        "value": 544
+    },
+    {
+        "date": "2012-01-01",
+        "name": "SVK",
+        "value": 34
+    },
+    {
+        "date": "2012-01-01",
+        "name": "SWE",
+        "value": 1281
+    },
+    {
+        "date": "2012-01-01",
+        "name": "THA",
+        "value": 25
+    },
+    {
+        "date": "2012-01-01",
+        "name": "TJK",
+        "value": 3
+    },
+    {
+        "date": "2012-01-01",
+        "name": "TPE",
+        "value": 44
+    },
+    {
+        "date": "2012-01-01",
+        "name": "TTO",
+        "value": 10
+    },
+    {
+        "date": "2012-01-01",
+        "name": "TUN",
+        "value": 10
+    },
+    {
+        "date": "2012-01-01",
+        "name": "TUR",
+        "value": 86
+    },
+    {
+        "date": "2012-01-01",
+        "name": "UGA",
+        "value": 7
+    },
+    {
+        "date": "2012-01-01",
+        "name": "UKR",
+        "value": 173
+    },
+    {
+        "date": "2012-01-01",
+        "name": "USA",
+        "value": 4883
+    },
+    {
+        "date": "2012-01-01",
+        "name": "UZB",
+        "value": 20
+    },
+    {
+        "date": "2012-01-01",
+        "name": "VEN",
+        "value": 12
+    },
+    {
+        "date": "1924-01-01",
+        "name": "AUT",
+        "value": 35
+    },
+    {
+        "date": "1924-01-01",
+        "name": "BEL",
+        "value": 320
+    },
+    {
+        "date": "1924-01-01",
+        "name": "CAN",
+        "value": 141
+    },
+    {
+        "date": "1924-01-01",
+        "name": "FIN",
+        "value": 212
+    },
+    {
+        "date": "1924-01-01",
+        "name": "FRA",
+        "value": 531
+    },
+    {
+        "date": "1924-01-01",
+        "name": "GBR",
+        "value": 792
+    },
+    {
+        "date": "1924-01-01",
+        "name": "NOR",
+        "value": 313
+    },
+    {
+        "date": "1924-01-01",
+        "name": "SUI",
+        "value": 123
+    },
+    {
+        "date": "1924-01-01",
+        "name": "SWE",
+        "value": 507
+    },
+    {
+        "date": "1924-01-01",
+        "name": "USA",
+        "value": 1037
+    },
+    {
+        "date": "1928-01-01",
+        "name": "AUT",
+        "value": 45
+    },
+    {
+        "date": "1928-01-01",
+        "name": "BEL",
+        "value": 326
+    },
+    {
+        "date": "1928-01-01",
+        "name": "CAN",
+        "value": 186
+    },
+    {
+        "date": "1928-01-01",
+        "name": "FIN",
+        "value": 241
+    },
+    {
+        "date": "1928-01-01",
+        "name": "FRA",
+        "value": 569
+    },
+    {
+        "date": "1928-01-01",
+        "name": "GBR",
+        "value": 848
+    },
+    {
+        "date": "1928-01-01",
+        "name": "GER",
+        "value": 237
+    },
+    {
+        "date": "1928-01-01",
+        "name": "NOR",
+        "value": 337
+    },
+    {
+        "date": "1928-01-01",
+        "name": "SUI",
+        "value": 164
+    },
+    {
+        "date": "1928-01-01",
+        "name": "SWE",
+        "value": 559
+    },
+    {
+        "date": "1928-01-01",
+        "name": "TCH",
+        "value": 37
+    },
+    {
+        "date": "1928-01-01",
+        "name": "USA",
+        "value": 1135
+    },
+    {
+        "date": "1932-01-01",
+        "name": "AUT",
+        "value": 52
+    },
+    {
+        "date": "1932-01-01",
+        "name": "CAN",
+        "value": 244
+    },
+    {
+        "date": "1932-01-01",
+        "name": "FIN",
+        "value": 273
+    },
+    {
+        "date": "1932-01-01",
+        "name": "FRA",
+        "value": 608
+    },
+    {
+        "date": "1932-01-01",
+        "name": "GER",
+        "value": 296
+    },
+    {
+        "date": "1932-01-01",
+        "name": "HUN",
+        "value": 137
+    },
+    {
+        "date": "1932-01-01",
+        "name": "NOR",
+        "value": 347
+    },
+    {
+        "date": "1932-01-01",
+        "name": "SUI",
+        "value": 173
+    },
+    {
+        "date": "1932-01-01",
+        "name": "SWE",
+        "value": 593
+    },
+    {
+        "date": "1932-01-01",
+        "name": "USA",
+        "value": 1361
+    },
+    {
+        "date": "1936-01-01",
+        "name": "AUT",
+        "value": 107
+    },
+    {
+        "date": "1936-01-01",
+        "name": "CAN",
+        "value": 279
+    },
+    {
+        "date": "1936-01-01",
+        "name": "FIN",
+        "value": 308
+    },
+    {
+        "date": "1936-01-01",
+        "name": "FRA",
+        "value": 652
+    },
+    {
+        "date": "1936-01-01",
+        "name": "GBR",
+        "value": 935
+    },
+    {
+        "date": "1936-01-01",
+        "name": "GER",
+        "value": 513
+    },
+    {
+        "date": "1936-01-01",
+        "name": "HUN",
+        "value": 181
+    },
+    {
+        "date": "1936-01-01",
+        "name": "NOR",
+        "value": 393
+    },
+    {
+        "date": "1936-01-01",
+        "name": "SUI",
+        "value": 230
+    },
+    {
+        "date": "1936-01-01",
+        "name": "SWE",
+        "value": 637
+    },
+    {
+        "date": "1936-01-01",
+        "name": "USA",
+        "value": 1469
+    },
+    {
+        "date": "1948-01-01",
+        "name": "AUT",
+        "value": 119
+    },
+    {
+        "date": "1948-01-01",
+        "name": "BEL",
+        "value": 358
+    },
+    {
+        "date": "1948-01-01",
+        "name": "CAN",
+        "value": 305
+    },
+    {
+        "date": "1948-01-01",
+        "name": "FIN",
+        "value": 346
+    },
+    {
+        "date": "1948-01-01",
+        "name": "FRA",
+        "value": 725
+    },
+    {
+        "date": "1948-01-01",
+        "name": "GBR",
+        "value": 993
+    },
+    {
+        "date": "1948-01-01",
+        "name": "HUN",
+        "value": 243
+    },
+    {
+        "date": "1948-01-01",
+        "name": "ITA",
+        "value": 449
+    },
+    {
+        "date": "1948-01-01",
+        "name": "NOR",
+        "value": 424
+    },
+    {
+        "date": "1948-01-01",
+        "name": "SUI",
+        "value": 290
+    },
+    {
+        "date": "1948-01-01",
+        "name": "SWE",
+        "value": 723
+    },
+    {
+        "date": "1948-01-01",
+        "name": "TCH",
+        "value": 95
+    },
+    {
+        "date": "1948-01-01",
+        "name": "USA",
+        "value": 1633
+    },
+    {
+        "date": "1952-01-01",
+        "name": "AUT",
+        "value": 130
+    },
+    {
+        "date": "1952-01-01",
+        "name": "CAN",
+        "value": 326
+    },
+    {
+        "date": "1952-01-01",
+        "name": "FIN",
+        "value": 398
+    },
+    {
+        "date": "1952-01-01",
+        "name": "FRA",
+        "value": 765
+    },
+    {
+        "date": "1952-01-01",
+        "name": "FRG",
+        "value": 12
+    },
+    {
+        "date": "1952-01-01",
+        "name": "GBR",
+        "value": 1025
+    },
+    {
+        "date": "1952-01-01",
+        "name": "HUN",
+        "value": 346
+    },
+    {
+        "date": "1952-01-01",
+        "name": "ITA",
+        "value": 504
+    },
+    {
+        "date": "1952-01-01",
+        "name": "NED",
+        "value": 304
+    },
+    {
+        "date": "1952-01-01",
+        "name": "NOR",
+        "value": 456
+    },
+    {
+        "date": "1952-01-01",
+        "name": "SUI",
+        "value": 329
+    },
+    {
+        "date": "1952-01-01",
+        "name": "SWE",
+        "value": 816
+    },
+    {
+        "date": "1952-01-01",
+        "name": "USA",
+        "value": 1793
+    },
+    {
+        "date": "1956-01-01",
+        "name": "AUT",
+        "value": 146
+    },
+    {
+        "date": "1956-01-01",
+        "name": "CAN",
+        "value": 365
+    },
+    {
+        "date": "1956-01-01",
+        "name": "EUA",
+        "value": 59
+    },
+    {
+        "date": "1956-01-01",
+        "name": "FIN",
+        "value": 436
+    },
+    {
+        "date": "1956-01-01",
+        "name": "HUN",
+        "value": 412
+    },
+    {
+        "date": "1956-01-01",
+        "name": "ITA",
+        "value": 558
+    },
+    {
+        "date": "1956-01-01",
+        "name": "JPN",
+        "value": 101
+    },
+    {
+        "date": "1956-01-01",
+        "name": "NOR",
+        "value": 463
+    },
+    {
+        "date": "1956-01-01",
+        "name": "POL",
+        "value": 76
+    },
+    {
+        "date": "1956-01-01",
+        "name": "SUI",
+        "value": 342
+    },
+    {
+        "date": "1956-01-01",
+        "name": "SWE",
+        "value": 865
+    },
+    {
+        "date": "1956-01-01",
+        "name": "URS",
+        "value": 323
+    },
+    {
+        "date": "1956-01-01",
+        "name": "USA",
+        "value": 1937
+    },
+    {
+        "date": "1960-01-01",
+        "name": "AUT",
+        "value": 155
+    },
+    {
+        "date": "1960-01-01",
+        "name": "CAN",
+        "value": 395
+    },
+    {
+        "date": "1960-01-01",
+        "name": "EUA",
+        "value": 156
+    },
+    {
+        "date": "1960-01-01",
+        "name": "FIN",
+        "value": 455
+    },
+    {
+        "date": "1960-01-01",
+        "name": "FRA",
+        "value": 811
+    },
+    {
+        "date": "1960-01-01",
+        "name": "ITA",
+        "value": 647
+    },
+    {
+        "date": "1960-01-01",
+        "name": "NED",
+        "value": 309
+    },
+    {
+        "date": "1960-01-01",
+        "name": "NOR",
+        "value": 474
+    },
+    {
+        "date": "1960-01-01",
+        "name": "POL",
+        "value": 108
+    },
+    {
+        "date": "1960-01-01",
+        "name": "SUI",
+        "value": 355
+    },
+    {
+        "date": "1960-01-01",
+        "name": "SWE",
+        "value": 881
+    },
+    {
+        "date": "1960-01-01",
+        "name": "TCH",
+        "value": 150
+    },
+    {
+        "date": "1960-01-01",
+        "name": "URS",
+        "value": 534
+    },
+    {
+        "date": "1960-01-01",
+        "name": "USA",
+        "value": 2076
+    },
+    {
+        "date": "1964-01-01",
+        "name": "AUT",
+        "value": 172
+    },
+    {
+        "date": "1964-01-01",
+        "name": "CAN",
+        "value": 407
+    },
+    {
+        "date": "1964-01-01",
+        "name": "EUA",
+        "value": 281
+    },
+    {
+        "date": "1964-01-01",
+        "name": "FIN",
+        "value": 475
+    },
+    {
+        "date": "1964-01-01",
+        "name": "FRA",
+        "value": 849
+    },
+    {
+        "date": "1964-01-01",
+        "name": "GBR",
+        "value": 1128
+    },
+    {
+        "date": "1964-01-01",
+        "name": "ITA",
+        "value": 707
+    },
+    {
+        "date": "1964-01-01",
+        "name": "NED",
+        "value": 341
+    },
+    {
+        "date": "1964-01-01",
+        "name": "NOR",
+        "value": 489
+    },
+    {
+        "date": "1964-01-01",
+        "name": "PRK",
+        "value": 1
+    },
+    {
+        "date": "1964-01-01",
+        "name": "SWE",
+        "value": 924
+    },
+    {
+        "date": "1964-01-01",
+        "name": "TCH",
+        "value": 222
+    },
+    {
+        "date": "1964-01-01",
+        "name": "URS",
+        "value": 754
+    },
+    {
+        "date": "1964-01-01",
+        "name": "USA",
+        "value": 2234
+    },
+    {
+        "date": "1968-01-01",
+        "name": "AUT",
+        "value": 192
+    },
+    {
+        "date": "1968-01-01",
+        "name": "CAN",
+        "value": 437
+    },
+    {
+        "date": "1968-01-01",
+        "name": "FIN",
+        "value": 487
+    },
+    {
+        "date": "1968-01-01",
+        "name": "FRA",
+        "value": 885
+    },
+    {
+        "date": "1968-01-01",
+        "name": "FRG",
+        "value": 71
+    },
+    {
+        "date": "1968-01-01",
+        "name": "GDR",
+        "value": 57
+    },
+    {
+        "date": "1968-01-01",
+        "name": "ITA",
+        "value": 747
+    },
+    {
+        "date": "1968-01-01",
+        "name": "NED",
+        "value": 364
+    },
+    {
+        "date": "1968-01-01",
+        "name": "NOR",
+        "value": 517
+    },
+    {
+        "date": "1968-01-01",
+        "name": "ROU",
+        "value": 104
+    },
+    {
+        "date": "1968-01-01",
+        "name": "SUI",
+        "value": 383
+    },
+    {
+        "date": "1968-01-01",
+        "name": "SWE",
+        "value": 949
+    },
+    {
+        "date": "1968-01-01",
+        "name": "TCH",
+        "value": 272
+    },
+    {
+        "date": "1968-01-01",
+        "name": "URS",
+        "value": 979
+    },
+    {
+        "date": "1968-01-01",
+        "name": "USA",
+        "value": 2390
+    },
+    {
+        "date": "1972-01-01",
+        "name": "AUT",
+        "value": 200
+    },
+    {
+        "date": "1972-01-01",
+        "name": "CAN",
+        "value": 448
+    },
+    {
+        "date": "1972-01-01",
+        "name": "ESP",
+        "value": 50
+    },
+    {
+        "date": "1972-01-01",
+        "name": "FIN",
+        "value": 507
+    },
+    {
+        "date": "1972-01-01",
+        "name": "FRA",
+        "value": 910
+    },
+    {
+        "date": "1972-01-01",
+        "name": "FRG",
+        "value": 177
+    },
+    {
+        "date": "1972-01-01",
+        "name": "GDR",
+        "value": 225
+    },
+    {
+        "date": "1972-01-01",
+        "name": "ITA",
+        "value": 781
+    },
+    {
+        "date": "1972-01-01",
+        "name": "JPN",
+        "value": 320
+    },
+    {
+        "date": "1972-01-01",
+        "name": "NED",
+        "value": 379
+    },
+    {
+        "date": "1972-01-01",
+        "name": "NOR",
+        "value": 542
+    },
+    {
+        "date": "1972-01-01",
+        "name": "POL",
+        "value": 240
+    },
+    {
+        "date": "1972-01-01",
+        "name": "SUI",
+        "value": 408
+    },
+    {
+        "date": "1972-01-01",
+        "name": "SWE",
+        "value": 974
+    },
+    {
+        "date": "1972-01-01",
+        "name": "TCH",
+        "value": 321
+    },
+    {
+        "date": "1972-01-01",
+        "name": "URS",
+        "value": 1235
+    },
+    {
+        "date": "1972-01-01",
+        "name": "USA",
+        "value": 2570
+    },
+    {
+        "date": "1976-01-01",
+        "name": "AUT",
+        "value": 208
+    },
+    {
+        "date": "1976-01-01",
+        "name": "CAN",
+        "value": 471
+    },
+    {
+        "date": "1976-01-01",
+        "name": "FIN",
+        "value": 529
+    },
+    {
+        "date": "1976-01-01",
+        "name": "FRA",
+        "value": 931
+    },
+    {
+        "date": "1976-01-01",
+        "name": "FRG",
+        "value": 284
+    },
+    {
+        "date": "1976-01-01",
+        "name": "GBR",
+        "value": 1208
+    },
+    {
+        "date": "1976-01-01",
+        "name": "GDR",
+        "value": 449
+    },
+    {
+        "date": "1976-01-01",
+        "name": "ITA",
+        "value": 816
+    },
+    {
+        "date": "1976-01-01",
+        "name": "LIE",
+        "value": 2
+    },
+    {
+        "date": "1976-01-01",
+        "name": "NED",
+        "value": 400
+    },
+    {
+        "date": "1976-01-01",
+        "name": "NOR",
+        "value": 558
+    },
+    {
+        "date": "1976-01-01",
+        "name": "SUI",
+        "value": 427
+    },
+    {
+        "date": "1976-01-01",
+        "name": "SWE",
+        "value": 986
+    },
+    {
+        "date": "1976-01-01",
+        "name": "TCH",
+        "value": 354
+    },
+    {
+        "date": "1976-01-01",
+        "name": "URS",
+        "value": 1576
+    },
+    {
+        "date": "1976-01-01",
+        "name": "USA",
+        "value": 2736
+    },
+    {
+        "date": "1980-01-01",
+        "name": "AUT",
+        "value": 221
+    },
+    {
+        "date": "1980-01-01",
+        "name": "BUL",
+        "value": 218
+    },
+    {
+        "date": "1980-01-01",
+        "name": "CAN",
+        "value": 473
+    },
+    {
+        "date": "1980-01-01",
+        "name": "FIN",
+        "value": 550
+    },
+    {
+        "date": "1980-01-01",
+        "name": "FRA",
+        "value": 961
+    },
+    {
+        "date": "1980-01-01",
+        "name": "FRG",
+        "value": 292
+    },
+    {
+        "date": "1980-01-01",
+        "name": "GBR",
+        "value": 1254
+    },
+    {
+        "date": "1980-01-01",
+        "name": "GDR",
+        "value": 748
+    },
+    {
+        "date": "1980-01-01",
+        "name": "HUN",
+        "value": 813
+    },
+    {
+        "date": "1980-01-01",
+        "name": "ITA",
+        "value": 856
+    },
+    {
+        "date": "1980-01-01",
+        "name": "JPN",
+        "value": 362
+    },
+    {
+        "date": "1980-01-01",
+        "name": "LIE",
+        "value": 6
+    },
+    {
+        "date": "1980-01-01",
+        "name": "NED",
+        "value": 410
+    },
+    {
+        "date": "1980-01-01",
+        "name": "NOR",
+        "value": 574
+    },
+    {
+        "date": "1980-01-01",
+        "name": "SUI",
+        "value": 438
+    },
+    {
+        "date": "1980-01-01",
+        "name": "SWE",
+        "value": 1026
+    },
+    {
+        "date": "1980-01-01",
+        "name": "TCH",
+        "value": 407
+    },
+    {
+        "date": "1980-01-01",
+        "name": "URS",
+        "value": 2072
+    },
+    {
+        "date": "1980-01-01",
+        "name": "USA",
+        "value": 2766
+    },
+    {
+        "date": "1984-01-01",
+        "name": "AUT",
+        "value": 225
+    },
+    {
+        "date": "1984-01-01",
+        "name": "CAN",
+        "value": 563
+    },
+    {
+        "date": "1984-01-01",
+        "name": "FIN",
+        "value": 581
+    },
+    {
+        "date": "1984-01-01",
+        "name": "FRA",
+        "value": 1032
+    },
+    {
+        "date": "1984-01-01",
+        "name": "FRG",
+        "value": 457
+    },
+    {
+        "date": "1984-01-01",
+        "name": "GBR",
+        "value": 1328
+    },
+    {
+        "date": "1984-01-01",
+        "name": "GDR",
+        "value": 781
+    },
+    {
+        "date": "1984-01-01",
+        "name": "ITA",
+        "value": 921
+    },
+    {
+        "date": "1984-01-01",
+        "name": "JPN",
+        "value": 412
+    },
+    {
+        "date": "1984-01-01",
+        "name": "LIE",
+        "value": 8
+    },
+    {
+        "date": "1984-01-01",
+        "name": "NOR",
+        "value": 593
+    },
+    {
+        "date": "1984-01-01",
+        "name": "SUI",
+        "value": 461
+    },
+    {
+        "date": "1984-01-01",
+        "name": "SWE",
+        "value": 1088
+    },
+    {
+        "date": "1984-01-01",
+        "name": "TCH",
+        "value": 435
+    },
+    {
+        "date": "1984-01-01",
+        "name": "URS",
+        "value": 2128
+    },
+    {
+        "date": "1984-01-01",
+        "name": "USA",
+        "value": 3108
+    },
+    {
+        "date": "1984-01-01",
+        "name": "YUG",
+        "value": 321
+    },
+    {
+        "date": "1988-01-01",
+        "name": "AUT",
+        "value": 238
+    },
+    {
+        "date": "1988-01-01",
+        "name": "CAN",
+        "value": 590
+    },
+    {
+        "date": "1988-01-01",
+        "name": "FIN",
+        "value": 619
+    },
+    {
+        "date": "1988-01-01",
+        "name": "FRA",
+        "value": 1063
+    },
+    {
+        "date": "1988-01-01",
+        "name": "FRG",
+        "value": 584
+    },
+    {
+        "date": "1988-01-01",
+        "name": "GDR",
+        "value": 987
+    },
+    {
+        "date": "1988-01-01",
+        "name": "ITA",
+        "value": 958
+    },
+    {
+        "date": "1988-01-01",
+        "name": "JPN",
+        "value": 433
+    },
+    {
+        "date": "1988-01-01",
+        "name": "LIE",
+        "value": 9
+    },
+    {
+        "date": "1988-01-01",
+        "name": "NED",
+        "value": 501
+    },
+    {
+        "date": "1988-01-01",
+        "name": "NOR",
+        "value": 627
+    },
+    {
+        "date": "1988-01-01",
+        "name": "SUI",
+        "value": 489
+    },
+    {
+        "date": "1988-01-01",
+        "name": "SWE",
+        "value": 1134
+    },
+    {
+        "date": "1988-01-01",
+        "name": "TCH",
+        "value": 451
+    },
+    {
+        "date": "1988-01-01",
+        "name": "URS",
+        "value": 2489
+    },
+    {
+        "date": "1988-01-01",
+        "name": "USA",
+        "value": 3308
+    },
+    {
+        "date": "1988-01-01",
+        "name": "YUG",
+        "value": 390
+    },
+    {
+        "date": "1992-01-01",
+        "name": "AUT",
+        "value": 273
+    },
+    {
+        "date": "1992-01-01",
+        "name": "CAN",
+        "value": 671
+    },
+    {
+        "date": "1992-01-01",
+        "name": "CHN",
+        "value": 215
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ESP",
+        "value": 171
+    },
+    {
+        "date": "1992-01-01",
+        "name": "EUN",
+        "value": 283
+    },
+    {
+        "date": "1992-01-01",
+        "name": "FIN",
+        "value": 639
+    },
+    {
+        "date": "1992-01-01",
+        "name": "FRA",
+        "value": 1132
+    },
+    {
+        "date": "1992-01-01",
+        "name": "GER",
+        "value": 789
+    },
+    {
+        "date": "1992-01-01",
+        "name": "ITA",
+        "value": 1025
+    },
+    {
+        "date": "1992-01-01",
+        "name": "JPN",
+        "value": 492
+    },
+    {
+        "date": "1992-01-01",
+        "name": "KOR",
+        "value": 204
+    },
+    {
+        "date": "1992-01-01",
+        "name": "LUX",
+        "value": 4
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NED",
+        "value": 538
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NOR",
+        "value": 678
+    },
+    {
+        "date": "1992-01-01",
+        "name": "NZL",
+        "value": 132
+    },
+    {
+        "date": "1992-01-01",
+        "name": "PRK",
+        "value": 34
+    },
+    {
+        "date": "1992-01-01",
+        "name": "SUI",
+        "value": 497
+    },
+    {
+        "date": "1992-01-01",
+        "name": "SWE",
+        "value": 1176
+    },
+    {
+        "date": "1992-01-01",
+        "name": "TCH",
+        "value": 487
+    },
+    {
+        "date": "1992-01-01",
+        "name": "USA",
+        "value": 3546
+    },
+    {
+        "date": "1994-01-01",
+        "name": "AUS",
+        "value": 1193
+    },
+    {
+        "date": "1994-01-01",
+        "name": "AUT",
+        "value": 303
+    },
+    {
+        "date": "1994-01-01",
+        "name": "BLR",
+        "value": 115
+    },
+    {
+        "date": "1994-01-01",
+        "name": "CAN",
+        "value": 901
+    },
+    {
+        "date": "1994-01-01",
+        "name": "CHN",
+        "value": 813
+    },
+    {
+        "date": "1994-01-01",
+        "name": "FIN",
+        "value": 691
+    },
+    {
+        "date": "1994-01-01",
+        "name": "FRA",
+        "value": 1471
+    },
+    {
+        "date": "1994-01-01",
+        "name": "GBR",
+        "value": 1775
+    },
+    {
+        "date": "1994-01-01",
+        "name": "GER",
+        "value": 1416
+    },
+    {
+        "date": "1994-01-01",
+        "name": "ITA",
+        "value": 1406
+    },
+    {
+        "date": "1994-01-01",
+        "name": "JPN",
+        "value": 817
+    },
+    {
+        "date": "1994-01-01",
+        "name": "KAZ",
+        "value": 52
+    },
+    {
+        "date": "1994-01-01",
+        "name": "KOR",
+        "value": 546
+    },
+    {
+        "date": "1994-01-01",
+        "name": "NED",
+        "value": 901
+    },
+    {
+        "date": "1994-01-01",
+        "name": "NOR",
+        "value": 827
+    },
+    {
+        "date": "1994-01-01",
+        "name": "RUS",
+        "value": 804
+    },
+    {
+        "date": "1994-01-01",
+        "name": "SLO",
+        "value": 29
+    },
+    {
+        "date": "1994-01-01",
+        "name": "SUI",
+        "value": 560
+    },
+    {
+        "date": "1994-01-01",
+        "name": "SWE",
+        "value": 1305
+    },
+    {
+        "date": "1994-01-01",
+        "name": "UKR",
+        "value": 175
+    },
+    {
+        "date": "1994-01-01",
+        "name": "USA",
+        "value": 4904
+    },
+    {
+        "date": "1994-01-01",
+        "name": "UZB",
+        "value": 21
+    },
+    {
+        "date": "1998-01-01",
+        "name": "AUS",
+        "value": 1194
+    },
+    {
+        "date": "1998-01-01",
+        "name": "AUT",
+        "value": 323
+    },
+    {
+        "date": "1998-01-01",
+        "name": "BEL",
+        "value": 424
+    },
+    {
+        "date": "1998-01-01",
+        "name": "BLR",
+        "value": 117
+    },
+    {
+        "date": "1998-01-01",
+        "name": "BUL",
+        "value": 335
+    },
+    {
+        "date": "1998-01-01",
+        "name": "CAN",
+        "value": 950
+    },
+    {
+        "date": "1998-01-01",
+        "name": "CHN",
+        "value": 827
+    },
+    {
+        "date": "1998-01-01",
+        "name": "CZE",
+        "value": 80
+    },
+    {
+        "date": "1998-01-01",
+        "name": "DEN",
+        "value": 512
+    },
+    {
+        "date": "1998-01-01",
+        "name": "FIN",
+        "value": 750
+    },
+    {
+        "date": "1998-01-01",
+        "name": "FRA",
+        "value": 1486
+    },
+    {
+        "date": "1998-01-01",
+        "name": "GBR",
+        "value": 1779
+    },
+    {
+        "date": "1998-01-01",
+        "name": "GER",
+        "value": 1460
+    },
+    {
+        "date": "1998-01-01",
+        "name": "ITA",
+        "value": 1423
+    },
+    {
+        "date": "1998-01-01",
+        "name": "JPN",
+        "value": 830
+    },
+    {
+        "date": "1998-01-01",
+        "name": "KAZ",
+        "value": 54
+    },
+    {
+        "date": "1998-01-01",
+        "name": "KOR",
+        "value": 558
+    },
+    {
+        "date": "1998-01-01",
+        "name": "NED",
+        "value": 912
+    },
+    {
+        "date": "1998-01-01",
+        "name": "NOR",
+        "value": 871
+    },
+    {
+        "date": "1998-01-01",
+        "name": "RUS",
+        "value": 857
+    },
+    {
+        "date": "1998-01-01",
+        "name": "SUI",
+        "value": 574
+    },
+    {
+        "date": "1998-01-01",
+        "name": "SWE",
+        "value": 1312
+    },
+    {
+        "date": "1998-01-01",
+        "name": "UKR",
+        "value": 176
+    },
+    {
+        "date": "1998-01-01",
+        "name": "USA",
+        "value": 4938
+    },
+    {
+        "date": "2002-01-01",
+        "name": "AUS",
+        "value": 1196
+    },
+    {
+        "date": "2002-01-01",
+        "name": "AUT",
+        "value": 343
+    },
+    {
+        "date": "2002-01-01",
+        "name": "BLR",
+        "value": 118
+    },
+    {
+        "date": "2002-01-01",
+        "name": "BUL",
+        "value": 338
+    },
+    {
+        "date": "2002-01-01",
+        "name": "CAN",
+        "value": 1025
+    },
+    {
+        "date": "2002-01-01",
+        "name": "CHN",
+        "value": 843
+    },
+    {
+        "date": "2002-01-01",
+        "name": "CRO",
+        "value": 118
+    },
+    {
+        "date": "2002-01-01",
+        "name": "CZE",
+        "value": 83
+    },
+    {
+        "date": "2002-01-01",
+        "name": "EST",
+        "value": 42
+    },
+    {
+        "date": "2002-01-01",
+        "name": "FIN",
+        "value": 763
+    },
+    {
+        "date": "2002-01-01",
+        "name": "FRA",
+        "value": 1501
+    },
+    {
+        "date": "2002-01-01",
+        "name": "GBR",
+        "value": 1785
+    },
+    {
+        "date": "2002-01-01",
+        "name": "GER",
+        "value": 1521
+    },
+    {
+        "date": "2002-01-01",
+        "name": "ITA",
+        "value": 1444
+    },
+    {
+        "date": "2002-01-01",
+        "name": "JPN",
+        "value": 832
+    },
+    {
+        "date": "2002-01-01",
+        "name": "KOR",
+        "value": 565
+    },
+    {
+        "date": "2002-01-01",
+        "name": "NED",
+        "value": 920
+    },
+    {
+        "date": "2002-01-01",
+        "name": "NOR",
+        "value": 912
+    },
+    {
+        "date": "2002-01-01",
+        "name": "POL",
+        "value": 517
+    },
+    {
+        "date": "2002-01-01",
+        "name": "RUS",
+        "value": 897
+    },
+    {
+        "date": "2002-01-01",
+        "name": "SLO",
+        "value": 33
+    },
+    {
+        "date": "2002-01-01",
+        "name": "SUI",
+        "value": 598
+    },
+    {
+        "date": "2002-01-01",
+        "name": "SWE",
+        "value": 1338
+    },
+    {
+        "date": "2002-01-01",
+        "name": "USA",
+        "value": 5022
+    },
+    {
+        "date": "2006-01-01",
+        "name": "AUS",
+        "value": 1198
+    },
+    {
+        "date": "2006-01-01",
+        "name": "AUT",
+        "value": 373
+    },
+    {
+        "date": "2006-01-01",
+        "name": "BLR",
+        "value": 119
+    },
+    {
+        "date": "2006-01-01",
+        "name": "BUL",
+        "value": 339
+    },
+    {
+        "date": "2006-01-01",
+        "name": "CAN",
+        "value": 1093
+    },
+    {
+        "date": "2006-01-01",
+        "name": "CHN",
+        "value": 856
+    },
+    {
+        "date": "2006-01-01",
+        "name": "CRO",
+        "value": 121
+    },
+    {
+        "date": "2006-01-01",
+        "name": "CZE",
+        "value": 111
+    },
+    {
+        "date": "2006-01-01",
+        "name": "EST",
+        "value": 45
+    },
+    {
+        "date": "2006-01-01",
+        "name": "FIN",
+        "value": 806
+    },
+    {
+        "date": "2006-01-01",
+        "name": "FRA",
+        "value": 1516
+    },
+    {
+        "date": "2006-01-01",
+        "name": "GBR",
+        "value": 1786
+    },
+    {
+        "date": "2006-01-01",
+        "name": "GER",
+        "value": 1575
+    },
+    {
+        "date": "2006-01-01",
+        "name": "ITA",
+        "value": 1469
+    },
+    {
+        "date": "2006-01-01",
+        "name": "JPN",
+        "value": 833
+    },
+    {
+        "date": "2006-01-01",
+        "name": "KOR",
+        "value": 584
+    },
+    {
+        "date": "2006-01-01",
+        "name": "LAT",
+        "value": 21
+    },
+    {
+        "date": "2006-01-01",
+        "name": "NED",
+        "value": 933
+    },
+    {
+        "date": "2006-01-01",
+        "name": "NOR",
+        "value": 935
+    },
+    {
+        "date": "2006-01-01",
+        "name": "POL",
+        "value": 519
+    },
+    {
+        "date": "2006-01-01",
+        "name": "RUS",
+        "value": 938
+    },
+    {
+        "date": "2006-01-01",
+        "name": "SUI",
+        "value": 620
+    },
+    {
+        "date": "2006-01-01",
+        "name": "SVK",
+        "value": 35
+    },
+    {
+        "date": "2006-01-01",
+        "name": "SWE",
+        "value": 1403
+    },
+    {
+        "date": "2006-01-01",
+        "name": "UKR",
+        "value": 179
+    },
+    {
+        "date": "2006-01-01",
+        "name": "USA",
+        "value": 5075
+    },
+    {
+        "date": "2010-01-01",
+        "name": "AUS",
+        "value": 1201
+    },
+    {
+        "date": "2010-01-01",
+        "name": "AUT",
+        "value": 399
+    },
+    {
+        "date": "2010-01-01",
+        "name": "BLR",
+        "value": 122
+    },
+    {
+        "date": "2010-01-01",
+        "name": "CAN",
+        "value": 1184
+    },
+    {
+        "date": "2010-01-01",
+        "name": "CHN",
+        "value": 876
+    },
+    {
+        "date": "2010-01-01",
+        "name": "CRO",
+        "value": 124
+    },
+    {
+        "date": "2010-01-01",
+        "name": "CZE",
+        "value": 120
+    },
+    {
+        "date": "2010-01-01",
+        "name": "EST",
+        "value": 46
+    },
+    {
+        "date": "2010-01-01",
+        "name": "FIN",
+        "value": 856
+    },
+    {
+        "date": "2010-01-01",
+        "name": "FRA",
+        "value": 1530
+    },
+    {
+        "date": "2010-01-01",
+        "name": "GBR",
+        "value": 1787
+    },
+    {
+        "date": "2010-01-01",
+        "name": "GER",
+        "value": 1629
+    },
+    {
+        "date": "2010-01-01",
+        "name": "ITA",
+        "value": 1474
+    },
+    {
+        "date": "2010-01-01",
+        "name": "JPN",
+        "value": 840
+    },
+    {
+        "date": "2010-01-01",
+        "name": "KAZ",
+        "value": 55
+    },
+    {
+        "date": "2010-01-01",
+        "name": "KOR",
+        "value": 602
+    },
+    {
+        "date": "2010-01-01",
+        "name": "LAT",
+        "value": 24
+    },
+    {
+        "date": "2010-01-01",
+        "name": "NED",
+        "value": 944
+    },
+    {
+        "date": "2010-01-01",
+        "name": "NOR",
+        "value": 975
+    },
+    {
+        "date": "2010-01-01",
+        "name": "POL",
+        "value": 527
+    },
+    {
+        "date": "2010-01-01",
+        "name": "RUS",
+        "value": 963
+    },
+    {
+        "date": "2010-01-01",
+        "name": "SLO",
+        "value": 36
+    },
+    {
+        "date": "2010-01-01",
+        "name": "SUI",
+        "value": 633
+    },
+    {
+        "date": "2010-01-01",
+        "name": "SVK",
+        "value": 38
+    },
+    {
+        "date": "2010-01-01",
+        "name": "SWE",
+        "value": 1422
+    },
+    {
+        "date": "2010-01-01",
+        "name": "USA",
+        "value": 5173
+    },
+    {
+        "date": "2014-01-01",
+        "name": "AUS",
+        "value": 1204
+    },
+    {
+        "date": "2014-01-01",
+        "name": "AUT",
+        "value": 426
+    },
+    {
+        "date": "2014-01-01",
+        "name": "BLR",
+        "value": 128
+    },
+    {
+        "date": "2014-01-01",
+        "name": "CAN",
+        "value": 1274
+    },
+    {
+        "date": "2014-01-01",
+        "name": "CHN",
+        "value": 889
+    },
+    {
+        "date": "2014-01-01",
+        "name": "CRO",
+        "value": 125
+    },
+    {
+        "date": "2014-01-01",
+        "name": "CZE",
+        "value": 131
+    },
+    {
+        "date": "2014-01-01",
+        "name": "FIN",
+        "value": 890
+    },
+    {
+        "date": "2014-01-01",
+        "name": "FRA",
+        "value": 1548
+    },
+    {
+        "date": "2014-01-01",
+        "name": "GBR",
+        "value": 1799
+    },
+    {
+        "date": "2014-01-01",
+        "name": "GER",
+        "value": 1665
+    },
+    {
+        "date": "2014-01-01",
+        "name": "ITA",
+        "value": 1488
+    },
+    {
+        "date": "2014-01-01",
+        "name": "JPN",
+        "value": 851
+    },
+    {
+        "date": "2014-01-01",
+        "name": "KAZ",
+        "value": 56
+    },
+    {
+        "date": "2014-01-01",
+        "name": "KOR",
+        "value": 616
+    },
+    {
+        "date": "2014-01-01",
+        "name": "LAT",
+        "value": 35
+    },
+    {
+        "date": "2014-01-01",
+        "name": "NED",
+        "value": 973
+    },
+    {
+        "date": "2014-01-01",
+        "name": "NOR",
+        "value": 1011
+    },
+    {
+        "date": "2014-01-01",
+        "name": "POL",
+        "value": 538
+    },
+    {
+        "date": "2014-01-01",
+        "name": "RUS",
+        "value": 1031
+    },
+    {
+        "date": "2014-01-01",
+        "name": "SLO",
+        "value": 44
+    },
+    {
+        "date": "2014-01-01",
+        "name": "SUI",
+        "value": 665
+    },
+    {
+        "date": "2014-01-01",
+        "name": "SVK",
+        "value": 39
+    },
+    {
+        "date": "2014-01-01",
+        "name": "SWE",
+        "value": 1477
+    },
+    {
+        "date": "2014-01-01",
+        "name": "UKR",
+        "value": 184
+    },
+    {
+        "date": "2014-01-01",
+        "name": "USA",
+        "value": 5238
+    }
+]
