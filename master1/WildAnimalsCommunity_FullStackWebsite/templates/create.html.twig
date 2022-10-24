@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+
+{% block script %}
+{% endblock %}
+
+{% block body %}
+    
+    <h1> Créer un compte </h1>
+    <div class="form-creation">
+        <form method="post" action="index.php?o=connect&a=create" id="creation-form">
+            <div class="inputs">
+                <label for="input-email">Email : </label><input id="input-email" name="input-email" type="email" required>
+                <label for="input-name">Pseudo : </label><input id="input-name" name="input-name" type="text" required>
+                <label for="input-password">Mot de passe : </label><input id="input-password" name="input-password" type="password" required>
+            </div>
+            <input class="connect-buttons" type="submit" name="Connexion" value="Connexion">
+        </form>
+
+        <form method="post" action="index.php?o=connect&a=show" id="creation-form">
+            <div class="createAccountDiv">
+                <p>Vous possédez déjà un compte ?</p>
+                <input class="connect-buttons" type="submit" name="Connexion" value="Se connecter">
+            </div>
+        </form>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,47 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block script %}
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+
+    <script defer src="resources/JS/mapV2.js"></script>
+{% endblock %}
+
+{% block body %}
+    <h1> Carte interactive </h1>
+
+    <section id="mapContainer">
+        <div id="map"></div>
+        <nav id="filter-group" class="filter-group"></nav>
+    </section>
+
+    <section id="iconsLegend">
+        <h2> Légende </h2>
+        <div id="iconContainer">
+            <div id="iconA">
+                <img src="images/icons/60px/oiseauxIcon.png" alt="oiseaux icons">
+                <p> Oiseaux </p>
+            </div>
+            <div id="iconB">
+                <img src="images/icons/60px/mammiferesIcon.png" alt="mammiferes icons">
+                <p> Mammifères </p>
+            </div>
+            <div id="iconC">
+                <img src="images/icons/60px/reptilesIcon.png" alt="reptiles icons">
+                <p> Reptiles </p>
+            </div>
+            <div id="iconD">
+                <img src="images/icons/60px/insectesIcon.png" alt="insectes icons">
+                <p> Insectes </p>
+            </div>
+            <div id="iconE">
+                <img src="images/icons/60px/poissonsIcon.png" alt="poissons icons">
+                <p> Poissons </p>
+            </div>
+        </div>
+    </section>
+
+    
+{% endblock %}

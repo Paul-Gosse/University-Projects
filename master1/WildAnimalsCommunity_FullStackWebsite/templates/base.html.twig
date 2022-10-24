@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta http-equiv="Content-Security-Policy" content="default-src 'self' https://*.mapbox.com/ https://ajax.googleapis.com/ https://cdn.jsdelivr.net/ https://fr.wikipedia.org/ https://upload.wikimedia.org/ data: blob:; script-src 'self' https://api.mapbox.com/mapbox-gl-js/v2.3.1/ https://cdn.jsdelivr.net/ https://ajax.googleapis.com/ blob:; img-src 'self' https://upload.wikimedia.org/ data:; style-src 'self' https://api.mapbox.com/mapbox-gl-js/v2.3.1/ https://cdn.jsdelivr.net/ https://ajax.googleapis.com/; ">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>{% block title %}{% endblock %}</title>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="resources/skin.css">
+
+		{% block script %}
+		{% endblock %}
+
+		<script defer src="resources/JS/script.js"></script>
+	</head>
+	<body>
+		<header>
+			<nav id="top-bar">
+				<ul>
+					<li id=mobile-title><a href="index.php">Accueil</a></li>
+					<li><a href="index.php">Accueil</a></li>
+					<li><a href="index.php?o=upload&a=show">Ajout d'animaux</a></li>
+					<li><a href="index.php?o=listEdit&a=show">Galerie</a></li>
+					{% if connectionInfo.connectionState == false %}
+					<li><a href="index.php?o=connect&a=show">Connexion</a></li>
+					{% else %}
+					<li><a href="index.php?o=connect&a=show">Mon compte</a></li>
+					{% endif %}
+					<li id=dropdown-btn><img src="resources/icons/bars.png" alt="dropdown icon"></li>
+				</ul>
+			</nav>
+			<nav id="mobile-menu-bar">
+				<ul>
+					<li><a href="index.php?o=upload&a=show">Ajout d'animaux</a></li>
+					<li><a href="index.php?o=listEdit&a=show">Galerie</a></li>
+					{% if connectionInfo.connectionState == false %}
+					<li><a href="index.php?o=connect&a=show">Connexion</a></li>
+					{% else %}
+					<li><a href="index.php?o=connect&a=show">Mon compte</a></li>
+					{% endif %}
+				</ul>
+			</nav>
+		</header>
+
+		{% block popup %}
+			{% if message.text != "RAS" %}
+				{% if message.type == "warning" %}
+					<div class="pop-up pop-up-warning"> {{ message.text }}</div>
+				{% else %}
+					<div class="pop-up pop-up-validation"> {{ message.text }}</div>
+				{% endif %}
+			{% endif %}
+		{% endblock %}
+
+		<noscript> {# Si l'utilisateur n'utilise pas JS, il peut quand même utiliser la majorité du site #}
+			<h4> Veuillez activer JavaScript pour profiter pleinement de l'expérience.</h4>
+		</noscript>
+
+		{% block body %}  {# ici on laisse les templates qui extends cette base remplir le body#}
+		{% endblock %}
+
+	</body>
+</html>

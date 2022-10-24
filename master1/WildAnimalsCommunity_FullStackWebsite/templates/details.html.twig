@@ -1,0 +1,73 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block script %}
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+    <script defer src="resources/JS/map.js"></script>
+{% endblock %}
+
+{% block body %}
+
+    {% for data in data_db %}
+        <h1>{{data.nom}}</h1>
+
+        <div id="container-5">
+            {% if  data.wikilink == null %}
+                <img id="image_dl" name="image_dl" src="data:image/jpeg;base64,{{filedata}}" width="auto" height="500" loading="lazy">
+            {% else %}
+                <img id="image_dl" name="image_dl" src="{{data.wikilink}}" width="auto" height="500">
+            {% endif %}
+        </div>
+        <div id="container-6">
+            {{data.description}}
+        </div>
+        <div id="container-7">
+            <h2> Localisation </h2>
+            <div id="labelsLngLat">
+                <label for="Longitude">Longitude :
+                    <input type="text" id="Longitude" name="longitude" value="{{data.longitude}}" readonly>
+                </label>
+                <label for="Latitude">Latitude :
+                    <input type="text" id="Latitude" name="latitude" value="{{data.latitude}}" readonly>
+                </label>
+            </div>
+            <div id="map"></div>
+        </div>
+        <div class="ecrire-commentaire">
+            <form id="form-commentary" method="POST" action="index.php?o=details&a=writeCommentary">
+                <input type="hidden" name="id" value="{{data.id}}">
+                <textarea class='coms' name="content" placeholder="Ecrire votre commentaire" required></textarea>
+                <button class='submit-coms' type="submit" name="commentarySubmit">Soumettre le commentaire</button>
+            </form>
+        </div>
+        <div class="commentsList">
+            <h3 class="total">{{ numberComments }} commentaires </span>
+        </div>
+        {% for comment in comments %}
+            <div class='placement'>
+                <div class='op'>
+                    <div class='left'>
+                        <h3 class="name">{{comment.name}}</h3>
+                    </div>
+                    <div class='right'>
+                        {% if comment.name == currentUser %}
+                            <form id='form_remove' action ='?o=details&a=show&id={{data.id}}' method='POST'>
+                                <input class='edit_remove' id='input_remove' type='submit' name='remove' value='Supprimer' src='./ressources/trash-2-48.png'>
+                                <input type="hidden" name='remove' value='{{comment.id}}'>
+                            </form>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class='text'>
+                    <p class="text">{{comment.content}}</p>
+                </div>
+                    <div class='date'>
+                    <span class="date">{{comment.submit_date}}</span>
+                </div>
+            </div>
+        {% endfor %}
+    {% endfor %}
+
+{% endblock %}

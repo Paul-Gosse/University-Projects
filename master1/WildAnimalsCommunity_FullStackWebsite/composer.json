@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^3.3",
+        "guzzlehttp/guzzle": "^7.0",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}

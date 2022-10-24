@@ -1,0 +1,49 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+
+{% block script %}
+{% endblock %}
+
+{% block body %}
+    
+    {% if connectionInfo.connectionState == false %}
+    <h1> Connexion </h1>
+    <div class="form-connexion">
+        <form method="post" action="index.php?o=connect&a=verify" id="connexion-form">
+            <div class="inputs">
+                <label for="input-name">Pseudo : </label><input id="input-name" name="input-name" type="text" required>
+                <label for="input-password">Mot de passe : </label><input id="input-password" name="input-password" type="password" required>
+            </div>
+            <input class="connect-buttons" type="submit" name="Connexion" value="Connexion">
+        </form>
+
+        <form method="post" action="index.php?o=connect&a=show" id="creation-form">
+            <div class="createAccountDiv">
+                <p>Vous ne possédez pas encore de compte?</p>
+                <input class="connect-buttons" type="submit" name="Creation" value="Créer un compte">
+            </div>
+        </form>
+    </div>
+
+    {% else %}    
+    <h1> Mon compte </h1>
+    <div class="form-infos">
+        <div class="infosUsers">
+            <h4>Nom : {{ connectionInfo.username }} </h4>
+        </div>
+        <form method="post" action="index.php?o=connect&a=disconnect" id="connexion-form">
+            <input class="connect-buttons" type="submit" name="Connexion" value="Déconnexion">
+        </form>
+        <form method="post" action="index.php?o=connect&a=changePassword" id="pswd-form">
+            <div class="inputs">
+                <label for="input-old-password">Ancien mot de passe : </label><input id="input-old-password" name="input-old-password" type="password" required>
+                <label for="input-new-password">Nouveau mot de passe : </label><input id="input-new-password" name="input-new-password" type="password" required>
+            </div>
+            <input class="connect-buttons" type="submit" name="Modify" value="Changer le mot de passe">
+        </form>
+    </div>
+    {% endif %}
+
+{% endblock %}

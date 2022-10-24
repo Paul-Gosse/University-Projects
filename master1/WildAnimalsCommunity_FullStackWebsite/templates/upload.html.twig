@@ -1,0 +1,104 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+
+{% block script %}
+    <script defer src="resources/JS/uploadWorker.js"></script>
+    <script defer src="resources/JS/upload.js"></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+    <script defer src="resources/JS/map.js"></script>
+    <script defer src="resources/JS/utilities.js"></script>
+    <script defer src="resources/JS/hideandshow.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+{% endblock %}
+
+{% block body %}
+    <h1> Upload d'un animal </h1>
+
+    <h3 class="h3Title"> Tous les champs marqués d'un <span class="mandatory">*</span> sont obligatoires. </h3>
+
+    <form enctype='multipart/form-data' method="POST" action="index.php?o=upload&a=insertAnimal" id="form" name="formulaire">
+        <div class="uploadContainer">
+            <div id="container-1">
+                <h2> Nom de l'animal <span class="mandatory">*</span> </h2>
+                <div id="sortingLinks">
+                    <label for="name">Nom de l'animal <span class="mandatory">*</span> :
+                        <input type="text" id="name" name="name" required >
+                    </label>
+                </div>
+
+                <div id="links">
+                    <div id="scrappingWiki"></div>
+                </div>
+            </div>
+            <div id="container-2">
+                <h2> Description de l'animal </h2>
+                <div id="descriptionCheckbox">
+                    <label for="scrapDescription"> <input type="checkbox" id="scrapDescription" name="scrapDescription" value="descriptionScrapped"> Récupérer description depuis Wikipédia </label>
+                    <label for="ownDescription"> <input type="checkbox" id="ownDescription" name="ownDescription" value="ownedDescription"> Ecrire sa propre description </label>
+                </div>
+
+                <div id="desc">
+                    <fieldset id="fieldsetDescription">
+                    <legend for="description">Description</legend>
+                        <textarea rows="10" cols="50" id="description" name="description" ></textarea>
+                    </fieldset>
+                </div>
+            </div>
+            <div id="container-3">
+                <h2> Image de l'animal </h2>
+                <div id="imgCheckbox">
+                    <label for="scrapImage"> <input type="checkbox" id="scrapImage" name="scrapImage" value="imgScrapped"> Récupérer image depuis Wikipédia </label>
+                    <label for="ownImage"> <input type="checkbox" id="ownImage" name="ownImage" value="ownedImage"> Importer sa propre image </label>
+                </div>
+
+                <div id="dragNdropArea">
+                    <h3 class="h3Modif"> Insérer une image </h3>
+                    <label id="uploadLabel" class="uploadButton" for="uploadMultiple">ou cliquez-moi pour déposer vos images !</label>
+                    <input type="file" name="file[]" id="uploadMultiple" accept="image/*" class="hidden">
+                    <div id="imageZone" class="hidden"></div>
+                </div>
+            </div>
+
+            <div id="container-4">
+                <h2> Catégorie de l'animal <span class="mandatory">*</span> </h2>
+                <div id="selection">
+                    <label for="categorie-select">Catégorie <span class="mandatory">*</span> :
+                    <select name="categorie" id="categorie-select" required>
+                        <option value="">-- Choose an option --</option>
+                        <option value="Oiseaux">Oiseaux</option>
+                        <option value="Mammifères">Mammifères</option>
+                        <option value="Reptiles">Reptiles</option>
+                        <option value="Insectes">Insectes</option>
+                        <option value="Poissons">Poissons</option>
+                    </select>
+                    </label>
+                    <div id="selectedCategory"></div>
+                </div>
+            </div>
+        </div>
+        <div id="container-5">
+            <h2> Placement des coordonnées <span class="mandatory">*</span> </h2>
+            <div id="getCoord">
+                <button id="getgpscoord" name="getgpscoord">Récupérer les coordonnées GPS depuis l'image</button>
+                <div id="coordFound"></div>
+            </div>
+            <div id="labelsLngLat">
+                <label for="Longitude">Longitude <span class="mandatory">*</span> :
+                    <input type="text" id="Longitude" name="longitude" value="2.0" required readonly>
+                </label>
+                <label for="Latitude">Latitude <span class="mandatory">*</span> :
+                    <input type="text" id="Latitude" name="latitude" value="46.60" required readonly>
+                </label>
+            </div>
+            <div id="map"></div>
+            <input type="submit" class="submitButton" id="submitButton" name="submitButton">
+            <br>
+            <div id="progressBarContainer" class="hidden">
+                <div id="progressBar">0%</div>
+            </div>
+        </div>
+    </form>
+{% endblock %}

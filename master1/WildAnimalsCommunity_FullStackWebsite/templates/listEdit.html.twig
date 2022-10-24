@@ -1,0 +1,111 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+
+{% block script %}
+{% endblock %}
+
+{% block body %}
+    <div class="liste-animals">
+        <h1> Modification des animaux </h1>
+        <div class="sort-animals">
+            <form id='form-sort' action="?o=listEdit&a=show" method='POST'>
+                <select name="sort" id="cat-select">
+                {% if post.sort == 'noSort' %}
+                    <option value="noSort" selected>Sort by: no sort</option>
+                {% else %} 
+                    <option value="noSort">Sort by: no sort</option>
+                {% endif %}
+
+                {% if post.sort == 'Mammifères' %}
+                    <option value="Mammifères" selected>Mammifères</option>
+                {% else %} 
+                    <option value="Mammifères">Mammifères</option>
+                {% endif %}
+
+                {% if post.sort == 'Oiseaux' %}
+                    <option value="Oiseaux" selected>Oiseaux</option>
+                {% else %} 
+                    <option value="Oiseaux">Oiseaux</option>
+                {% endif %}
+
+                {% if post.sort == 'Reptiles' %}
+                    <option value="Reptiles" selected>Reptiles</option>
+                {% else %} 
+                    <option value="Reptiles">Reptiles</option>
+                {% endif %}
+
+                {% if post.sort == 'Insectes' %}
+                    <option value="Insectes" selected>Insectes</option>
+                {% else %} 
+                    <option value="Insectes">Insectes</option>
+                {% endif %}
+
+                {% if post.sort == 'Poissons' %}
+                    <option value="Poissons" selected>Poissons</option>
+                {% else %} 
+                    <option value="Poissons">Poissons</option>
+                {% endif %}
+                </select>
+                <button class='submit-sort' id='submit-sort' type="submit" name="submit-sort">Trier</button>
+            </form>
+        </div>
+        <div class="each-animals">
+            {% if  (post.sort == null) or (post.sort == 'noSort')  %}
+                {% for image in image_db %}
+                    <div class="container">
+                        {% if  image.wikilink == null %}
+                            <img src="data:image/jpeg;base64,{{image.file_data}}" class="image-animal" width="auto" height="300">
+                        {% else %}
+                            <img src="{{image.wikilink}}" class="image-animal" width="auto" height="300" loading="lazy">
+                        {% endif %}
+                        <p class="title">{{image.nom}}</p>
+                        <div class="overlay"></div>
+                        <div class="button">
+                            <form id='form_details' action ='?o=details&a=show&id={{image.id}}' method='POST'>
+                                <input class='edit_remove2' id='button_details' type='submit' name='details' value='Voir les détails'>
+                            </form>
+
+                            <form id='form_edit' action ='?o=edit&a=show&id={{image.id}}' method='POST'>
+                                <button class='edit_remove2' id='button_edit' type='submit' name='edit' >Modifier</button>
+                            </form>
+
+                            <form id='form_remove' action ='?o=listEdit&a=show' method='POST'>
+                                <input class='edit_remove2' id='input_remove' type='submit' name='remove' value='Supprimer'>
+                                <input type="hidden" name='remove' value='{{image.id}}'>
+                            </form>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% else %} 
+                {% for image2 in image_db_order %}
+                    <div class="container">
+                        {% if  image2.wikilink == null %}
+                            <img src="data:image/jpeg;base64,{{image2.file_data}}" class="image-animal" width="auto" height="300" loading="lazy">
+                        {% else %}    
+                            <embed src="{{image2.wikilink}}" class="image-animal" width="auto" height="300">
+                        {% endif %}
+                        <p class="title">{{image2.nom}}</p>
+                        <div class="overlay"></div>
+                        <div class="button">
+                            <form id='form_details' action ='?o=details&a=show&id={{image.id}}' method='POST'>
+                                <input class='edit_remove2' id='button_details' type='submit' name='details' value='Voir les détails'>
+                            </form>
+
+                            <form id='form_edit' action ='?o=edit&a=show&id={{image2.id}}' method='POST'>
+                                <button class='edit_remove2' id='button_edit' type='submit' name='edit' >Modifier</button>
+                            </form>
+
+                            <form id='form_remove' action ='?o=listEdit&a=show' method='POST'>
+                                <input class='edit_remove2' id='input_remove' type='submit' name='remove' value='Supprimer'>
+                                <input type="hidden" name='remove' value='{{image.id}}'>
+                            </form>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+
+{% endblock %}
