@@ -4,19 +4,19 @@
 | ----------- | ------------------ |
 | 2020 - 2021 | University of Caen |
 
-### Objectif / Objective
+## Objectif / Objective
 
 Réaliser une calculette qui saurait résoudre des maths tels que soustraction, addition, etc ... Mais également des fonctions plus complexes tels que des fonctions du premier et second degré.
 
 Develop a calculator that could solve maths such as subtraction, addition, etc... But also more complex functions such as first and second degree functions.
 
-### Prérequis / Requirements
+## Prérequis / Requirements
 
 - MVaP
 - G4
 - antlr
 
-### Usage / Usage
+## Usage / Usage
 
 ```bash
     # You could probably need to export the necessary export
