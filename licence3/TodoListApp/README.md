@@ -6,9 +6,9 @@
 
 ## Objectif / Objective
 
-Réaliser une application en VueJS d'une todoList.
+Réaliser une application en VueJS d'une to-do list.
 
-Create a VueJS application of a todoList.
+Realize an application in VueJS from a to-do list.
 
 ## Prérequis / Requirements
 
@@ -17,10 +17,10 @@ Create a VueJS application of a todoList.
 
 ## Usage / Usage
 
-Si jamais vous avez des soucis pour le run placez vous dans ~/dev_mobile_projet/todolist/
+Si jamais vous avez des soucis pour le run placez vous dans ~/dev_mobile_projet/todolist/  
 Et exécuter la commande suivante.
 
-If you have troubles to run, go to ~/dev_mobile_project/todolist/
+If you have troubles to run, go to ~/dev_mobile_project/todolist/  
 And run the following command
 
 ```bash

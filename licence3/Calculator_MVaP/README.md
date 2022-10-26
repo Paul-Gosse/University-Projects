@@ -6,9 +6,9 @@
 
 ## Objectif / Objective
 
-Réaliser une calculette qui saurait résoudre des maths tels que soustraction, addition, etc ... Mais également des fonctions plus complexes tels que des fonctions du premier et second degré.
+Réaliser une calculette qui saurait résoudre des problèmes mathématiques tels que la soustraction, l'addition, etc. ainsi que des problèmes plus complexes telles que des fonctions du premier et second degré.
 
-Develop a calculator that could solve maths such as subtraction, addition, etc... But also more complex functions such as first and second degree functions.
+Make a calculator that can solve mathematical problems such as subtraction, addition, etc. as well as more complex problems such as first and second degree functions.
 
 ## Prérequis / Requirements
 

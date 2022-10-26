@@ -6,9 +6,9 @@
 
 ## Objectif / Objective
 
-Proposer une analyse structurée de 4 pages en y intégrant graphiques et tableaux. En analysant des données concernant un fleuve `La Touques`.
+Proposer une analyse structurée de 4 pages en y intégrant des graphiques et des tableaux, suite à une analyse des données concernant un fleuve `La Touques`.
 
-Propose a structured analysis of 4 pages by integrating graphs and tables. By analyzing data concerning a river `La Touques`.
+Propose a structured analysis of 4 pages by integrating graphs and tables, following an analysis of data concerning a river `La Touques`.
 
 ## Liens / Links
 

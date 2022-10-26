@@ -6,15 +6,17 @@
 
 ## Objectif / Objective
 
-Réaliser un site web en faisant le back en PHP et en utilisant une base de données MySQL.
+Réaliser un site web en faisant la partie back-end en PHP et en utilisant une base de données MySQL.
 
 We had to make a website by doing the back in PHP and using a MySQL database.
 
 ## Exécution / Execution
 
-Nous avons décidé de réalisé un site recensant les prix nobels dans plusieurs domaines. Pour l'utilisateur, il y a la possibilité d'insérer un prix nobel, de voir les prix nobles que l'on a insérer qui sont liés au compte de connexion et de voir tout les prix nobels et de pouvoir les trier.
+Nous avons décidé de réalisé un site recensant les prix Nobel dans plusieurs domaines.  
+L'utilisateur a la possibilité d'ajouter un prix Nobel ; de voir les prix Nobel qui étaient déjà enregistrés dans la base de données et qui sont liés au compte de connexion ; de voir tout les prix Nobel et de pouvoir les trier.
 
-We decided to create a site listing the Nobel Prizes in several areas. For the user, there is the possibility of inserting a nobel prize, of seeing the noble prizes that have been inserted which are linked to the connection account and of seeing all the nobel prizes and being able to sort them.
+We decided to create a site listing the Nobel Prizes in several fields.  
+The user has the option to add a Nobel Prize; to see the Nobel Prizes that were already registered in the database and that are linked to the login account; to see all the Nobel Prizes and to be able to sort them.
 
 ## Prérequis / Requirements
 

@@ -6,9 +6,9 @@
 
 ## Objectif / Objective
 
-Réaliser un site web (front-end) en HTML / CSS avec comme thème imposé `Les Animaux fantastiques`
+Réaliser un site web (front-end) en HTML / CSS avec comme thème imposé : `Les Animaux fantastiques`
 
-Develop a website (front-end) in HTML / CSS with the imposed theme `Fantastic Animals`
+Develop a website (front-end) in HTML / CSS with the imposed theme : `Fantastic Animals`
 
 ## Démonstration / Demonstration
 

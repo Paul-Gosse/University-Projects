@@ -6,15 +6,17 @@
 
 ## Objectif / Objective
 
-Réaliser une application logicielle complète parmis plusieurs choix proposés.
+Réaliser une application logicielle complète parmis certains thèmes.
 
-Realize a complete software application among several choices offered.
+Realize a complete software application among certain themes.
 
 ## Exécution / Execution
 
-Nous avons choisis le sujet `Simulateur pour N corps`. Il fallait donc prendre en compte les forces physiques et mécanique telles que l'inertie, l'attraction, la vitesse, le poids. Le but de ce projet est dans un premier de simuler un espace newtonien ou N corps interagissent et visualiser cette simulation.
+Nous avons choisis `Simulateur pour N corps`. Il fallait donc prendre en compte les forces physiques et mécanique telles que l'inertie, l'attraction, la vitesse, le poids.  
+Le but de ce projet est dans un premier de simuler un espace newtonien où N corps intéragissent et visualiser cette simulation.
 
-We chose the topic `N-Body problem`. It was therefore necessary to take into account the physical and mechanical forces such as inertia, attraction, speed, weight. The goal of this project is initially to simulate a Newtonian space where N bodies interact and to visualize this simulation.
+We have chosen `Simulator for N bodies`. It was therefore necessary to take into account the physical and mechanical forces such as inertia, attraction, speed, weight.  
+The goal of this project is initially to simulate a Newtonian space where N bodies interact and visualize this simulation.
 
 ## Liens / Links
 
