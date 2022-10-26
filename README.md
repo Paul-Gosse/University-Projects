@@ -11,7 +11,7 @@
 - [FantasticAnimals_FrontEndWebsite](/licence1/FantasticAnimals_FrontEndWebsite) `HTML / CSS`
 - [TetrisMods](/licence1/TetrisMods) `Python`
 
-## [Licence 2 - Informatique (Sécurité) equivalent to BSC in Security](/licence2)
+## [Licence 2 - Informatique en Sécurité equivalent to BSC in Security](/licence2)
 
 - [NBodyProblem](/licence2/NBodyProblem) `Java`
 - [Taquin](/licence2/Taquin) `Java`
