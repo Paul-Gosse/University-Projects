@@ -1,8 +1,8 @@
 # Projets universitaires / University Projects
 
-- Ces projets ne sont pas publiés à but d'être éxecutés mais simplement visionner pour mon dossier étudiant. Et me permet de former mon portfolio.
+- Ces projets ne sont pas publiés à but d'êtres éxecutés mais simplement visionné pour mon dossier étudiant. Cela me permet de former mon portfolio.
 
-- These projects are not published in order to be executed but simply to view for my student file. And allows me to form my portfolio.
+- These projects are not published in order to be executed but simply to view for my student file. It allows me to form my portfolio.
 
 ### Voici quelques projets que j'ai développé au cours de mes années à la faculté de Caen / Here are some projects that I developed during my years at the faculty of Caen
 
